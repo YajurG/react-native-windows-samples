@@ -15,7 +15,7 @@ A `node` test runner is the first choice since we started the investigation for 
 
 There is not existing example we can follow to setup E2E testing on Windows for React Native, and I spent weeks to investigate, test and prototype for our E2E. Hereafter I explain what kind of decisions I made and why I made these decisions
 
-![Technical Decision](assets/technical-decision.png)
+![Technical Decision](../../../docs/assets/technical-decision.png)
 
 #### Why WinAppDriver
 
@@ -46,7 +46,7 @@ WebdriverIO comes with its own test runner @wdio/cli. It simplified the steps fo
 
 Below chart explains how different libraries are linked together when wdio command is launched. Appium or WinAppDriver are running in separate processes, and WebDriverIo talks to them by [W3C WebDriver protocol](https://w3c.github.io/webdriver/).
 
-![wdioInternalDependencies](assets/wdio-internal-dependencies.png)
+![wdioInternalDependencies]
 
 ## WinAppDriver
 
@@ -55,9 +55,9 @@ WinAppDriver talks to TestApp by [UIA](https://docs.microsoft.com/en-us/windows/
 There are two possible setup in dev environment based on with/without appium:
 
 - Option 1
-  ![SetupOptions1](assets/setup-options-1.png)
+  ![SetupOptions1](../../../docs/assets/setup-options-1.png)
 - Option 2
-  ![SetupOptions1](assets/setup-options-2.png)
+  ![SetupOptions1](../../../docs/assets/setup-options-2.png)
 
 Option 1 is recommended and implemented by default. Appium and WinAppDriver are launched before spec is executed and they are killed after the spec is finished.
 
@@ -213,7 +213,7 @@ Below configuration lets the framework launch/kill appium automatically during t
 
 But the log like below is not that readable because it has a lot of control characters which is used by terminal.
 
-![Bad Readability](assets/bad-readability.png)
+![Bad Readability](../../../docs/assets/bad-readability.png)
 
 You could get nice output if you launch the appium by yourself:
 

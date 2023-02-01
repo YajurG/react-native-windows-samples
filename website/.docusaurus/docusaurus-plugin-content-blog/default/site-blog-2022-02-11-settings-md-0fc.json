@@ -1,0 +1,33 @@
+{
+  "permalink": "/react-native-windows/blog/2022/02/11/settings",
+  "source": "@site/blog/2022-02-11-settings.md",
+  "title": "React Native for Windows is helping Settings improve more quickly",
+  "description": "React Native for Windows is helping Settings improve more quickly",
+  "date": "2022-02-11T00:00:00.000Z",
+  "formattedDate": "February 11, 2022",
+  "tags": [],
+  "readingTime": 4.63,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Steven Moyes, Alexander Sklar",
+      "url": "https://twitter.com/ReactNativeMSFT"
+    }
+  ],
+  "frontMatter": {
+    "title": "React Native for Windows is helping Settings improve more quickly",
+    "author": "Steven Moyes, Alexander Sklar",
+    "authorURL": "https://twitter.com/ReactNativeMSFT",
+    "description": "React Native for Windows is helping Settings improve more quickly",
+    "is_blog": true,
+    "published_date": "February 11, 2022"
+  },
+  "prevItem": {
+    "title": "Calling Windows APIs from React Native just got easier",
+    "permalink": "/react-native-windows/blog/2022/02/11/rnwinrt"
+  },
+  "nextItem": {
+    "title": "Use Win32 features from a React Native for Windows application",
+    "permalink": "/react-native-windows/blog/2021/08/05/win32component"
+  }
+}

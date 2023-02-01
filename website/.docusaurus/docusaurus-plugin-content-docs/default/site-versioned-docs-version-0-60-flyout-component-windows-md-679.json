@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.60-flyout-component",
+  "id": "version-0.60/version-0.60-flyout-component",
+  "title": "Flyout",
+  "description": "Props",
+  "source": "@site/versioned_docs/version-0.60/flyout-component-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.60-flyout-component",
+  "permalink": "/react-native-windows/docs/0.60/version-0.60-flyout-component",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.60/flyout-component-windows.md",
+  "tags": [],
+  "version": "0.60",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.60-flyout-component",
+    "title": "Flyout",
+    "original_id": "flyout-component"
+  }
+}

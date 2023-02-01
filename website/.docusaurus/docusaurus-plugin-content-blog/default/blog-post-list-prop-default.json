@@ -1,0 +1,25 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Streamlining app creation with React Native for Windows CoreApp",
+      "permalink": "/react-native-windows/blog/2022/07/29/coreapp"
+    },
+    {
+      "title": "Calling Windows APIs from React Native just got easier",
+      "permalink": "/react-native-windows/blog/2022/02/11/rnwinrt"
+    },
+    {
+      "title": "React Native for Windows is helping Settings improve more quickly",
+      "permalink": "/react-native-windows/blog/2022/02/11/settings"
+    },
+    {
+      "title": "Use Win32 features from a React Native for Windows application",
+      "permalink": "/react-native-windows/blog/2021/08/05/win32component"
+    },
+    {
+      "title": "Add Toast notifications to your React Native for Windows application",
+      "permalink": "/react-native-windows/blog/2021/06/30/notifications"
+    }
+  ]
+}

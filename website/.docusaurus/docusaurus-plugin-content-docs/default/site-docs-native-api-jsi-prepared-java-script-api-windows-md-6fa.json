@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/JsiPreparedJavaScript",
+  "id": "native-api/JsiPreparedJavaScript",
+  "title": "JsiPreparedJavaScript",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/JsiPreparedJavaScript-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/JsiPreparedJavaScript",
+  "permalink": "/react-native-windows/docs/next/native-api/JsiPreparedJavaScript",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/JsiPreparedJavaScript-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "JsiPreparedJavaScript",
+    "title": "JsiPreparedJavaScript"
+  }
+}

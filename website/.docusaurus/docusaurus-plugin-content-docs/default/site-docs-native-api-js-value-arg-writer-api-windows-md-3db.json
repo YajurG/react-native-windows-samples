@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/JSValueArgWriter",
+  "id": "native-api/JSValueArgWriter",
+  "title": "JSValueArgWriter",
+  "description": "Kind: delegate",
+  "source": "@site/../docs/native-api/JSValueArgWriter-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/JSValueArgWriter",
+  "permalink": "/react-native-windows/docs/next/native-api/JSValueArgWriter",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/JSValueArgWriter-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "JSValueArgWriter",
+    "title": "JSValueArgWriter"
+  }
+}

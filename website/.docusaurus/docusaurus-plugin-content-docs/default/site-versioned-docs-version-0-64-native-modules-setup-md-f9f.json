@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.64-native-modules-setup",
+  "id": "version-0.64/version-0.64-native-modules-setup",
+  "title": "Native Module Setup",
+  "description": "This documentation is a work in progress and version-specific. Please check that the version of this document (top of page) matches the version of RN/RNW you're targeting.",
+  "source": "@site/versioned_docs/version-0.64/native-modules-setup.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.64-native-modules-setup",
+  "permalink": "/react-native-windows/docs/0.64/version-0.64-native-modules-setup",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.64/native-modules-setup.md",
+  "tags": [],
+  "version": "0.64",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.64-native-modules-setup",
+    "title": "Native Module Setup",
+    "original_id": "native-modules-setup"
+  }
+}

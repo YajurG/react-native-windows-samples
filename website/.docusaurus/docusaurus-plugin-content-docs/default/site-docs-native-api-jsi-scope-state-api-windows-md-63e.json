@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/JsiScopeState",
+  "id": "native-api/JsiScopeState",
+  "title": "JsiScopeState",
+  "description": "Kind: struct",
+  "source": "@site/../docs/native-api/JsiScopeState-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/JsiScopeState",
+  "permalink": "/react-native-windows/docs/next/native-api/JsiScopeState",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/JsiScopeState-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "JsiScopeState",
+    "title": "JsiScopeState"
+  }
+}

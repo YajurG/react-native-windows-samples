@@ -1,0 +1,30 @@
+{
+  "unversionedId": "config",
+  "id": "config",
+  "title": "React Native Config Schema",
+  "description": "The CLI command npx react-native config outputs project and dependencies configuration in JSON format to stdout.",
+  "source": "@site/../docs/config.md",
+  "sourceDirName": ".",
+  "slug": "/config",
+  "permalink": "/react-native-windows/docs/next/config",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/config.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "config",
+    "title": "React Native Config Schema"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "React Native Windows Components and APIs",
+    "permalink": "/react-native-windows/docs/next/parity-status"
+  },
+  "next": {
+    "title": "Using PlatformColor and Responding to Themes",
+    "permalink": "/react-native-windows/docs/next/windowsbrush-and-theme"
+  }
+}

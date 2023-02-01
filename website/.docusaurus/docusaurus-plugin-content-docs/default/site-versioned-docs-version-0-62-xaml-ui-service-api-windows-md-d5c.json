@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.62-xamluiservice-api",
+  "id": "version-0.62/version-0.62-xamluiservice-api",
+  "title": "XamlUIService",
+  "description": "XamlUIService provides access to XAML UI specific functionality.  It provides access to APIs to get a XAML element from a react tag, and to dispatch events to JS components.",
+  "source": "@site/versioned_docs/version-0.62/XamlUIService-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.62-xamluiservice-api",
+  "permalink": "/react-native-windows/docs/0.62/version-0.62-xamluiservice-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.62/XamlUIService-api-windows.md",
+  "tags": [],
+  "version": "0.62",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.62-xamluiservice-api",
+    "title": "XamlUIService",
+    "original_id": "xamluiservice-api"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-modules-setup",
+  "id": "native-modules-setup",
+  "title": "Native Module Setup",
+  "description": "This documentation is a work in progress and version-specific. Please check that the version of this document (top of page) matches the version of RN/RNW you're targeting.",
+  "source": "@site/../docs/native-modules-setup.md",
+  "sourceDirName": ".",
+  "slug": "/native-modules-setup",
+  "permalink": "/react-native-windows/docs/next/native-modules-setup",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-modules-setup.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "native-modules-setup",
+    "title": "Native Module Setup"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Native UI Components",
+    "permalink": "/react-native-windows/docs/next/view-managers"
+  },
+  "next": {
+    "title": "Native Modules vs Turbo Modules",
+    "permalink": "/react-native-windows/docs/next/native-modules-vs-turbo-modules"
+  }
+}

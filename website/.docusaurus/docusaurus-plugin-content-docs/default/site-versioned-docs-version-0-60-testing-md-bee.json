@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.60-testing",
+  "id": "version-0.60/version-0.60-testing",
+  "title": "Testing React-Native-Windows",
+  "description": "When contributing to this project, unit and integration tests should be run to help prevent new bugs and regressions.",
+  "source": "@site/versioned_docs/version-0.60/testing.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.60-testing",
+  "permalink": "/react-native-windows/docs/0.60/version-0.60-testing",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.60/testing.md",
+  "tags": [],
+  "version": "0.60",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.60-testing",
+    "title": "Testing React-Native-Windows",
+    "original_id": "testing"
+  }
+}

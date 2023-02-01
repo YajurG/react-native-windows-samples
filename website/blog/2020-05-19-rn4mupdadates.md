@@ -1,7 +1,7 @@
 ---
 title: "Announcing React Native for macOS and more"
 author: Kiki Saintonge
-authorURL: http://twitter.com/KikiSaintonge
+authorURL: "http://twitter.com/KikiSaintonge"
 description: "We're on React Native core version 0.62 with new community modules, native module support across multiple platforms, and of course our official public release of React Native for macOS."
 is_blog: true
 published_date: May 19, 2020

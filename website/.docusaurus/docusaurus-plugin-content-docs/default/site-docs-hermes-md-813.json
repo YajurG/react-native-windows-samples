@@ -1,0 +1,30 @@
+{
+  "unversionedId": "hermes",
+  "id": "hermes",
+  "title": "Hermes on Windows + macOS",
+  "description": "The Hermes engine is an open source JavaScript engine created by Facebook to optimize building and running React Native applications.",
+  "source": "@site/../docs/hermes.md",
+  "sourceDirName": ".",
+  "slug": "/hermes",
+  "permalink": "/react-native-windows/docs/next/hermes",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/hermes.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "hermes",
+    "title": "Hermes on Windows + macOS"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Metro config for out of tree platforms",
+    "permalink": "/react-native-windows/docs/next/metro-config-out-tree-platforms"
+  },
+  "next": {
+    "title": "Using react-native-windows NuGet packages",
+    "permalink": "/react-native-windows/docs/next/NuGet"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "upgrade-app",
+  "id": "upgrade-app",
+  "title": "Upgrading App to Latest Version of React Native Windows",
+  "description": "Upgrading A React Native Windows App",
+  "source": "@site/../docs/upgrade-app.md",
+  "sourceDirName": ".",
+  "slug": "/upgrade-app",
+  "permalink": "/react-native-windows/docs/next/upgrade-app",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/upgrade-app.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "upgrade-app",
+    "title": "Upgrading App to Latest Version of React Native Windows"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Platform Detection",
+    "permalink": "/react-native-windows/docs/next/platform"
+  },
+  "next": {
+    "title": "Setup Continuous Integration Pipeline for an RNW App",
+    "permalink": "/react-native-windows/docs/next/setup-ci"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/JsiError",
+  "id": "native-api/JsiError",
+  "title": "JsiError",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/JsiError-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/JsiError",
+  "permalink": "/react-native-windows/docs/next/native-api/JsiError",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/JsiError-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "JsiError",
+    "title": "JsiError"
+  }
+}

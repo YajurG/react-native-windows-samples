@@ -1,0 +1,33 @@
+{
+  "permalink": "/react-native-windows/blog/2020/09/02/63updates",
+  "source": "@site/blog/2020-09-02-63updates.md",
+  "title": "Windows & macOS version 0.63 updates, Hermes, and more",
+  "description": "React Native for Windows is now on a 0.63 stable release with React Native core, lighting up some fun new APIs",
+  "date": "2020-09-02T00:00:00.000Z",
+  "formattedDate": "September 2, 2020",
+  "tags": [],
+  "readingTime": 4.6,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Kiki Saintonge, Harini Kannan, Steven Moyes",
+      "url": "https://twitter.com/ReactNativeMSFT"
+    }
+  ],
+  "frontMatter": {
+    "title": "Windows & macOS version 0.63 updates, Hermes, and more",
+    "author": "Kiki Saintonge, Harini Kannan, Steven Moyes",
+    "authorURL": "https://twitter.com/ReactNativeMSFT",
+    "description": "React Native for Windows is now on a 0.63 stable release with React Native core, lighting up some fun new APIs",
+    "is_blog": true,
+    "published_date": "September 2, 2020"
+  },
+  "prevItem": {
+    "title": "Gallery App, TurboModules, and more community modules",
+    "permalink": "/react-native-windows/blog/2021/03/16/64updates"
+  },
+  "nextItem": {
+    "title": "Fast refresh and more on Windows with 0.62 release",
+    "permalink": "/react-native-windows/blog/2020/07/22/62updates"
+  }
+}

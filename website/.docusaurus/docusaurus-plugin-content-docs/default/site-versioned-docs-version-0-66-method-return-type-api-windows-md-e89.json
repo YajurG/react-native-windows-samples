@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.66-MethodReturnType",
+  "id": "version-0.66/version-0.66-MethodReturnType",
+  "title": "MethodReturnType",
+  "description": "Kind: enum",
+  "source": "@site/versioned_docs/version-0.66/MethodReturnType-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.66-MethodReturnType",
+  "permalink": "/react-native-windows/docs/0.66/version-0.66-MethodReturnType",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.66/MethodReturnType-api-windows.md",
+  "tags": [],
+  "version": "0.66",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.66-MethodReturnType",
+    "title": "MethodReturnType",
+    "original_id": "MethodReturnType"
+  }
+}

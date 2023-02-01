@@ -1,0 +1,33 @@
+{
+  "permalink": "/react-native-windows/blog/2020/07/22/62updates",
+  "source": "@site/blog/2020-07-22-62updates.md",
+  "title": "Fast refresh and more on Windows with 0.62 release",
+  "description": "React Native for Windows released latest stable 0.62.2 with Fast Refresh, RTL support, RedBox and thread safe property storage APIs",
+  "date": "2020-07-22T00:00:00.000Z",
+  "formattedDate": "July 22, 2020",
+  "tags": [],
+  "readingTime": 3.235,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Harini Kannan",
+      "url": "https://twitter.com/ReactNativeMSFT"
+    }
+  ],
+  "frontMatter": {
+    "title": "Fast refresh and more on Windows with 0.62 release",
+    "author": "Harini Kannan",
+    "authorURL": "https://twitter.com/ReactNativeMSFT",
+    "description": "React Native for Windows released latest stable 0.62.2 with Fast Refresh, RTL support, RedBox and thread safe property storage APIs",
+    "is_blog": true,
+    "published_date": "July 22, 2020"
+  },
+  "prevItem": {
+    "title": "Windows & macOS version 0.63 updates, Hermes, and more",
+    "permalink": "/react-native-windows/blog/2020/09/02/63updates"
+  },
+  "nextItem": {
+    "title": "Build 2020 Recap",
+    "permalink": "/react-native-windows/blog/2020/06/01/build2020recap"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "glyph-component",
+  "id": "glyph-component",
+  "title": "Glyph",
+  "description": "Props",
+  "source": "@site/../docs/glyph-component-windows.md",
+  "sourceDirName": ".",
+  "slug": "/glyph-component",
+  "permalink": "/react-native-windows/docs/next/glyph-component",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/glyph-component-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "glyph-component",
+    "title": "Glyph"
+  },
+  "sidebar": "apis",
+  "previous": {
+    "title": "Flyout",
+    "permalink": "/react-native-windows/docs/next/flyout-component"
+  },
+  "next": {
+    "title": "Popup",
+    "permalink": "/react-native-windows/docs/next/popup-component"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.64-win10-compat",
+  "id": "version-0.64/version-0.64-win10-compat",
+  "title": "Backward compatibility with Windows versions",
+  "description": "React Native for Windows supports devices running on Windows 10 and higher.",
+  "source": "@site/versioned_docs/version-0.64/win10-compat.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.64-win10-compat",
+  "permalink": "/react-native-windows/docs/0.64/version-0.64-win10-compat",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.64/win10-compat.md",
+  "tags": [],
+  "version": "0.64",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.64-win10-compat",
+    "title": "Backward compatibility with Windows versions",
+    "original_id": "win10-compat"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/JsiPropertyIdRef",
+  "id": "native-api/JsiPropertyIdRef",
+  "title": "JsiPropertyIdRef",
+  "description": "Kind: struct",
+  "source": "@site/../docs/native-api/JsiPropertyIdRef-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/JsiPropertyIdRef",
+  "permalink": "/react-native-windows/docs/next/native-api/JsiPropertyIdRef",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/JsiPropertyIdRef-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "JsiPropertyIdRef",
+    "title": "JsiPropertyIdRef"
+  }
+}

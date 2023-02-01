@@ -20,7 +20,7 @@ Remember to call `react-native init` from the place you want your project direct
 npx react-native init <project name> --version ^0.61.5
 ```
 
-> If you've installed react native globally in the past, via `npm install -g react-native`, and are having issues with the new instructions, try running:<br>
+> If you've installed react native globally in the past, via `npm install -g react-native`, and are having issues with the new instructions, try running:<br></br>
 > `npx --ignore-existing react-native init <myproject> --template react-native@^0.61.5` instead.
 
 ### Navigate into this newly created directory
@@ -97,5 +97,3 @@ Follow these steps to build a version of your app that you can install or publis
 - If you want to build an appx package to share or publish, use the Project => Publish => Create App Packages... option.
 
 See also this article for additional details: https://techcommunity.microsoft.com/t5/windows-dev-appconsult/getting-started-with-react-native-for-windows/ba-p/912093#
-</body>
-</html>

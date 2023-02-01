@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-api/IViewManager",
+  "id": "native-api/IViewManager",
+  "title": "IViewManager",
+  "description": "Kind: interface",
+  "source": "@site/../docs/native-api/IViewManager-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/IViewManager",
+  "permalink": "/react-native-windows/docs/next/native-api/IViewManager",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/IViewManager-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "IViewManager",
+    "title": "IViewManager"
+  },
+  "sidebar": "apis",
+  "previous": {
+    "title": "IRedBoxHandler",
+    "permalink": "/react-native-windows/docs/next/native-api/IRedBoxHandler"
+  },
+  "next": {
+    "title": "ReactApplication",
+    "permalink": "/react-native-windows/docs/next/native-api/ReactApplication"
+  }
+}

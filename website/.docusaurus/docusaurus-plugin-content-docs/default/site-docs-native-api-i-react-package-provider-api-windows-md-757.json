@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-api/IReactPackageProvider",
+  "id": "native-api/IReactPackageProvider",
+  "title": "IReactPackageProvider",
+  "description": "Kind: interface",
+  "source": "@site/../docs/native-api/IReactPackageProvider-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/IReactPackageProvider",
+  "permalink": "/react-native-windows/docs/next/native-api/IReactPackageProvider",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/IReactPackageProvider-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "IReactPackageProvider",
+    "title": "IReactPackageProvider"
+  },
+  "sidebar": "apis",
+  "previous": {
+    "title": "IReactPackageBuilder",
+    "permalink": "/react-native-windows/docs/next/native-api/IReactPackageBuilder"
+  },
+  "next": {
+    "title": "IReactPropertyBag",
+    "permalink": "/react-native-windows/docs/next/native-api/IReactPropertyBag"
+  }
+}

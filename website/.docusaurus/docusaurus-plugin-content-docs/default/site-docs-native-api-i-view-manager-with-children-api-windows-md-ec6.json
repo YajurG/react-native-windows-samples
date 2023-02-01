@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/IViewManagerWithChildren",
+  "id": "native-api/IViewManagerWithChildren",
+  "title": "IViewManagerWithChildren",
+  "description": "Kind: interface",
+  "source": "@site/../docs/native-api/IViewManagerWithChildren-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/IViewManagerWithChildren",
+  "permalink": "/react-native-windows/docs/next/native-api/IViewManagerWithChildren",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/IViewManagerWithChildren-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "IViewManagerWithChildren",
+    "title": "IViewManagerWithChildren"
+  }
+}

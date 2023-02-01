@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/IReactRootViewExperimental",
+  "id": "native-api/IReactRootViewExperimental",
+  "title": "IReactRootViewExperimental",
+  "description": "Kind: interface",
+  "source": "@site/../docs/native-api/IReactRootViewExperimental-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/IReactRootViewExperimental",
+  "permalink": "/react-native-windows/docs/next/native-api/IReactRootViewExperimental",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/IReactRootViewExperimental-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "IReactRootViewExperimental",
+    "title": "IReactRootViewExperimental"
+  }
+}

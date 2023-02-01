@@ -1,0 +1,33 @@
+{
+  "permalink": "/react-native-windows/blog/2020/02/01/0-m4updates",
+  "source": "@site/blog/2020-02-010-m4updates.md",
+  "title": "Keeping Up with React Native Core",
+  "description": "Announcing React Native for Windows v0.61, now on the high performance common core across iOS and Android",
+  "date": "2020-02-01T00:00:00.000Z",
+  "formattedDate": "February 1, 2020",
+  "tags": [],
+  "readingTime": 5,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Kiki Saintonge",
+      "url": "http://twitter.com/KikiSaintonge"
+    }
+  ],
+  "frontMatter": {
+    "title": "Keeping Up with React Native Core",
+    "author": "Kiki Saintonge",
+    "authorURL": "http://twitter.com/KikiSaintonge",
+    "description": "Announcing React Native for Windows v0.61, now on the high performance common core across iOS and Android",
+    "is_blog": true,
+    "published_date": "February 10, 2020"
+  },
+  "prevItem": {
+    "title": "Announcing React Native for macOS and more",
+    "permalink": "/react-native-windows/blog/2020/05/19/rn4mupdadates"
+  },
+  "nextItem": {
+    "title": "Upgrading with Hermes Support and Automated Tests",
+    "permalink": "/react-native-windows/blog/2019/12/3/m3updates"
+  }
+}

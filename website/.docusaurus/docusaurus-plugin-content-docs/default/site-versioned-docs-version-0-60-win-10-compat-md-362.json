@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.60-win10-compat",
+  "id": "version-0.60/version-0.60-win10-compat",
+  "title": "Backward compatibility with Windows versions",
+  "description": "React Native for Windows supports Windows 10 devices. React Native for Windows layers cleanly on top of the native Windows UI platform which means there are some APIs that may not be supported in all versions of Windows since the corresponding native capabilities were not backward compatible with older OS versions. The following table captures these deltas. If you are using any of the APIs below, they will gracefully fail (no-op) when the app is running on Windows 10 devices of corresponding OS versions.",
+  "source": "@site/versioned_docs/version-0.60/win10-compat.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.60-win10-compat",
+  "permalink": "/react-native-windows/docs/0.60/version-0.60-win10-compat",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.60/win10-compat.md",
+  "tags": [],
+  "version": "0.60",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.60-win10-compat",
+    "title": "Backward compatibility with Windows versions",
+    "original_id": "win10-compat"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.60-parity-status",
+  "id": "version-0.60/version-0.60-parity-status",
+  "title": "Component and Module API Parity Status",
+  "description": "This doc reports the status progress of core components modules/APIs integration for vnext. The high priority components and modules tracked here will be in alignment with the React Native Lean Core effort, others not in Lean Core we plan on shipping as separate packages in future milestones.",
+  "source": "@site/versioned_docs/version-0.60/parity-status.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.60-parity-status",
+  "permalink": "/react-native-windows/docs/0.60/version-0.60-parity-status",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.60/parity-status.md",
+  "tags": [],
+  "version": "0.60",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.60-parity-status",
+    "title": "Component and Module API Parity Status",
+    "original_id": "parity-status"
+  }
+}

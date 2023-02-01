@@ -1,0 +1,31 @@
+{
+  "unversionedId": "native-api/Native-API-Reference",
+  "id": "native-api/Native-API-Reference",
+  "title": "namespace Microsoft.ReactNative",
+  "description": "Enums",
+  "source": "@site/../docs/native-api/index-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/Native-API-Reference",
+  "permalink": "/react-native-windows/docs/next/native-api/Native-API-Reference",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/index-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "Native-API-Reference",
+    "title": "namespace Microsoft.ReactNative",
+    "sidebar_label": "Full reference"
+  },
+  "sidebar": "apis",
+  "previous": {
+    "title": "XamlUIService",
+    "permalink": "/react-native-windows/docs/next/native-api/XamlUIService"
+  },
+  "next": {
+    "title": "CoreApp",
+    "permalink": "/react-native-windows/docs/next/coreapp"
+  }
+}

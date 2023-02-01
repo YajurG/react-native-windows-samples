@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/AccessibilityAction",
+  "id": "native-api/AccessibilityAction",
+  "title": "AccessibilityAction",
+  "description": "Kind: struct",
+  "source": "@site/../docs/native-api/AccessibilityAction-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/AccessibilityAction",
+  "permalink": "/react-native-windows/docs/next/native-api/AccessibilityAction",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/AccessibilityAction-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "AccessibilityAction",
+    "title": "AccessibilityAction"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "winui3",
+  "id": "winui3",
+  "title": "WinUI 3",
+  "description": "WinUI is the modern native UI platform of Windows. For more information about WinUI 3 see this link.",
+  "source": "@site/../docs/winui3.md",
+  "sourceDirName": ".",
+  "slug": "/winui3",
+  "permalink": "/react-native-windows/docs/next/winui3",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/winui3.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "winui3",
+    "title": "WinUI 3"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Updating NuGet packages",
+    "permalink": "/react-native-windows/docs/next/nuget-update"
+  }
+}

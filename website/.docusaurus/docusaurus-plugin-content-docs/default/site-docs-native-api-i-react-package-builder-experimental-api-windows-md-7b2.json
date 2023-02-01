@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/IReactPackageBuilderExperimental",
+  "id": "native-api/IReactPackageBuilderExperimental",
+  "title": "IReactPackageBuilderExperimental",
+  "description": "Kind: interface",
+  "source": "@site/../docs/native-api/IReactPackageBuilderExperimental-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/IReactPackageBuilderExperimental",
+  "permalink": "/react-native-windows/docs/next/native-api/IReactPackageBuilderExperimental",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/IReactPackageBuilderExperimental-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "IReactPackageBuilderExperimental",
+    "title": "IReactPackageBuilderExperimental"
+  }
+}

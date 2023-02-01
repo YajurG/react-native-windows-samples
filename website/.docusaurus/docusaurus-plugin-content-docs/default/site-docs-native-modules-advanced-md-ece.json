@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-modules-advanced",
+  "id": "native-modules-advanced",
+  "title": "Native Modules (Advanced)",
+  "description": "This documentation and the underlying platform code is a work in progress.",
+  "source": "@site/../docs/native-modules-advanced.md",
+  "sourceDirName": ".",
+  "slug": "/native-modules-advanced",
+  "permalink": "/react-native-windows/docs/next/native-modules-advanced",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-modules-advanced.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "native-modules-advanced",
+    "title": "Native Modules (Advanced)"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Autolinking Native Modules",
+    "permalink": "/react-native-windows/docs/next/native-modules-autolinking"
+  },
+  "next": {
+    "title": "Supported Community Modules",
+    "permalink": "/react-native-windows/docs/next/supported-community-modules"
+  }
+}

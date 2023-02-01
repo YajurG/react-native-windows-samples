@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/IReactNotificationSubscription",
+  "id": "native-api/IReactNotificationSubscription",
+  "title": "IReactNotificationSubscription",
+  "description": "Kind: interface",
+  "source": "@site/../docs/native-api/IReactNotificationSubscription-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/IReactNotificationSubscription",
+  "permalink": "/react-native-windows/docs/next/native-api/IReactNotificationSubscription",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/IReactNotificationSubscription-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "IReactNotificationSubscription",
+    "title": "IReactNotificationSubscription"
+  }
+}

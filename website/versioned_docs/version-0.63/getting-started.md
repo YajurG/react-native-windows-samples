@@ -17,8 +17,8 @@ Remember to call `react-native init` from the place you want your project direct
 ```bat
 npx react-native init <projectName> --template react-native@^0.63.2
 ```
->To create TypeScript template, run `npx react-native init <projectName> --template react-native-template-typescript@6.5.*`.<br><br>
-> If you've installed react native globally in the past, via `npm install -g react-native`, and are having issues with the new instructions, try adding `--ignore-existing` to your npx command:<br>
+>To create TypeScript template, run `npx react-native init <projectName> --template react-native-template-typescript@6.5.*`.<br></br><br></br>
+> If you've installed react native globally in the past, via `npm install -g react-native`, and are having issues with the new instructions, try adding `--ignore-existing` to your npx command:<br></br>
 > `npx --ignore-existing react-native init <projectName> --template react-native@^0.63.2` instead.
 
 ### Navigate into this newly created directory
@@ -115,5 +115,3 @@ Follow these steps to build a version of your app that you can install or publis
 - If you want to build an appx package to share or publish, use the Project => Publish => Create App Packages... option.
 
 See also this article for additional details: https://techcommunity.microsoft.com/t5/windows-dev-appconsult/getting-started-with-react-native-for-windows/ba-p/912093#
-</body>
-</html>

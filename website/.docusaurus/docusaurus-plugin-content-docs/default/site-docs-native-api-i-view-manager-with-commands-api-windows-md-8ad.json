@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/IViewManagerWithCommands",
+  "id": "native-api/IViewManagerWithCommands",
+  "title": "IViewManagerWithCommands",
+  "description": "Kind: interface",
+  "source": "@site/../docs/native-api/IViewManagerWithCommands-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/IViewManagerWithCommands",
+  "permalink": "/react-native-windows/docs/next/native-api/IViewManagerWithCommands",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/IViewManagerWithCommands-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "IViewManagerWithCommands",
+    "title": "IViewManagerWithCommands"
+  }
+}

@@ -18,7 +18,7 @@ Remember to call `react-native init` from the place you want your project direct
 npx react-native init <projectName> --template react-native@^0.69.0
 ```
 
-> To create TypeScript template, run `npx react-native init <projectName> --template react-native-template-typescript`.<br><br>
+> To create TypeScript template, run `npx react-native init <projectName> --template react-native-template-typescript`.<br></br><br></br>
 
 ### Navigate into this newly created directory
 
@@ -101,10 +101,7 @@ Follow these steps to build a version of your app that you can install or publis
 - Build the solution. You can now launch without first launching Metro.
 - If you want to build an APPX package to share or publish, use the **Project** > **Publish** > **Create App Packages...** option.
 
-> The Debug configuration uses the Web Debugger by default, which means the application's JavaScript code runs in Chrome.<br>
+> The Debug configuration uses the Web Debugger by default, which means the application's JavaScript code runs in Chrome.<br></br>
 > If you're getting different runtime behavior between the Release and Debug configurations, consider disabling the `UseWebDebugger` setting in [`App.cpp`](https://github.com/microsoft/react-native-windows/blob/6b415659aa017dbc41e3f28e817fb768a8e80435/vnext/template/cpp-app/src/App.cpp#L30) or [`App.xaml.cs`](https://github.com/microsoft/react-native-windows/blob/6b415659aa017dbc41e3f28e817fb768a8e80435/vnext/template/cs-app/src/App.xaml.cs#L20) to get the same behavior in the Debug configuration.
 
 See also this article for additional details: https://techcommunity.microsoft.com/t5/windows-dev-appconsult/getting-started-with-react-native-for-windows/ba-p/912093#
-
-</body>
-</html>

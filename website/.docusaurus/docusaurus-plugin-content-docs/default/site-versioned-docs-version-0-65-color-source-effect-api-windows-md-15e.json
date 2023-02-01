@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.65-ColorSourceEffect",
+  "id": "version-0.65/version-0.65-ColorSourceEffect",
+  "title": "ColorSourceEffect",
+  "description": "Kind: class",
+  "source": "@site/versioned_docs/version-0.65/ColorSourceEffect-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.65-ColorSourceEffect",
+  "permalink": "/react-native-windows/docs/0.65/version-0.65-ColorSourceEffect",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.65/ColorSourceEffect-api-windows.md",
+  "tags": [],
+  "version": "0.65",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.65-ColorSourceEffect",
+    "title": "ColorSourceEffect",
+    "original_id": "ColorSourceEffect"
+  }
+}

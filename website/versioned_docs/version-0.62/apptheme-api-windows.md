@@ -1,7 +1,7 @@
 ---
-id: version-0.62-apptheme-api
-title: AppTheme
-original_id: apptheme-api
+id: "version-0.62-apptheme-api"
+title: "AppTheme"
+original_id: "apptheme-api"
 ---
 
 > This API name is deprecated.  Use react-native's [``Appearance``](https://reactnative.dev/docs/appearance) API instead.

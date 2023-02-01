@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.62-native-code-language-choice",
+  "id": "version-0.62/version-0.62-native-code-language-choice",
+  "title": "Choosing C++ or C# for native code",
+  "description": "React Native for Windows supports writing native code in both C++ and C#, but there are trade-offs with each language. The choice of language can impact the compatibility, developer experience, and performance of your project. So whether you're building an app or native module, you should choose the native language that best meets your requirements.",
+  "source": "@site/versioned_docs/version-0.62/native-code-language-choice.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.62-native-code-language-choice",
+  "permalink": "/react-native-windows/docs/0.62/version-0.62-native-code-language-choice",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.62/native-code-language-choice.md",
+  "tags": [],
+  "version": "0.62",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.62-native-code-language-choice",
+    "title": "Choosing C++ or C# for native code",
+    "original_id": "native-code-language-choice"
+  }
+}

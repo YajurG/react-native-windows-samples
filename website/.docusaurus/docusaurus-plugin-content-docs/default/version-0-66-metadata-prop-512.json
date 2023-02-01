@@ -1,0 +1,578 @@
+{
+  "pluginId": "default",
+  "version": "0.66",
+  "label": "0.66",
+  "banner": "unmaintained",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-0.66",
+  "isLast": false,
+  "docsSidebars": {},
+  "docs": {
+    "version-0.66-AccessibilityAction": {
+      "id": "version-0.66-AccessibilityAction",
+      "title": "AccessibilityAction",
+      "description": "Kind: struct"
+    },
+    "version-0.66-AccessibilityActionEventHandler": {
+      "id": "version-0.66-AccessibilityActionEventHandler",
+      "title": "AccessibilityActionEventHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-AccessibilityInvokeEventHandler": {
+      "id": "version-0.66-AccessibilityInvokeEventHandler",
+      "title": "AccessibilityInvokeEventHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-AccessibilityRoles": {
+      "id": "version-0.66-AccessibilityRoles",
+      "title": "AccessibilityRoles",
+      "description": "Kind: enum"
+    },
+    "version-0.66-AccessibilityStates": {
+      "id": "version-0.66-AccessibilityStates",
+      "title": "AccessibilityStates",
+      "description": "Kind: enum"
+    },
+    "version-0.66-AccessibilityValue": {
+      "id": "version-0.66-AccessibilityValue",
+      "title": "AccessibilityValue",
+      "description": "Kind: enum"
+    },
+    "version-0.66-BackNavigationHandlerKind": {
+      "id": "version-0.66-BackNavigationHandlerKind",
+      "title": "BackNavigationHandlerKind",
+      "description": "Kind: enum"
+    },
+    "version-0.66-BorderEffect": {
+      "id": "version-0.66-BorderEffect",
+      "title": "BorderEffect",
+      "description": "Kind: class"
+    },
+    "version-0.66-CanvasComposite": {
+      "id": "version-0.66-CanvasComposite",
+      "title": "CanvasComposite",
+      "description": "Kind: enum"
+    },
+    "version-0.66-CanvasEdgeBehavior": {
+      "id": "version-0.66-CanvasEdgeBehavior",
+      "title": "CanvasEdgeBehavior",
+      "description": "Kind: enum"
+    },
+    "version-0.66-ColorSourceEffect": {
+      "id": "version-0.66-ColorSourceEffect",
+      "title": "ColorSourceEffect",
+      "description": "Kind: class"
+    },
+    "version-0.66-CompositeStepEffect": {
+      "id": "version-0.66-CompositeStepEffect",
+      "title": "CompositeStepEffect",
+      "description": "Kind: class"
+    },
+    "version-0.66-config": {
+      "id": "version-0.66-config",
+      "title": "React Native Config Schema",
+      "description": "The CLI command npx react-native config outputs project and dependencies configuration in JSON format to stdout."
+    },
+    "version-0.66-ConstantProviderDelegate": {
+      "id": "version-0.66-ConstantProviderDelegate",
+      "title": "ConstantProviderDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-DesktopWindowMessage": {
+      "id": "version-0.66-DesktopWindowMessage",
+      "title": "DesktopWindowMessage",
+      "description": "Kind: struct"
+    },
+    "version-0.66-DevMenuControl": {
+      "id": "version-0.66-DevMenuControl",
+      "title": "DevMenuControl",
+      "description": "Kind: class"
+    },
+    "version-0.66-DynamicAutomationPeer": {
+      "id": "version-0.66-DynamicAutomationPeer",
+      "title": "DynamicAutomationPeer",
+      "description": "Kind: class"
+    },
+    "version-0.66-DynamicAutomationProperties": {
+      "id": "version-0.66-DynamicAutomationProperties",
+      "title": "DynamicAutomationProperties",
+      "description": "Kind: class"
+    },
+    "version-0.66-DynamicValueProvider": {
+      "id": "version-0.66-DynamicValueProvider",
+      "title": "DynamicValueProvider",
+      "description": "Kind: class"
+    },
+    "version-0.66-EffectBorderMode": {
+      "id": "version-0.66-EffectBorderMode",
+      "title": "EffectBorderMode",
+      "description": "Kind: enum"
+    },
+    "version-0.66-EffectOptimization": {
+      "id": "version-0.66-EffectOptimization",
+      "title": "EffectOptimization",
+      "description": "Kind: enum"
+    },
+    "version-0.66-GaussianBlurEffect": {
+      "id": "version-0.66-GaussianBlurEffect",
+      "title": "GaussianBlurEffect",
+      "description": "Kind: class"
+    },
+    "version-0.66-getting-started": {
+      "id": "version-0.66-getting-started",
+      "title": "Get Started with Windows",
+      "description": "This guide will help you get started on setting up your very first React Native for Windows app."
+    },
+    "version-0.66-hermes": {
+      "id": "version-0.66-hermes",
+      "title": "Hermes on Windows + macOS",
+      "description": "The Hermes engine is an open source JavaScript engine created by Facebook to optimize building and running React Native applications."
+    },
+    "version-0.66-IJsiByteBuffer": {
+      "id": "version-0.66-IJsiByteBuffer",
+      "title": "IJsiByteBuffer",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IJsiHostObject": {
+      "id": "version-0.66-IJsiHostObject",
+      "title": "IJsiHostObject",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IJSValueReader": {
+      "id": "version-0.66-IJSValueReader",
+      "title": "IJSValueReader",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IJSValueWriter": {
+      "id": "version-0.66-IJSValueWriter",
+      "title": "IJSValueWriter",
+      "description": "Kind: interface"
+    },
+    "version-0.66-InitializerDelegate": {
+      "id": "version-0.66-InitializerDelegate",
+      "title": "InitializerDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-InstanceCreatedEventArgs": {
+      "id": "version-0.66-InstanceCreatedEventArgs",
+      "title": "InstanceCreatedEventArgs",
+      "description": "Kind: class"
+    },
+    "version-0.66-InstanceDestroyedEventArgs": {
+      "id": "version-0.66-InstanceDestroyedEventArgs",
+      "title": "InstanceDestroyedEventArgs",
+      "description": "Kind: class"
+    },
+    "version-0.66-InstanceLoadedEventArgs": {
+      "id": "version-0.66-InstanceLoadedEventArgs",
+      "title": "InstanceLoadedEventArgs",
+      "description": "Kind: class"
+    },
+    "version-0.66-IReactContext": {
+      "id": "version-0.66-IReactContext",
+      "title": "IReactContext",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactDispatcher": {
+      "id": "version-0.66-IReactDispatcher",
+      "title": "IReactDispatcher",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactModuleBuilder": {
+      "id": "version-0.66-IReactModuleBuilder",
+      "title": "IReactModuleBuilder",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactNonAbiValue": {
+      "id": "version-0.66-IReactNonAbiValue",
+      "title": "IReactNonAbiValue",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactNotificationArgs": {
+      "id": "version-0.66-IReactNotificationArgs",
+      "title": "IReactNotificationArgs",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactNotificationService": {
+      "id": "version-0.66-IReactNotificationService",
+      "title": "IReactNotificationService",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactNotificationSubscription": {
+      "id": "version-0.66-IReactNotificationSubscription",
+      "title": "IReactNotificationSubscription",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactPackageBuilder": {
+      "id": "version-0.66-IReactPackageBuilder",
+      "title": "IReactPackageBuilder",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactPackageBuilderExperimental": {
+      "id": "version-0.66-IReactPackageBuilderExperimental",
+      "title": "IReactPackageBuilderExperimental",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactPackageProvider": {
+      "id": "version-0.66-IReactPackageProvider",
+      "title": "IReactPackageProvider",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactPropertyBag": {
+      "id": "version-0.66-IReactPropertyBag",
+      "title": "IReactPropertyBag",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactPropertyName": {
+      "id": "version-0.66-IReactPropertyName",
+      "title": "IReactPropertyName",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactPropertyNamespace": {
+      "id": "version-0.66-IReactPropertyNamespace",
+      "title": "IReactPropertyNamespace",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactRootViewExperimental": {
+      "id": "version-0.66-IReactRootViewExperimental",
+      "title": "IReactRootViewExperimental",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactSettingsSnapshot": {
+      "id": "version-0.66-IReactSettingsSnapshot",
+      "title": "IReactSettingsSnapshot",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactViewHost": {
+      "id": "version-0.66-IReactViewHost",
+      "title": "IReactViewHost",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IReactViewInstance": {
+      "id": "version-0.66-IReactViewInstance",
+      "title": "IReactViewInstance",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IRedBoxErrorFrameInfo": {
+      "id": "version-0.66-IRedBoxErrorFrameInfo",
+      "title": "IRedBoxErrorFrameInfo",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IRedBoxErrorInfo": {
+      "id": "version-0.66-IRedBoxErrorInfo",
+      "title": "IRedBoxErrorInfo",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IRedBoxHandler": {
+      "id": "version-0.66-IRedBoxHandler",
+      "title": "IRedBoxHandler",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IViewManager": {
+      "id": "version-0.66-IViewManager",
+      "title": "IViewManager",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IViewManagerCreateWithProperties": {
+      "id": "version-0.66-IViewManagerCreateWithProperties",
+      "title": "IViewManagerCreateWithProperties",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IViewManagerRequiresNativeLayout": {
+      "id": "version-0.66-IViewManagerRequiresNativeLayout",
+      "title": "IViewManagerRequiresNativeLayout",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IViewManagerWithChildren": {
+      "id": "version-0.66-IViewManagerWithChildren",
+      "title": "IViewManagerWithChildren",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IViewManagerWithCommands": {
+      "id": "version-0.66-IViewManagerWithCommands",
+      "title": "IViewManagerWithCommands",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IViewManagerWithExportedEventTypeConstants": {
+      "id": "version-0.66-IViewManagerWithExportedEventTypeConstants",
+      "title": "IViewManagerWithExportedEventTypeConstants",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IViewManagerWithExportedViewConstants": {
+      "id": "version-0.66-IViewManagerWithExportedViewConstants",
+      "title": "IViewManagerWithExportedViewConstants",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IViewManagerWithNativeProperties": {
+      "id": "version-0.66-IViewManagerWithNativeProperties",
+      "title": "IViewManagerWithNativeProperties",
+      "description": "Kind: interface"
+    },
+    "version-0.66-IViewManagerWithReactContext": {
+      "id": "version-0.66-IViewManagerWithReactContext",
+      "title": "IViewManagerWithReactContext",
+      "description": "Kind: interface"
+    },
+    "version-0.66-JsiByteArrayUser": {
+      "id": "version-0.66-JsiByteArrayUser",
+      "title": "JsiByteArrayUser",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-JSIEngine": {
+      "id": "version-0.66-JSIEngine",
+      "title": "JSIEngine",
+      "description": "Kind: enum"
+    },
+    "version-0.66-JsiError": {
+      "id": "version-0.66-JsiError",
+      "title": "JsiError",
+      "description": "Kind: class"
+    },
+    "version-0.66-JsiErrorType": {
+      "id": "version-0.66-JsiErrorType",
+      "title": "JsiErrorType",
+      "description": "Kind: enum"
+    },
+    "version-0.66-JsiHostFunction": {
+      "id": "version-0.66-JsiHostFunction",
+      "title": "JsiHostFunction",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-JsiObjectRef": {
+      "id": "version-0.66-JsiObjectRef",
+      "title": "JsiObjectRef",
+      "description": "Kind: struct"
+    },
+    "version-0.66-JsiPreparedJavaScript": {
+      "id": "version-0.66-JsiPreparedJavaScript",
+      "title": "JsiPreparedJavaScript",
+      "description": "Kind: class"
+    },
+    "version-0.66-JsiPropertyIdRef": {
+      "id": "version-0.66-JsiPropertyIdRef",
+      "title": "JsiPropertyIdRef",
+      "description": "Kind: struct"
+    },
+    "version-0.66-JsiRuntime": {
+      "id": "version-0.66-JsiRuntime",
+      "title": "JsiRuntime",
+      "description": "Kind: class"
+    },
+    "version-0.66-JsiScopeState": {
+      "id": "version-0.66-JsiScopeState",
+      "title": "JsiScopeState",
+      "description": "Kind: struct"
+    },
+    "version-0.66-JsiStringRef": {
+      "id": "version-0.66-JsiStringRef",
+      "title": "JsiStringRef",
+      "description": "Kind: struct"
+    },
+    "version-0.66-JsiSymbolRef": {
+      "id": "version-0.66-JsiSymbolRef",
+      "title": "JsiSymbolRef",
+      "description": "Kind: struct"
+    },
+    "version-0.66-JsiValueKind": {
+      "id": "version-0.66-JsiValueKind",
+      "title": "JsiValueKind",
+      "description": "Kind: enum"
+    },
+    "version-0.66-JsiValueRef": {
+      "id": "version-0.66-JsiValueRef",
+      "title": "JsiValueRef",
+      "description": "Kind: struct"
+    },
+    "version-0.66-JsiWeakObjectRef": {
+      "id": "version-0.66-JsiWeakObjectRef",
+      "title": "JsiWeakObjectRef",
+      "description": "Kind: struct"
+    },
+    "version-0.66-JSValueArgWriter": {
+      "id": "version-0.66-JSValueArgWriter",
+      "title": "JSValueArgWriter",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-JSValueType": {
+      "id": "version-0.66-JSValueType",
+      "title": "JSValueType",
+      "description": "Kind: enum"
+    },
+    "version-0.66-LogHandler": {
+      "id": "version-0.66-LogHandler",
+      "title": "LogHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-LogLevel": {
+      "id": "version-0.66-LogLevel",
+      "title": "LogLevel",
+      "description": "Kind: enum"
+    },
+    "version-0.66-MethodDelegate": {
+      "id": "version-0.66-MethodDelegate",
+      "title": "MethodDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-MethodResultCallback": {
+      "id": "version-0.66-MethodResultCallback",
+      "title": "MethodResultCallback",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-MethodReturnType": {
+      "id": "version-0.66-MethodReturnType",
+      "title": "MethodReturnType",
+      "description": "Kind: enum"
+    },
+    "version-0.66-Native-API-Reference": {
+      "id": "version-0.66-Native-API-Reference",
+      "title": "namespace Microsoft.ReactNative",
+      "description": "Enums"
+    },
+    "version-0.66-NuGet": {
+      "id": "version-0.66-NuGet",
+      "title": "Using react-native-windows NuGet packages",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.66-QuirkSettings": {
+      "id": "version-0.66-QuirkSettings",
+      "title": "QuirkSettings",
+      "description": "Kind: class"
+    },
+    "version-0.66-ReactApplication": {
+      "id": "version-0.66-ReactApplication",
+      "title": "ReactApplication",
+      "description": "Kind: class"
+    },
+    "version-0.66-ReactCoreInjection": {
+      "id": "version-0.66-ReactCoreInjection",
+      "title": "ReactCoreInjection",
+      "description": "Kind: class"
+    },
+    "version-0.66-ReactCreatePropertyValue": {
+      "id": "version-0.66-ReactCreatePropertyValue",
+      "title": "ReactCreatePropertyValue",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-ReactDispatcherCallback": {
+      "id": "version-0.66-ReactDispatcherCallback",
+      "title": "ReactDispatcherCallback",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-ReactDispatcherHelper": {
+      "id": "version-0.66-ReactDispatcherHelper",
+      "title": "ReactDispatcherHelper",
+      "description": "Kind: class"
+    },
+    "version-0.66-ReactInstanceSettings": {
+      "id": "version-0.66-ReactInstanceSettings",
+      "title": "ReactInstanceSettings",
+      "description": "Kind: class"
+    },
+    "version-0.66-ReactModuleProvider": {
+      "id": "version-0.66-ReactModuleProvider",
+      "title": "ReactModuleProvider",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-ReactNativeHost": {
+      "id": "version-0.66-ReactNativeHost",
+      "title": "ReactNativeHost",
+      "description": "Kind: class"
+    },
+    "version-0.66-ReactNotificationHandler": {
+      "id": "version-0.66-ReactNotificationHandler",
+      "title": "ReactNotificationHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-ReactNotificationServiceHelper": {
+      "id": "version-0.66-ReactNotificationServiceHelper",
+      "title": "ReactNotificationServiceHelper",
+      "description": "Kind: class"
+    },
+    "version-0.66-ReactPropertyBagHelper": {
+      "id": "version-0.66-ReactPropertyBagHelper",
+      "title": "ReactPropertyBagHelper",
+      "description": "Kind: class"
+    },
+    "version-0.66-ReactRootView": {
+      "id": "version-0.66-ReactRootView",
+      "title": "ReactRootView",
+      "description": "Kind: class"
+    },
+    "version-0.66-ReactViewManagerProvider": {
+      "id": "version-0.66-ReactViewManagerProvider",
+      "title": "ReactViewManagerProvider",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-ReactViewOptions": {
+      "id": "version-0.66-ReactViewOptions",
+      "title": "ReactViewOptions",
+      "description": "Kind: class"
+    },
+    "version-0.66-RedBoxErrorType": {
+      "id": "version-0.66-RedBoxErrorType",
+      "title": "RedBoxErrorType",
+      "description": "Kind: enum"
+    },
+    "version-0.66-RedBoxHelper": {
+      "id": "version-0.66-RedBoxHelper",
+      "title": "RedBoxHelper",
+      "description": "Kind: class"
+    },
+    "version-0.66-rnm-getting-started": {
+      "id": "version-0.66-rnm-getting-started",
+      "title": "Get Started with macOS",
+      "description": "This guide will help you get started on setting up your very first React Native for macOS app."
+    },
+    "version-0.66-rnw-dependencies": {
+      "id": "version-0.66-rnw-dependencies",
+      "title": "System Requirements",
+      "description": "You can run React Native for Windows apps only on:"
+    },
+    "version-0.66-SyncMethodDelegate": {
+      "id": "version-0.66-SyncMethodDelegate",
+      "title": "SyncMethodDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-UIBatchCompleteCallback": {
+      "id": "version-0.66-UIBatchCompleteCallback",
+      "title": "UIBatchCompleteCallback",
+      "description": "Kind: delegate"
+    },
+    "version-0.66-ViewControl": {
+      "id": "version-0.66-ViewControl",
+      "title": "ViewControl",
+      "description": "Kind: class"
+    },
+    "version-0.66-ViewManagerPropertyType": {
+      "id": "version-0.66-ViewManagerPropertyType",
+      "title": "ViewManagerPropertyType",
+      "description": "Kind: enum"
+    },
+    "version-0.66-ViewPanel": {
+      "id": "version-0.66-ViewPanel",
+      "title": "ViewPanel",
+      "description": "Kind: class"
+    },
+    "version-0.66-win10-compat": {
+      "id": "version-0.66-win10-compat",
+      "title": "Backward compatibility with Windows versions",
+      "description": "React Native for Windows supports devices running on Windows 10 and higher."
+    },
+    "version-0.66-XamlHelper": {
+      "id": "version-0.66-XamlHelper",
+      "title": "XamlHelper",
+      "description": "Kind: class"
+    },
+    "version-0.66-XamlMetaDataProvider": {
+      "id": "version-0.66-XamlMetaDataProvider",
+      "title": "XamlMetaDataProvider",
+      "description": "Kind: class"
+    },
+    "version-0.66-XamlUIService": {
+      "id": "version-0.66-XamlUIService",
+      "title": "XamlUIService",
+      "description": "Kind: class"
+    }
+  }
+}

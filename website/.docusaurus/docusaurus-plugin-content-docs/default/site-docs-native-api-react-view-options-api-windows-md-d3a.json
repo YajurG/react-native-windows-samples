@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/ReactViewOptions",
+  "id": "native-api/ReactViewOptions",
+  "title": "ReactViewOptions",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/ReactViewOptions-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/ReactViewOptions",
+  "permalink": "/react-native-windows/docs/next/native-api/ReactViewOptions",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/ReactViewOptions-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "ReactViewOptions",
+    "title": "ReactViewOptions"
+  }
+}

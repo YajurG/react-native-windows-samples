@@ -1,0 +1,63 @@
+{
+  "pluginId": "default",
+  "version": "0.68",
+  "label": "0.68",
+  "banner": "unmaintained",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-0.68",
+  "isLast": false,
+  "docsSidebars": {},
+  "docs": {
+    "native-api/version-0.68-IReactSettingsSnapshot": {
+      "id": "native-api/version-0.68-IReactSettingsSnapshot",
+      "title": "IReactSettingsSnapshot",
+      "description": "Kind: interface"
+    },
+    "native-api/version-0.68-IViewManagerWithDropViewInstance": {
+      "id": "native-api/version-0.68-IViewManagerWithDropViewInstance",
+      "title": "IViewManagerWithDropViewInstance",
+      "description": "Kind: interface"
+    },
+    "native-api/version-0.68-Native-API-Reference": {
+      "id": "native-api/version-0.68-Native-API-Reference",
+      "title": "namespace Microsoft.ReactNative",
+      "description": "Enums"
+    },
+    "native-api/version-0.68-ReactInstanceSettings": {
+      "id": "native-api/version-0.68-ReactInstanceSettings",
+      "title": "ReactInstanceSettings",
+      "description": "Kind: class"
+    },
+    "version-0.68-customizing-sdk-versions": {
+      "id": "version-0.68-customizing-sdk-versions",
+      "title": "Customizing SDK versions",
+      "description": "It is easy for an app to customize which versions of the Windows SDK and WinUI 2.x to use."
+    },
+    "version-0.68-getting-started": {
+      "id": "version-0.68-getting-started",
+      "title": "Get Started with Windows",
+      "description": "This guide will help you get started on setting up your very first React Native for Windows app."
+    },
+    "version-0.68-managing-cpp-deps": {
+      "id": "version-0.68-managing-cpp-deps",
+      "title": "Managing C++ dependencies",
+      "description": "Details to consider when consuming community modules or other Visual C++ projects."
+    },
+    "version-0.68-native-modules": {
+      "id": "version-0.68-native-modules",
+      "title": "Native Modules",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.68-native-modules-setup": {
+      "id": "version-0.68-native-modules-setup",
+      "title": "Native Module Setup",
+      "description": "This documentation is a work in progress and version-specific. Please check that the version of this document (top of page) matches the version of RN/RNW you're targeting."
+    },
+    "version-0.68-NuGet": {
+      "id": "version-0.68-NuGet",
+      "title": "Using react-native-windows NuGet packages",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    }
+  }
+}

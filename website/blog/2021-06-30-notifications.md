@@ -1,7 +1,7 @@
 ---
 title: "Add Toast notifications to your React Native for Windows application"
 author: Alexander Sklar
-authorURL: https://twitter.com/alexsklar
+authorURL: "https://twitter.com/alexsklar"
 description: "Add Windows toast notifications to a React Native for Windows application"
 is_blog: true
 published_date: June 30, 2021

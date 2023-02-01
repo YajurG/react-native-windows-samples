@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-api/version-0.71-ReactModuleProvider",
+  "id": "version-0.71/native-api/version-0.71-ReactModuleProvider",
+  "title": "ReactModuleProvider",
+  "description": "Kind: delegate",
+  "source": "@site/versioned_docs/version-0.71/native-api/ReactModuleProvider-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/version-0.71-ReactModuleProvider",
+  "permalink": "/react-native-windows/docs/native-api/version-0.71-ReactModuleProvider",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.71/native-api/ReactModuleProvider-api-windows.md",
+  "tags": [],
+  "version": "0.71",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.71-ReactModuleProvider",
+    "title": "ReactModuleProvider",
+    "original_id": "ReactModuleProvider"
+  }
+}

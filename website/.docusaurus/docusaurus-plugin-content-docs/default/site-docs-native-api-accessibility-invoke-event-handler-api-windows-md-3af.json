@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/AccessibilityInvokeEventHandler",
+  "id": "native-api/AccessibilityInvokeEventHandler",
+  "title": "AccessibilityInvokeEventHandler",
+  "description": "Kind: delegate",
+  "source": "@site/../docs/native-api/AccessibilityInvokeEventHandler-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/AccessibilityInvokeEventHandler",
+  "permalink": "/react-native-windows/docs/next/native-api/AccessibilityInvokeEventHandler",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/AccessibilityInvokeEventHandler-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "AccessibilityInvokeEventHandler",
+    "title": "AccessibilityInvokeEventHandler"
+  }
+}

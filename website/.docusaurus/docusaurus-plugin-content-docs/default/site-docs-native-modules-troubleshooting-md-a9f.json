@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-modules-troubleshooting",
+  "id": "native-modules-troubleshooting",
+  "title": "Troubleshooting Native Modules",
+  "description": "So you added a new native module or a new method to a module but it isn't working, now what?!",
+  "source": "@site/../docs/native-modules-troubleshooting.md",
+  "sourceDirName": ".",
+  "slug": "/native-modules-troubleshooting",
+  "permalink": "/react-native-windows/docs/next/native-modules-troubleshooting",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-modules-troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "native-modules-troubleshooting",
+    "title": "Troubleshooting Native Modules"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "System Requirements",
+    "permalink": "/react-native-windows/docs/next/rnm-dependencies"
+  },
+  "next": {
+    "title": "Metro config for out of tree platforms",
+    "permalink": "/react-native-windows/docs/next/metro-config-out-tree-platforms"
+  }
+}

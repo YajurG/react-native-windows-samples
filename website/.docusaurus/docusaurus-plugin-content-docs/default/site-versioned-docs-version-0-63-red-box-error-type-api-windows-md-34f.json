@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.63-RedBoxErrorType",
+  "id": "version-0.63/version-0.63-RedBoxErrorType",
+  "title": "RedBoxErrorType",
+  "description": "Kind: enum",
+  "source": "@site/versioned_docs/version-0.63/RedBoxErrorType-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.63-RedBoxErrorType",
+  "permalink": "/react-native-windows/docs/0.63/version-0.63-RedBoxErrorType",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.63/RedBoxErrorType-api-windows.md",
+  "tags": [],
+  "version": "0.63",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.63-RedBoxErrorType",
+    "title": "RedBoxErrorType",
+    "original_id": "RedBoxErrorType"
+  }
+}

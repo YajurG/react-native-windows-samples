@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/UIBatchCompleteCallback",
+  "id": "native-api/UIBatchCompleteCallback",
+  "title": "UIBatchCompleteCallback",
+  "description": "Kind: delegate",
+  "source": "@site/../docs/native-api/UIBatchCompleteCallback-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/UIBatchCompleteCallback",
+  "permalink": "/react-native-windows/docs/next/native-api/UIBatchCompleteCallback",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/UIBatchCompleteCallback-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "UIBatchCompleteCallback",
+    "title": "UIBatchCompleteCallback"
+  }
+}

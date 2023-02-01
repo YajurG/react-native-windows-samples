@@ -1,0 +1,30 @@
+{
+  "unversionedId": "windowsbrush-and-theme",
+  "id": "windowsbrush-and-theme",
+  "title": "Using PlatformColor and Responding to Themes",
+  "description": "Overview",
+  "source": "@site/../docs/windowsbrush-and-theme.md",
+  "sourceDirName": ".",
+  "slug": "/windowsbrush-and-theme",
+  "permalink": "/react-native-windows/docs/next/windowsbrush-and-theme",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/windowsbrush-and-theme.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "windowsbrush-and-theme",
+    "title": "Using PlatformColor and Responding to Themes"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "React Native Config Schema",
+    "permalink": "/react-native-windows/docs/next/config"
+  },
+  "next": {
+    "title": "Release Strategy",
+    "permalink": "/react-native-windows/docs/next/releases"
+  }
+}

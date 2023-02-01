@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.62-ireactpackagebuilder-api",
+  "id": "version-0.62/version-0.62-ireactpackagebuilder-api",
+  "title": "IReactPackageBuilder",
+  "description": "A ReactPackageBuilder provides the react instance with all the NativeModules and ViewManagers that will be availiable in the react instance.",
+  "source": "@site/versioned_docs/version-0.62/IReactPackageBuilder-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.62-ireactpackagebuilder-api",
+  "permalink": "/react-native-windows/docs/0.62/version-0.62-ireactpackagebuilder-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.62/IReactPackageBuilder-api-windows.md",
+  "tags": [],
+  "version": "0.62",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.62-ireactpackagebuilder-api",
+    "title": "IReactPackageBuilder",
+    "original_id": "ireactpackagebuilder-api"
+  }
+}

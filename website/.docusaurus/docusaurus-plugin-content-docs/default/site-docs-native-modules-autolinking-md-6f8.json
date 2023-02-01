@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-modules-autolinking",
+  "id": "native-modules-autolinking",
+  "title": "Autolinking Native Modules",
+  "description": "Autolinking is a mechanism that allows your React Native app project to discover and use native modules and view managers provided by React Native libraries.",
+  "source": "@site/../docs/native-modules-autolinking.md",
+  "sourceDirName": ".",
+  "slug": "/native-modules-autolinking",
+  "permalink": "/react-native-windows/docs/next/native-modules-autolinking",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-modules-autolinking.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "native-modules-autolinking",
+    "title": "Autolinking Native Modules"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using Community Native Modules",
+    "permalink": "/react-native-windows/docs/next/native-modules-using"
+  },
+  "next": {
+    "title": "Native Modules (Advanced)",
+    "permalink": "/react-native-windows/docs/next/native-modules-advanced"
+  }
+}

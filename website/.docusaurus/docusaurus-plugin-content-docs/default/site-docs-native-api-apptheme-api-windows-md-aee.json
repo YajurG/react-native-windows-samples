@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/apptheme-api",
+  "id": "native-api/apptheme-api",
+  "title": "AppTheme",
+  "description": "This API previously allowed responding to light/dark mode, but this functionality was removed in favor of react-native's",
+  "source": "@site/../docs/native-api/apptheme-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/apptheme-api",
+  "permalink": "/react-native-windows/docs/next/native-api/apptheme-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/apptheme-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "apptheme-api",
+    "title": "AppTheme"
+  }
+}

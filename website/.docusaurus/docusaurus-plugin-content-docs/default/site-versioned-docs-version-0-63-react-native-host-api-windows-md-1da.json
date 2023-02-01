@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.63-reactnativehost-api",
+  "id": "version-0.63/version-0.63-reactnativehost-api",
+  "title": "ReactNativeHost",
+  "description": "This is the main entry-point to create a react-native instance.  The ReactNativeHost object exists to configure the instance using ReactInstanceSettings before its loaded, as well as enabling control of when to load the instance.",
+  "source": "@site/versioned_docs/version-0.63/ReactNativeHost-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.63-reactnativehost-api",
+  "permalink": "/react-native-windows/docs/0.63/version-0.63-reactnativehost-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.63/ReactNativeHost-api-windows.md",
+  "tags": [],
+  "version": "0.63",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.63-reactnativehost-api",
+    "title": "ReactNativeHost",
+    "original_id": "reactnativehost-api"
+  }
+}

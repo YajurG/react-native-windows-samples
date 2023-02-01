@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/ConstantProviderDelegate",
+  "id": "native-api/ConstantProviderDelegate",
+  "title": "ConstantProviderDelegate",
+  "description": "Kind: delegate",
+  "source": "@site/../docs/native-api/ConstantProviderDelegate-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/ConstantProviderDelegate",
+  "permalink": "/react-native-windows/docs/next/native-api/ConstantProviderDelegate",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/ConstantProviderDelegate-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "ConstantProviderDelegate",
+    "title": "ConstantProviderDelegate"
+  }
+}

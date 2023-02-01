@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.61-rnm-dependencies",
+  "id": "version-0.61/version-0.61-rnm-dependencies",
+  "title": "System Requirements",
+  "description": "You can run React Native for macOS apps on Mac devices with versions High Sierra (10.13) or newer.",
+  "source": "@site/versioned_docs/version-0.61/rnm-dependencies.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.61-rnm-dependencies",
+  "permalink": "/react-native-windows/docs/0.61/version-0.61-rnm-dependencies",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.61/rnm-dependencies.md",
+  "tags": [],
+  "version": "0.61",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.61-rnm-dependencies",
+    "title": "System Requirements",
+    "original_id": "rnm-dependencies"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "app-publishing",
+  "id": "app-publishing",
+  "title": "Publishing a React Native Windows App to the Microsoft Store",
+  "description": "Steps to Publish a React Native Windows App to the Microsoft Store",
+  "source": "@site/../docs/app-publishing.md",
+  "sourceDirName": ".",
+  "slug": "/app-publishing",
+  "permalink": "/react-native-windows/docs/next/app-publishing",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/app-publishing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "app-publishing",
+    "title": "Publishing a React Native Windows App to the Microsoft Store"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Setup Continuous Integration Pipeline for an RNW App",
+    "permalink": "/react-native-windows/docs/next/setup-ci"
+  },
+  "next": {
+    "title": "Native Modules",
+    "permalink": "/react-native-windows/docs/next/native-modules"
+  }
+}

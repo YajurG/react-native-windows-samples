@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-modules",
+  "id": "native-modules",
+  "title": "Native Modules",
+  "description": "This documentation and the underlying platform code is a work in progress.",
+  "source": "@site/../docs/native-modules.md",
+  "sourceDirName": ".",
+  "slug": "/native-modules",
+  "permalink": "/react-native-windows/docs/next/native-modules",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-modules.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "native-modules",
+    "title": "Native Modules"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Publishing a React Native Windows App to the Microsoft Store",
+    "permalink": "/react-native-windows/docs/next/app-publishing"
+  },
+  "next": {
+    "title": "Native UI Components",
+    "permalink": "/react-native-windows/docs/next/view-managers"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-api/version-0.69-IReactContext",
+  "id": "version-0.69/native-api/version-0.69-IReactContext",
+  "title": "IReactContext",
+  "description": "Kind: interface",
+  "source": "@site/versioned_docs/version-0.69/native-api/IReactContext-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/version-0.69-IReactContext",
+  "permalink": "/react-native-windows/docs/0.69/native-api/version-0.69-IReactContext",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.69/native-api/IReactContext-api-windows.md",
+  "tags": [],
+  "version": "0.69",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.69-IReactContext",
+    "title": "IReactContext",
+    "original_id": "IReactContext"
+  }
+}

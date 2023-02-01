@@ -1,0 +1,623 @@
+{
+  "pluginId": "default",
+  "version": "0.65",
+  "label": "0.65",
+  "banner": "unmaintained",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-0.65",
+  "isLast": false,
+  "docsSidebars": {},
+  "docs": {
+    "version-0.65-AccessibilityAction": {
+      "id": "version-0.65-AccessibilityAction",
+      "title": "AccessibilityAction",
+      "description": "Kind: struct"
+    },
+    "version-0.65-AccessibilityActionEventHandler": {
+      "id": "version-0.65-AccessibilityActionEventHandler",
+      "title": "AccessibilityActionEventHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-AccessibilityInvokeEventHandler": {
+      "id": "version-0.65-AccessibilityInvokeEventHandler",
+      "title": "AccessibilityInvokeEventHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-AccessibilityRoles": {
+      "id": "version-0.65-AccessibilityRoles",
+      "title": "AccessibilityRoles",
+      "description": "Kind: enum"
+    },
+    "version-0.65-AccessibilityStates": {
+      "id": "version-0.65-AccessibilityStates",
+      "title": "AccessibilityStates",
+      "description": "Kind: enum"
+    },
+    "version-0.65-AccessibilityValue": {
+      "id": "version-0.65-AccessibilityValue",
+      "title": "AccessibilityValue",
+      "description": "Kind: enum"
+    },
+    "version-0.65-apptheme-api": {
+      "id": "version-0.65-apptheme-api",
+      "title": "AppTheme",
+      "description": "This API previously allowed responding to light/dark mode, but this functionality was removed in favor of react-native's"
+    },
+    "version-0.65-BorderEffect": {
+      "id": "version-0.65-BorderEffect",
+      "title": "BorderEffect",
+      "description": "Kind: class"
+    },
+    "version-0.65-CanvasComposite": {
+      "id": "version-0.65-CanvasComposite",
+      "title": "CanvasComposite",
+      "description": "Kind: enum"
+    },
+    "version-0.65-CanvasEdgeBehavior": {
+      "id": "version-0.65-CanvasEdgeBehavior",
+      "title": "CanvasEdgeBehavior",
+      "description": "Kind: enum"
+    },
+    "version-0.65-ColorSourceEffect": {
+      "id": "version-0.65-ColorSourceEffect",
+      "title": "ColorSourceEffect",
+      "description": "Kind: class"
+    },
+    "version-0.65-CompositeStepEffect": {
+      "id": "version-0.65-CompositeStepEffect",
+      "title": "CompositeStepEffect",
+      "description": "Kind: class"
+    },
+    "version-0.65-config": {
+      "id": "version-0.65-config",
+      "title": "React Native Config Schema",
+      "description": "The CLI command npx react-native config outputs project and dependencies configuration in JSON format to stdout."
+    },
+    "version-0.65-ConstantProviderDelegate": {
+      "id": "version-0.65-ConstantProviderDelegate",
+      "title": "ConstantProviderDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-customizing-sdk-versions": {
+      "id": "version-0.65-customizing-sdk-versions",
+      "title": "Customizing SDK versions",
+      "description": "It is easy for an app to customize which versions of the Windows SDK and WinUI 2.x to use."
+    },
+    "version-0.65-DesktopWindowMessage": {
+      "id": "version-0.65-DesktopWindowMessage",
+      "title": "DesktopWindowMessage",
+      "description": "Kind: struct"
+    },
+    "version-0.65-DevMenuControl": {
+      "id": "version-0.65-DevMenuControl",
+      "title": "DevMenuControl",
+      "description": "Kind: class"
+    },
+    "version-0.65-DynamicAutomationPeer": {
+      "id": "version-0.65-DynamicAutomationPeer",
+      "title": "DynamicAutomationPeer",
+      "description": "Kind: class"
+    },
+    "version-0.65-DynamicAutomationProperties": {
+      "id": "version-0.65-DynamicAutomationProperties",
+      "title": "DynamicAutomationProperties",
+      "description": "Kind: class"
+    },
+    "version-0.65-DynamicValueProvider": {
+      "id": "version-0.65-DynamicValueProvider",
+      "title": "DynamicValueProvider",
+      "description": "Kind: class"
+    },
+    "version-0.65-EffectBorderMode": {
+      "id": "version-0.65-EffectBorderMode",
+      "title": "EffectBorderMode",
+      "description": "Kind: enum"
+    },
+    "version-0.65-EffectOptimization": {
+      "id": "version-0.65-EffectOptimization",
+      "title": "EffectOptimization",
+      "description": "Kind: enum"
+    },
+    "version-0.65-GaussianBlurEffect": {
+      "id": "version-0.65-GaussianBlurEffect",
+      "title": "GaussianBlurEffect",
+      "description": "Kind: class"
+    },
+    "version-0.65-getting-started": {
+      "id": "version-0.65-getting-started",
+      "title": "Get Started with Windows",
+      "description": "This guide will help you get started on setting up your very first React Native for Windows app."
+    },
+    "version-0.65-hermes": {
+      "id": "version-0.65-hermes",
+      "title": "Hermes on Windows + macOS",
+      "description": "The Hermes engine is an open source JavaScript engine created by Facebook to optimize building and running React Native applications."
+    },
+    "version-0.65-IJsiByteBuffer": {
+      "id": "version-0.65-IJsiByteBuffer",
+      "title": "IJsiByteBuffer",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IJsiHostObject": {
+      "id": "version-0.65-IJsiHostObject",
+      "title": "IJsiHostObject",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IJSValueReader": {
+      "id": "version-0.65-IJSValueReader",
+      "title": "IJSValueReader",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IJSValueWriter": {
+      "id": "version-0.65-IJSValueWriter",
+      "title": "IJSValueWriter",
+      "description": "Kind: interface"
+    },
+    "version-0.65-InitializerDelegate": {
+      "id": "version-0.65-InitializerDelegate",
+      "title": "InitializerDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-InstanceCreatedEventArgs": {
+      "id": "version-0.65-InstanceCreatedEventArgs",
+      "title": "InstanceCreatedEventArgs",
+      "description": "Kind: class"
+    },
+    "version-0.65-InstanceDestroyedEventArgs": {
+      "id": "version-0.65-InstanceDestroyedEventArgs",
+      "title": "InstanceDestroyedEventArgs",
+      "description": "Kind: class"
+    },
+    "version-0.65-InstanceLoadedEventArgs": {
+      "id": "version-0.65-InstanceLoadedEventArgs",
+      "title": "InstanceLoadedEventArgs",
+      "description": "Kind: class"
+    },
+    "version-0.65-IReactContext": {
+      "id": "version-0.65-IReactContext",
+      "title": "IReactContext",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactDispatcher": {
+      "id": "version-0.65-IReactDispatcher",
+      "title": "IReactDispatcher",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactModuleBuilder": {
+      "id": "version-0.65-IReactModuleBuilder",
+      "title": "IReactModuleBuilder",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactNonAbiValue": {
+      "id": "version-0.65-IReactNonAbiValue",
+      "title": "IReactNonAbiValue",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactNotificationArgs": {
+      "id": "version-0.65-IReactNotificationArgs",
+      "title": "IReactNotificationArgs",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactNotificationService": {
+      "id": "version-0.65-IReactNotificationService",
+      "title": "IReactNotificationService",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactNotificationSubscription": {
+      "id": "version-0.65-IReactNotificationSubscription",
+      "title": "IReactNotificationSubscription",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactPackageBuilder": {
+      "id": "version-0.65-IReactPackageBuilder",
+      "title": "IReactPackageBuilder",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactPackageBuilderExperimental": {
+      "id": "version-0.65-IReactPackageBuilderExperimental",
+      "title": "IReactPackageBuilderExperimental",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactPackageProvider": {
+      "id": "version-0.65-IReactPackageProvider",
+      "title": "IReactPackageProvider",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactPropertyBag": {
+      "id": "version-0.65-IReactPropertyBag",
+      "title": "IReactPropertyBag",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactPropertyName": {
+      "id": "version-0.65-IReactPropertyName",
+      "title": "IReactPropertyName",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactPropertyNamespace": {
+      "id": "version-0.65-IReactPropertyNamespace",
+      "title": "IReactPropertyNamespace",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactSettingsSnapshot": {
+      "id": "version-0.65-IReactSettingsSnapshot",
+      "title": "IReactSettingsSnapshot",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactViewHost": {
+      "id": "version-0.65-IReactViewHost",
+      "title": "IReactViewHost",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IReactViewInstance": {
+      "id": "version-0.65-IReactViewInstance",
+      "title": "IReactViewInstance",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IRedBoxErrorFrameInfo": {
+      "id": "version-0.65-IRedBoxErrorFrameInfo",
+      "title": "IRedBoxErrorFrameInfo",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IRedBoxErrorInfo": {
+      "id": "version-0.65-IRedBoxErrorInfo",
+      "title": "IRedBoxErrorInfo",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IRedBoxHandler": {
+      "id": "version-0.65-IRedBoxHandler",
+      "title": "IRedBoxHandler",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IViewManager": {
+      "id": "version-0.65-IViewManager",
+      "title": "IViewManager",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IViewManagerCreateWithProperties": {
+      "id": "version-0.65-IViewManagerCreateWithProperties",
+      "title": "IViewManagerCreateWithProperties",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IViewManagerRequiresNativeLayout": {
+      "id": "version-0.65-IViewManagerRequiresNativeLayout",
+      "title": "IViewManagerRequiresNativeLayout",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IViewManagerWithChildren": {
+      "id": "version-0.65-IViewManagerWithChildren",
+      "title": "IViewManagerWithChildren",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IViewManagerWithCommands": {
+      "id": "version-0.65-IViewManagerWithCommands",
+      "title": "IViewManagerWithCommands",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IViewManagerWithExportedEventTypeConstants": {
+      "id": "version-0.65-IViewManagerWithExportedEventTypeConstants",
+      "title": "IViewManagerWithExportedEventTypeConstants",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IViewManagerWithExportedViewConstants": {
+      "id": "version-0.65-IViewManagerWithExportedViewConstants",
+      "title": "IViewManagerWithExportedViewConstants",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IViewManagerWithNativeProperties": {
+      "id": "version-0.65-IViewManagerWithNativeProperties",
+      "title": "IViewManagerWithNativeProperties",
+      "description": "Kind: interface"
+    },
+    "version-0.65-IViewManagerWithReactContext": {
+      "id": "version-0.65-IViewManagerWithReactContext",
+      "title": "IViewManagerWithReactContext",
+      "description": "Kind: interface"
+    },
+    "version-0.65-iviewwindowsprops-api": {
+      "id": "version-0.65-iviewwindowsprops-api",
+      "title": "IViewWindowsProps",
+      "description": "This extends the View Props and IKeyboardProps APIs."
+    },
+    "version-0.65-JsiByteArrayUser": {
+      "id": "version-0.65-JsiByteArrayUser",
+      "title": "JsiByteArrayUser",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-JSIEngine": {
+      "id": "version-0.65-JSIEngine",
+      "title": "JSIEngine",
+      "description": "Kind: enum"
+    },
+    "version-0.65-JsiError": {
+      "id": "version-0.65-JsiError",
+      "title": "JsiError",
+      "description": "Kind: class"
+    },
+    "version-0.65-JsiErrorType": {
+      "id": "version-0.65-JsiErrorType",
+      "title": "JsiErrorType",
+      "description": "Kind: enum"
+    },
+    "version-0.65-JsiHostFunction": {
+      "id": "version-0.65-JsiHostFunction",
+      "title": "JsiHostFunction",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-JsiObjectRef": {
+      "id": "version-0.65-JsiObjectRef",
+      "title": "JsiObjectRef",
+      "description": "Kind: struct"
+    },
+    "version-0.65-JsiPreparedJavaScript": {
+      "id": "version-0.65-JsiPreparedJavaScript",
+      "title": "JsiPreparedJavaScript",
+      "description": "Kind: class"
+    },
+    "version-0.65-JsiPropertyIdRef": {
+      "id": "version-0.65-JsiPropertyIdRef",
+      "title": "JsiPropertyIdRef",
+      "description": "Kind: struct"
+    },
+    "version-0.65-JsiRuntime": {
+      "id": "version-0.65-JsiRuntime",
+      "title": "JsiRuntime",
+      "description": "Kind: class"
+    },
+    "version-0.65-JsiScopeState": {
+      "id": "version-0.65-JsiScopeState",
+      "title": "JsiScopeState",
+      "description": "Kind: struct"
+    },
+    "version-0.65-JsiStringRef": {
+      "id": "version-0.65-JsiStringRef",
+      "title": "JsiStringRef",
+      "description": "Kind: struct"
+    },
+    "version-0.65-JsiSymbolRef": {
+      "id": "version-0.65-JsiSymbolRef",
+      "title": "JsiSymbolRef",
+      "description": "Kind: struct"
+    },
+    "version-0.65-JsiValueKind": {
+      "id": "version-0.65-JsiValueKind",
+      "title": "JsiValueKind",
+      "description": "Kind: enum"
+    },
+    "version-0.65-JsiValueRef": {
+      "id": "version-0.65-JsiValueRef",
+      "title": "JsiValueRef",
+      "description": "Kind: struct"
+    },
+    "version-0.65-JsiWeakObjectRef": {
+      "id": "version-0.65-JsiWeakObjectRef",
+      "title": "JsiWeakObjectRef",
+      "description": "Kind: struct"
+    },
+    "version-0.65-JSValueArgWriter": {
+      "id": "version-0.65-JSValueArgWriter",
+      "title": "JSValueArgWriter",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-JSValueType": {
+      "id": "version-0.65-JSValueType",
+      "title": "JSValueType",
+      "description": "Kind: enum"
+    },
+    "version-0.65-MethodDelegate": {
+      "id": "version-0.65-MethodDelegate",
+      "title": "MethodDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-MethodResultCallback": {
+      "id": "version-0.65-MethodResultCallback",
+      "title": "MethodResultCallback",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-MethodReturnType": {
+      "id": "version-0.65-MethodReturnType",
+      "title": "MethodReturnType",
+      "description": "Kind: enum"
+    },
+    "version-0.65-Native-API-Reference": {
+      "id": "version-0.65-Native-API-Reference",
+      "title": "namespace Microsoft.ReactNative",
+      "description": "Enums"
+    },
+    "version-0.65-native-code": {
+      "id": "version-0.65-native-code",
+      "title": "Working with native code on Windows",
+      "description": "What is a React Native for Windows app?"
+    },
+    "version-0.65-native-modules": {
+      "id": "version-0.65-native-modules",
+      "title": "Native Modules",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.65-native-modules-advanced": {
+      "id": "version-0.65-native-modules-advanced",
+      "title": "Native Modules (Advanced)",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.65-native-modules-async": {
+      "id": "version-0.65-native-modules-async",
+      "title": "Using Asynchronous Windows APIs",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.65-native-modules-jsvalue": {
+      "id": "version-0.65-native-modules-jsvalue",
+      "title": "Using JSValue",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.65-native-modules-setup": {
+      "id": "version-0.65-native-modules-setup",
+      "title": "Native Module Setup",
+      "description": "This documentation is a work in progress and version-specific. Please check that the version of this document (top of page) matches the version of RN/RNW you're targeting."
+    },
+    "version-0.65-NuGet": {
+      "id": "version-0.65-NuGet",
+      "title": "Using react-native-windows NuGet packages",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.65-parity-status": {
+      "id": "version-0.65-parity-status",
+      "title": "API Parity",
+      "description": "Core APIs and Components"
+    },
+    "version-0.65-QuirkSettings": {
+      "id": "version-0.65-QuirkSettings",
+      "title": "QuirkSettings",
+      "description": "Kind: class"
+    },
+    "version-0.65-ReactApplication": {
+      "id": "version-0.65-ReactApplication",
+      "title": "ReactApplication",
+      "description": "Kind: class"
+    },
+    "version-0.65-ReactCoreInjection": {
+      "id": "version-0.65-ReactCoreInjection",
+      "title": "ReactCoreInjection",
+      "description": "Kind: class"
+    },
+    "version-0.65-ReactCreatePropertyValue": {
+      "id": "version-0.65-ReactCreatePropertyValue",
+      "title": "ReactCreatePropertyValue",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-ReactDispatcherCallback": {
+      "id": "version-0.65-ReactDispatcherCallback",
+      "title": "ReactDispatcherCallback",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-ReactDispatcherHelper": {
+      "id": "version-0.65-ReactDispatcherHelper",
+      "title": "ReactDispatcherHelper",
+      "description": "Kind: class"
+    },
+    "version-0.65-ReactInstanceSettings": {
+      "id": "version-0.65-ReactInstanceSettings",
+      "title": "ReactInstanceSettings",
+      "description": "Kind: class"
+    },
+    "version-0.65-ReactModuleProvider": {
+      "id": "version-0.65-ReactModuleProvider",
+      "title": "ReactModuleProvider",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-ReactNativeHost": {
+      "id": "version-0.65-ReactNativeHost",
+      "title": "ReactNativeHost",
+      "description": "Kind: class"
+    },
+    "version-0.65-ReactNotificationHandler": {
+      "id": "version-0.65-ReactNotificationHandler",
+      "title": "ReactNotificationHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-ReactNotificationServiceHelper": {
+      "id": "version-0.65-ReactNotificationServiceHelper",
+      "title": "ReactNotificationServiceHelper",
+      "description": "Kind: class"
+    },
+    "version-0.65-ReactPropertyBagHelper": {
+      "id": "version-0.65-ReactPropertyBagHelper",
+      "title": "ReactPropertyBagHelper",
+      "description": "Kind: class"
+    },
+    "version-0.65-ReactRootView": {
+      "id": "version-0.65-ReactRootView",
+      "title": "ReactRootView",
+      "description": "Kind: class"
+    },
+    "version-0.65-ReactViewManagerProvider": {
+      "id": "version-0.65-ReactViewManagerProvider",
+      "title": "ReactViewManagerProvider",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-ReactViewOptions": {
+      "id": "version-0.65-ReactViewOptions",
+      "title": "ReactViewOptions",
+      "description": "Kind: class"
+    },
+    "version-0.65-RedBoxErrorType": {
+      "id": "version-0.65-RedBoxErrorType",
+      "title": "RedBoxErrorType",
+      "description": "Kind: enum"
+    },
+    "version-0.65-RedBoxHelper": {
+      "id": "version-0.65-RedBoxHelper",
+      "title": "RedBoxHelper",
+      "description": "Kind: class"
+    },
+    "version-0.65-releases": {
+      "id": "version-0.65-releases",
+      "title": "Release Strategy",
+      "description": "For every major version update of react-native, React Native for Windows releases a matching version. In addition, there are three release distributions with corresponding npm package distribution tags:"
+    },
+    "version-0.65-rnw-dependencies": {
+      "id": "version-0.65-rnw-dependencies",
+      "title": "System Requirements",
+      "description": "You can run React Native for Windows apps only on:"
+    },
+    "version-0.65-run-windows-cli": {
+      "id": "version-0.65-run-windows-cli",
+      "title": "React Native Windows CLI",
+      "description": "This guide will give you more information on the React Native Windows CLI."
+    },
+    "version-0.65-SyncMethodDelegate": {
+      "id": "version-0.65-SyncMethodDelegate",
+      "title": "SyncMethodDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-UIBatchCompleteCallback": {
+      "id": "version-0.65-UIBatchCompleteCallback",
+      "title": "UIBatchCompleteCallback",
+      "description": "Kind: delegate"
+    },
+    "version-0.65-view-managers": {
+      "id": "version-0.65-view-managers",
+      "title": "Native UI Components",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.65-ViewControl": {
+      "id": "version-0.65-ViewControl",
+      "title": "ViewControl",
+      "description": "Kind: class"
+    },
+    "version-0.65-ViewManagerPropertyType": {
+      "id": "version-0.65-ViewManagerPropertyType",
+      "title": "ViewManagerPropertyType",
+      "description": "Kind: enum"
+    },
+    "version-0.65-ViewPanel": {
+      "id": "version-0.65-ViewPanel",
+      "title": "ViewPanel",
+      "description": "Kind: class"
+    },
+    "version-0.65-win10-compat": {
+      "id": "version-0.65-win10-compat",
+      "title": "Backward compatibility with Windows versions",
+      "description": "React Native for Windows supports devices running on Windows 10 and higher."
+    },
+    "version-0.65-windowsbrush-and-theme": {
+      "id": "version-0.65-windowsbrush-and-theme",
+      "title": "Using PlatformColor and Responding to Themes",
+      "description": "Overview"
+    },
+    "version-0.65-XamlHelper": {
+      "id": "version-0.65-XamlHelper",
+      "title": "XamlHelper",
+      "description": "Kind: class"
+    },
+    "version-0.65-XamlMetaDataProvider": {
+      "id": "version-0.65-XamlMetaDataProvider",
+      "title": "XamlMetaDataProvider",
+      "description": "Kind: class"
+    },
+    "version-0.65-XamlUIService": {
+      "id": "version-0.65-XamlUIService",
+      "title": "XamlUIService",
+      "description": "Kind: class"
+    }
+  }
+}

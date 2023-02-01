@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.60-project-structure",
+  "id": "version-0.60/version-0.60-project-structure",
+  "title": "MSBuild Project Structure",
+  "description": "This is a description of each of the core projects, their purpose and output artifacts.",
+  "source": "@site/versioned_docs/version-0.60/project-structure.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.60-project-structure",
+  "permalink": "/react-native-windows/docs/0.60/version-0.60-project-structure",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.60/project-structure.md",
+  "tags": [],
+  "version": "0.60",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.60-project-structure",
+    "title": "MSBuild Project Structure",
+    "original_id": "project-structure"
+  }
+}

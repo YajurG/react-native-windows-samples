@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started",
+  "id": "getting-started",
+  "title": "Get Started with Windows",
+  "description": "This guide will help you get started on setting up your very first React Native for Windows app.",
+  "source": "@site/../docs/getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/getting-started",
+  "permalink": "/react-native-windows/docs/next/getting-started",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "getting-started",
+    "title": "Get Started with Windows"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "System Requirements",
+    "permalink": "/react-native-windows/docs/next/rnw-dependencies"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pluginId": "default",
+  "version": "0.60",
+  "label": "0.60",
+  "banner": "unmaintained",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-0.60",
+  "isLast": false,
+  "docsSidebars": {},
+  "docs": {
+    "version-0.60-apptheme-api": {
+      "id": "version-0.60-apptheme-api",
+      "title": "AppTheme",
+      "description": "This API name will be deprecated and merged with Facebook's `Appearance` API when we update to version 0.62 of React Native."
+    },
+    "version-0.60-branch-setup": {
+      "id": "version-0.60-branch-setup",
+      "title": "Git branch setup",
+      "description": "This document describes how to set up your development environment and contribute changes to the microsoft/react-native-windows project. This document assumes basic working knowledge with Git and related tools. We are providing instructions specific to this project."
+    },
+    "version-0.60-building-rnw": {
+      "id": "version-0.60-building-rnw",
+      "title": "Building React-Native-Windows",
+      "description": "- Make sure you have installed all of the development dependencies"
+    },
+    "version-0.60-contributing": {
+      "id": "version-0.60-contributing",
+      "title": "Contributing to microsoft/react-native-windows",
+      "description": "If this is your first time, below are some more detailed steps for getting your branch set up and submitting a PR. You can either do this with the command prompt or with a combination of the command prompt and SourceTree."
+    },
+    "version-0.60-e2e-test": {
+      "id": "version-0.60-e2e-test",
+      "title": "Author and Run E2E Test for React Native Windows",
+      "description": "E2E project structure"
+    },
+    "version-0.60-e2e-test-more-about": {
+      "id": "version-0.60-e2e-test-more-about",
+      "title": "More about E2E test",
+      "description": "The E2E tests are now part of RN Tester and these pages are deprecated."
+    },
+    "version-0.60-flyout-component": {
+      "id": "version-0.60-flyout-component",
+      "title": "Flyout",
+      "description": "Props"
+    },
+    "version-0.60-getting-started": {
+      "id": "version-0.60-getting-started",
+      "title": "Getting Started",
+      "description": "<style"
+    },
+    "version-0.60-glyph-component": {
+      "id": "version-0.60-glyph-component",
+      "title": "Glyph",
+      "description": "Props"
+    },
+    "version-0.60-ikeyboardprops-api": {
+      "id": "version-0.60-ikeyboardprops-api",
+      "title": "IKeyboardProps",
+      "description": "When developing for a Windows device, the liklihood of you needing to support a rich keyboarding experience in your app is very high - this API allows you to customize and control how keyboarding works on your custom or native components."
+    },
+    "version-0.60-iviewwindowsprops-api": {
+      "id": "version-0.60-iviewwindowsprops-api",
+      "title": "IViewWindowsProps",
+      "description": "This extends the View Props and IKeyboardProps APIs."
+    },
+    "version-0.60-native-modules": {
+      "id": "version-0.60-native-modules",
+      "title": "Native Modules",
+      "description": "This documentation and the underlying platform code is a work in progress. >Examples (C# and C++/WinRT):"
+    },
+    "version-0.60-native-modules-advanced": {
+      "id": "version-0.60-native-modules-advanced",
+      "title": "Native Modules (Advanced)",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.60-native-modules-setup": {
+      "id": "version-0.60-native-modules-setup",
+      "title": "Native Module Setup",
+      "description": "This documentation is a work in progress and version-specific. Please check that the version of this document (top of page) matches the version of RN/RNW you're targeting."
+    },
+    "version-0.60-native-modules-using": {
+      "id": "version-0.60-native-modules-using",
+      "title": "Using Community Native Modules",
+      "description": "Community native modules are usually distributed as npm packages. To understand more about npm packages you may find this guide useful."
+    },
+    "version-0.60-parity-status": {
+      "id": "version-0.60-parity-status",
+      "title": "Component and Module API Parity Status",
+      "description": "This doc reports the status progress of core components modules/APIs integration for vnext. The high priority components and modules tracked here will be in alignment with the React Native Lean Core effort, others not in Lean Core we plan on shipping as separate packages in future milestones."
+    },
+    "version-0.60-popup-component": {
+      "id": "version-0.60-popup-component",
+      "title": "Popup",
+      "description": "Props"
+    },
+    "version-0.60-project-structure": {
+      "id": "version-0.60-project-structure",
+      "title": "MSBuild Project Structure",
+      "description": "This is a description of each of the core projects, their purpose and output artifacts."
+    },
+    "version-0.60-releases": {
+      "id": "version-0.60-releases",
+      "title": "Release Strategy (vnext)",
+      "description": "This document describes the release strategy for the vnext effort for React Native for Windows."
+    },
+    "version-0.60-rnw-dependencies": {
+      "id": "version-0.60-rnw-dependencies",
+      "title": "System Requirements",
+      "description": "You can run React-Native for Windows apps only on Windows 10 devices with Windows version: 10.0.15063.0 or higher. See Windows 10 Compatibility for version support details."
+    },
+    "version-0.60-testing": {
+      "id": "version-0.60-testing",
+      "title": "Testing React-Native-Windows",
+      "description": "When contributing to this project, unit and integration tests should be run to help prevent new bugs and regressions."
+    },
+    "version-0.60-view-managers": {
+      "id": "version-0.60-view-managers",
+      "title": "Native UI Components",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.60-win10-compat": {
+      "id": "version-0.60-win10-compat",
+      "title": "Backward compatibility with Windows versions",
+      "description": "React Native for Windows supports Windows 10 devices. React Native for Windows layers cleanly on top of the native Windows UI platform which means there are some APIs that may not be supported in all versions of Windows since the corresponding native capabilities were not backward compatible with older OS versions. The following table captures these deltas. If you are using any of the APIs below, they will gracefully fail (no-op) when the app is running on Windows 10 devices of corresponding OS versions."
+    },
+    "version-0.60-windowsbrush-and-theme": {
+      "id": "version-0.60-windowsbrush-and-theme",
+      "title": "Using Windows Brushes and Responding to Themes",
+      "description": "Overview"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-modules-marshalling-data",
+  "id": "native-modules-marshalling-data",
+  "title": "Marshaling Data",
+  "description": "This documentation and the underlying platform code is a work in progress.",
+  "source": "@site/../docs/native-modules-marshalling-data.md",
+  "sourceDirName": ".",
+  "slug": "/native-modules-marshalling-data",
+  "permalink": "/react-native-windows/docs/next/native-modules-marshalling-data",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-modules-marshalling-data.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "native-modules-marshalling-data",
+    "title": "Marshaling Data"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Choosing C++ or C# for native code",
+    "permalink": "/react-native-windows/docs/next/native-code-language-choice"
+  },
+  "next": {
+    "title": "Using Asynchronous Windows APIs",
+    "permalink": "/react-native-windows/docs/next/native-modules-async"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/JsiObjectRef",
+  "id": "native-api/JsiObjectRef",
+  "title": "JsiObjectRef",
+  "description": "Kind: struct",
+  "source": "@site/../docs/native-api/JsiObjectRef-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/JsiObjectRef",
+  "permalink": "/react-native-windows/docs/next/native-api/JsiObjectRef",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/JsiObjectRef-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "JsiObjectRef",
+    "title": "JsiObjectRef"
+  }
+}

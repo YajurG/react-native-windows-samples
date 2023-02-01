@@ -1,0 +1,30 @@
+{
+  "unversionedId": "view-managers",
+  "id": "view-managers",
+  "title": "Native UI Components",
+  "description": "This documentation and the underlying platform code is a work in progress.",
+  "source": "@site/../docs/view-managers.md",
+  "sourceDirName": ".",
+  "slug": "/view-managers",
+  "permalink": "/react-native-windows/docs/next/view-managers",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/view-managers.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "view-managers",
+    "title": "Native UI Components"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Native Modules",
+    "permalink": "/react-native-windows/docs/next/native-modules"
+  },
+  "next": {
+    "title": "Native Module Setup",
+    "permalink": "/react-native-windows/docs/next/native-modules-setup"
+  }
+}

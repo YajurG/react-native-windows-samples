@@ -1,0 +1,33 @@
+{
+  "permalink": "/react-native-windows/blog/2021/06/30/notifications",
+  "source": "@site/blog/2021-06-30-notifications.md",
+  "title": "Add Toast notifications to your React Native for Windows application",
+  "description": "Add Windows toast notifications to a React Native for Windows application",
+  "date": "2021-06-30T00:00:00.000Z",
+  "formattedDate": "June 30, 2021",
+  "tags": [],
+  "readingTime": 5.55,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Alexander Sklar",
+      "url": "https://twitter.com/alexsklar"
+    }
+  ],
+  "frontMatter": {
+    "title": "Add Toast notifications to your React Native for Windows application",
+    "author": "Alexander Sklar",
+    "authorURL": "https://twitter.com/alexsklar",
+    "description": "Add Windows toast notifications to a React Native for Windows application",
+    "is_blog": true,
+    "published_date": "June 30, 2021"
+  },
+  "prevItem": {
+    "title": "Use Win32 features from a React Native for Windows application",
+    "permalink": "/react-native-windows/blog/2021/08/05/win32component"
+  },
+  "nextItem": {
+    "title": "Add inking to your React Native for Windows application",
+    "permalink": "/react-native-windows/blog/2021/05/25/inking"
+  }
+}

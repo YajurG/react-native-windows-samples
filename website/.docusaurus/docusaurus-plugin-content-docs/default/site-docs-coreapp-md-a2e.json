@@ -1,0 +1,26 @@
+{
+  "unversionedId": "coreapp",
+  "id": "coreapp",
+  "title": "CoreApp",
+  "description": "EXPERIMENTAL",
+  "source": "@site/../docs/coreapp.md",
+  "sourceDirName": ".",
+  "slug": "/coreapp",
+  "permalink": "/react-native-windows/docs/next/coreapp",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/coreapp.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "coreapp",
+    "title": "CoreApp"
+  },
+  "sidebar": "apis",
+  "previous": {
+    "title": "Full reference",
+    "permalink": "/react-native-windows/docs/next/native-api/Native-API-Reference"
+  }
+}

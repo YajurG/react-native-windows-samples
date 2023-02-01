@@ -1,0 +1,30 @@
+{
+  "unversionedId": "platform",
+  "id": "platform",
+  "title": "Platform Detection",
+  "description": "When building cross-platform applications, you will sometimes need to dynamically detect the platform your code is running on. React Native for Windows supports the same platform detection mechanisms as Android and iOS. React Native for Windows reports a Platform.OS of windows, and uses the .windows platform-specific extension.",
+  "source": "@site/../docs/platform.md",
+  "sourceDirName": ".",
+  "slug": "/platform",
+  "permalink": "/react-native-windows/docs/next/platform",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/platform.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "platform",
+    "title": "Platform Detection"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Release Strategy",
+    "permalink": "/react-native-windows/docs/next/releases"
+  },
+  "next": {
+    "title": "Upgrading App to Latest Version of React Native Windows",
+    "permalink": "/react-native-windows/docs/next/upgrade-app"
+  }
+}

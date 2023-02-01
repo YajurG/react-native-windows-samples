@@ -1,0 +1,30 @@
+{
+  "unversionedId": "popup-component",
+  "id": "popup-component",
+  "title": "Popup",
+  "description": "Props",
+  "source": "@site/../docs/popup-component-windows.md",
+  "sourceDirName": ".",
+  "slug": "/popup-component",
+  "permalink": "/react-native-windows/docs/next/popup-component",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/popup-component-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "popup-component",
+    "title": "Popup"
+  },
+  "sidebar": "apis",
+  "previous": {
+    "title": "Glyph",
+    "permalink": "/react-native-windows/docs/next/glyph-component"
+  },
+  "next": {
+    "title": "IKeyboardProps",
+    "permalink": "/react-native-windows/docs/next/ikeyboardprops-api"
+  }
+}

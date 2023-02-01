@@ -1,0 +1,30 @@
+{
+  "unversionedId": "setup-ci",
+  "id": "setup-ci",
+  "title": "Setup Continuous Integration Pipeline for an RNW App",
+  "description": "This guide will help you get started on setting up your very first continuous integration pipeline for a React Native for Windows app.",
+  "source": "@site/../docs/setup-ci.md",
+  "sourceDirName": ".",
+  "slug": "/setup-ci",
+  "permalink": "/react-native-windows/docs/next/setup-ci",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/setup-ci.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "setup-ci",
+    "title": "Setup Continuous Integration Pipeline for an RNW App"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Upgrading App to Latest Version of React Native Windows",
+    "permalink": "/react-native-windows/docs/next/upgrade-app"
+  },
+  "next": {
+    "title": "Publishing a React Native Windows App to the Microsoft Store",
+    "permalink": "/react-native-windows/docs/next/app-publishing"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "rnm-getting-started",
+  "id": "rnm-getting-started",
+  "title": "Get Started with macOS",
+  "description": "This guide will help you get started on setting up your very first React Native for macOS app.",
+  "source": "@site/../docs/rnm-getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/rnm-getting-started",
+  "permalink": "/react-native-windows/docs/next/rnm-getting-started",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/rnm-getting-started.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "rnm-getting-started",
+    "title": "Get Started with macOS"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Managing C++ dependencies",
+    "permalink": "/react-native-windows/docs/next/managing-cpp-deps"
+  },
+  "next": {
+    "title": "System Requirements",
+    "permalink": "/react-native-windows/docs/next/rnm-dependencies"
+  }
+}

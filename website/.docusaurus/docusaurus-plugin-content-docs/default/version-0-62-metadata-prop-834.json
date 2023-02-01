@@ -1,0 +1,188 @@
+{
+  "pluginId": "default",
+  "version": "0.62",
+  "label": "0.62",
+  "banner": "unmaintained",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-0.62",
+  "isLast": false,
+  "docsSidebars": {},
+  "docs": {
+    "version-0.62-apptheme-api": {
+      "id": "version-0.62-apptheme-api",
+      "title": "AppTheme",
+      "description": "This API name is deprecated.  Use react-native's `Appearance` API instead."
+    },
+    "version-0.62-getting-started": {
+      "id": "version-0.62-getting-started",
+      "title": "Get Started with Windows",
+      "description": "This guide will help you get started on setting up your very first React Native for Windows app."
+    },
+    "version-0.62-ijsvaluereader-api": {
+      "id": "version-0.62-ijsvaluereader-api",
+      "title": "IJSValueReader",
+      "description": "`IJSIValueReader` is used to read data from JavaScript in custom NativeModules.  It acts as a stream."
+    },
+    "version-0.62-ijsvaluewriter-api": {
+      "id": "version-0.62-ijsvaluewriter-api",
+      "title": "IJSValueWriter",
+      "description": "`IJSValueWriter` is used to read data from JavaScript in custom NativeModules.  It acts as a stream."
+    },
+    "version-0.62-ikeyboardprops-api": {
+      "id": "version-0.62-ikeyboardprops-api",
+      "title": "IKeyboardProps",
+      "description": "When developing for a Windows device, the likelihood of you needing to support a rich keyboarding experience in your app is very high - this API allows you to customize and control how keyboarding works on your custom or native components."
+    },
+    "version-0.62-ireactcontext-api": {
+      "id": "version-0.62-ireactcontext-api",
+      "title": "IReactContext",
+      "description": "The IReactContext is given to native modules to communicate with other native modules, views, application, and the ReactNative instance."
+    },
+    "version-0.62-ireactdispatcher-api": {
+      "id": "version-0.62-ireactdispatcher-api",
+      "title": "IReactDispatcher",
+      "description": "IReactDispatcher provides the core threading / task management interface for ensuring code happens in the right order on the right thread.  One primary dispatcher that applications may require is the UIDispatcher which provides NativeModules access to the UI thread accociated with this react instance.   Another one is the JSDispatcher which allows apps to post tasks to the JS engine thread."
+    },
+    "version-0.62-ireactmodulebuilder-api": {
+      "id": "version-0.62-ireactmodulebuilder-api",
+      "title": "IReactModuleBuilder",
+      "description": "Builds native modules inside of React native code based on the provided meta-data.  See Native Modules for more usage information."
+    },
+    "version-0.62-ireactnonabivalue-api": {
+      "id": "version-0.62-ireactnonabivalue-api",
+      "title": "IReactNonAbiValue",
+      "description": "IReactNonAbiValue helps to wrap up a non-ABI safe C++ values into an IInspectable object. We use it to handle native module lifetime."
+    },
+    "version-0.62-ireactnotificationservice-api": {
+      "id": "version-0.62-ireactnotificationservice-api",
+      "title": "IReactNotificationService",
+      "description": "Describe the API"
+    },
+    "version-0.62-ireactpackagebuilder-api": {
+      "id": "version-0.62-ireactpackagebuilder-api",
+      "title": "IReactPackageBuilder",
+      "description": "A ReactPackageBuilder provides the react instance with all the NativeModules and ViewManagers that will be availiable in the react instance."
+    },
+    "version-0.62-ireactpackageprovider-api": {
+      "id": "version-0.62-ireactpackageprovider-api",
+      "title": "IReactPackageProvider",
+      "description": "This interface is to be implemented by package creators."
+    },
+    "version-0.62-ireactpropertybag-api": {
+      "id": "version-0.62-ireactpropertybag-api",
+      "title": "IReactPropertyBag",
+      "description": "The IReactPropertyBag provides a thread-safe property storage."
+    },
+    "version-0.62-iredboxhandler-api": {
+      "id": "version-0.62-iredboxhandler-api",
+      "title": "IRedBoxHandler",
+      "description": "RedBoxHandler provides an extension point to allow custom error handling within the react instance.  This can be useful if you have an exsiting error reporting system that you want react errors to be reported to.  The default implementation of RedBoxHandler shows error messages in a full screen error screen within the application."
+    },
+    "version-0.62-iviewmanager-api": {
+      "id": "version-0.62-iviewmanager-api",
+      "title": "IViewManager",
+      "description": "See the documentation of Native UI Components for information on how to author a ViewManager."
+    },
+    "version-0.62-iviewwindowsprops-api": {
+      "id": "version-0.62-iviewwindowsprops-api",
+      "title": "IViewWindowsProps",
+      "description": "This extends the View Props and IKeyboardProps APIs."
+    },
+    "version-0.62-native-code": {
+      "id": "version-0.62-native-code",
+      "title": "Working with native code on Windows",
+      "description": "What is a React Native for Windows app?"
+    },
+    "version-0.62-native-code-language-choice": {
+      "id": "version-0.62-native-code-language-choice",
+      "title": "Choosing C++ or C# for native code",
+      "description": "React Native for Windows supports writing native code in both C++ and C#, but there are trade-offs with each language. The choice of language can impact the compatibility, developer experience, and performance of your project. So whether you're building an app or native module, you should choose the native language that best meets your requirements."
+    },
+    "version-0.62-native-modules": {
+      "id": "version-0.62-native-modules",
+      "title": "Native Modules",
+      "description": "This documentation and the underlying platform code is a work in progress. >Examples (C# and C++/WinRT):"
+    },
+    "version-0.62-native-modules-advanced": {
+      "id": "version-0.62-native-modules-advanced",
+      "title": "Native Modules (Advanced)",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.62-native-modules-async": {
+      "id": "version-0.62-native-modules-async",
+      "title": "Using Asynchronous Windows APIs",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.62-native-modules-setup": {
+      "id": "version-0.62-native-modules-setup",
+      "title": "Native Module Setup",
+      "description": "This documentation is a work in progress and version-specific. Please check that the version of this document (top of page) matches the version of RN/RNW you're targeting."
+    },
+    "version-0.62-native-modules-troubleshooting": {
+      "id": "version-0.62-native-modules-troubleshooting",
+      "title": "Troubleshooting Native Modules",
+      "description": "So you added a new native module or a new method to a module but it isn't working, now what?!"
+    },
+    "version-0.62-parity-status": {
+      "id": "version-0.62-parity-status",
+      "title": "API Parity",
+      "description": "Core APIs and Components"
+    },
+    "version-0.62-reactapplication-api": {
+      "id": "version-0.62-reactapplication-api",
+      "title": "ReactApplication",
+      "description": "ReactApplication provides a BaseApplication class for use in applications that are entirely written in react-native.  ReactApplication will load the react instance on launch of your app for you and provide accessors to your application's ReactInstanceSettings and ReactNativeHost to customize your react instance."
+    },
+    "version-0.62-reactinstancesettings-api": {
+      "id": "version-0.62-reactinstancesettings-api",
+      "title": "ReactInstanceSettings",
+      "description": "Provides configuration of the react instance."
+    },
+    "version-0.62-reactnativehost-api": {
+      "id": "version-0.62-reactnativehost-api",
+      "title": "ReactNativeHost",
+      "description": "This is the main entry-point to create a react-native instance.  The ReactNativeHost object exists to configure the instance using ReactInstanceSettings before its loaded, as well as enabling control of when to load the instance."
+    },
+    "version-0.62-releases": {
+      "id": "version-0.62-releases",
+      "title": "Release Strategy",
+      "description": "For every major version update of react-native, React Native for Windows releases a matching version. In addition, there are three release distributions with corresponding npm package distribution tags:"
+    },
+    "version-0.62-rnm-getting-started": {
+      "id": "version-0.62-rnm-getting-started",
+      "title": "Get Started with macOS",
+      "description": "This guide will help you get started on setting up your very first React Native for macOS app."
+    },
+    "version-0.62-rnw-dependencies": {
+      "id": "version-0.62-rnw-dependencies",
+      "title": "System Requirements",
+      "description": "You can run React-Native for Windows apps only on Windows 10 devices with Windows version: 10.0.16299.0 (aka 1709, aka Redstone 3, aka Fall Creators Update) or higher. Some features may not work on all versions. See Windows 10 Compatibility for version support details."
+    },
+    "version-0.62-supported-community-modules": {
+      "id": "version-0.62-supported-community-modules",
+      "title": "Supported Community Modules",
+      "description": "ReactNative.Directory"
+    },
+    "version-0.62-view-managers": {
+      "id": "version-0.62-view-managers",
+      "title": "Native UI Components",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.62-win10-compat": {
+      "id": "version-0.62-win10-compat",
+      "title": "Backward compatibility with Windows versions",
+      "description": "React Native for Windows supports Windows 10 devices. React Native for Windows layers cleanly on top of the native Windows UI platform which means there are some APIs that may not be supported in all versions of Windows since the corresponding native capabilities were not backward compatible with older OS versions. The following table captures these deltas. If you are using any of the APIs below, they will gracefully fail (no-op) when the app is running on Windows 10 devices of corresponding OS versions."
+    },
+    "version-0.62-winui3": {
+      "id": "version-0.62-winui3",
+      "title": "WinUI 3",
+      "description": "WinUI is the modern native UI platform of Windows. As of this writing, WinUI 3 has published Preview 1."
+    },
+    "version-0.62-xamluiservice-api": {
+      "id": "version-0.62-xamluiservice-api",
+      "title": "XamlUIService",
+      "description": "XamlUIService provides access to XAML UI specific functionality.  It provides access to APIs to get a XAML element from a react tag, and to dispatch events to JS components."
+    }
+  }
+}

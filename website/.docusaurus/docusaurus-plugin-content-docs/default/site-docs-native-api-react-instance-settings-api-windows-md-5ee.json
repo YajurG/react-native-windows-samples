@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-api/ReactInstanceSettings",
+  "id": "native-api/ReactInstanceSettings",
+  "title": "ReactInstanceSettings",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/ReactInstanceSettings-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/ReactInstanceSettings",
+  "permalink": "/react-native-windows/docs/next/native-api/ReactInstanceSettings",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/ReactInstanceSettings-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "ReactInstanceSettings",
+    "title": "ReactInstanceSettings"
+  },
+  "sidebar": "apis",
+  "previous": {
+    "title": "ReactApplication",
+    "permalink": "/react-native-windows/docs/next/native-api/ReactApplication"
+  },
+  "next": {
+    "title": "ReactNativeHost",
+    "permalink": "/react-native-windows/docs/next/native-api/ReactNativeHost"
+  }
+}

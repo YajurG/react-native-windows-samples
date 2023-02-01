@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/LoadingState",
+  "id": "native-api/LoadingState",
+  "title": "LoadingState",
+  "description": "Kind: enum",
+  "source": "@site/../docs/native-api/LoadingState-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/LoadingState",
+  "permalink": "/react-native-windows/docs/next/native-api/LoadingState",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/LoadingState-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "LoadingState",
+    "title": "LoadingState"
+  }
+}

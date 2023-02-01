@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/JsiStringRef",
+  "id": "native-api/JsiStringRef",
+  "title": "JsiStringRef",
+  "description": "Kind: struct",
+  "source": "@site/../docs/native-api/JsiStringRef-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/JsiStringRef",
+  "permalink": "/react-native-windows/docs/next/native-api/JsiStringRef",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/JsiStringRef-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "JsiStringRef",
+    "title": "JsiStringRef"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.64-nuget-update",
+  "id": "version-0.64/version-0.64-nuget-update",
+  "title": "Updating NuGet packages",
+  "description": "This documentation and the underlying platform code is a work in progress.",
+  "source": "@site/versioned_docs/version-0.64/nuget-update.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.64-nuget-update",
+  "permalink": "/react-native-windows/docs/0.64/version-0.64-nuget-update",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.64/nuget-update.md",
+  "tags": [],
+  "version": "0.64",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.64-nuget-update",
+    "title": "Updating NuGet packages",
+    "original_id": "nuget-update"
+  }
+}

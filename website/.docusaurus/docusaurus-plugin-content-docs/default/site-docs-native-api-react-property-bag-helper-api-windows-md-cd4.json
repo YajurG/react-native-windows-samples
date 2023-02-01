@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/ReactPropertyBagHelper",
+  "id": "native-api/ReactPropertyBagHelper",
+  "title": "ReactPropertyBagHelper",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/ReactPropertyBagHelper-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/ReactPropertyBagHelper",
+  "permalink": "/react-native-windows/docs/next/native-api/ReactPropertyBagHelper",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/ReactPropertyBagHelper-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "ReactPropertyBagHelper",
+    "title": "ReactPropertyBagHelper"
+  }
+}

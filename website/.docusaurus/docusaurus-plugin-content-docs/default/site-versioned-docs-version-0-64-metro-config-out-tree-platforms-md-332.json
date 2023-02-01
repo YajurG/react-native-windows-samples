@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.64-metro-config-out-tree-platforms",
+  "id": "version-0.64/version-0.64-metro-config-out-tree-platforms",
+  "title": "Metro config for out of tree platforms",
+  "description": "How to setup and diagnose issues with metro config for react-native-macos and react-native-windows.  Many of the instructions within this document may refer just to react-native-windows, but the steps apply to react-native-macos in the same way.",
+  "source": "@site/versioned_docs/version-0.64/metro-config-out-tree-platforms.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.64-metro-config-out-tree-platforms",
+  "permalink": "/react-native-windows/docs/0.64/version-0.64-metro-config-out-tree-platforms",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.64/metro-config-out-tree-platforms.md",
+  "tags": [],
+  "version": "0.64",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.64-metro-config-out-tree-platforms",
+    "title": "Metro config for out of tree platforms",
+    "original_id": "metro-config-out-tree-platforms"
+  }
+}

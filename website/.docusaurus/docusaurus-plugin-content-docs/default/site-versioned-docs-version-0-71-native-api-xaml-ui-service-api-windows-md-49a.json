@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-api/version-0.71-XamlUIService",
+  "id": "version-0.71/native-api/version-0.71-XamlUIService",
+  "title": "XamlUIService",
+  "description": "Kind: class",
+  "source": "@site/versioned_docs/version-0.71/native-api/XamlUIService-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/version-0.71-XamlUIService",
+  "permalink": "/react-native-windows/docs/native-api/version-0.71-XamlUIService",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.71/native-api/XamlUIService-api-windows.md",
+  "tags": [],
+  "version": "0.71",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.71-XamlUIService",
+    "title": "XamlUIService",
+    "original_id": "XamlUIService"
+  }
+}

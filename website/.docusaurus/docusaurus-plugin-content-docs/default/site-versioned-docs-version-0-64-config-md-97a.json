@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.64-config",
+  "id": "version-0.64/version-0.64-config",
+  "title": "React Native Config Schema",
+  "description": "The CLI command npx react-native config outputs project and dependencies configuration in JSON format to stdout.",
+  "source": "@site/versioned_docs/version-0.64/config.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.64-config",
+  "permalink": "/react-native-windows/docs/0.64/version-0.64-config",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.64/config.md",
+  "tags": [],
+  "version": "0.64",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.64-config",
+    "title": "React Native Config Schema",
+    "original_id": "config"
+  }
+}

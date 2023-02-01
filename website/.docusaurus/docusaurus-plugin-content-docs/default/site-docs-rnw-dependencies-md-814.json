@@ -1,0 +1,30 @@
+{
+  "unversionedId": "rnw-dependencies",
+  "id": "rnw-dependencies",
+  "title": "System Requirements",
+  "description": "You can run React Native for Windows apps only on:",
+  "source": "@site/../docs/rnw-dependencies.md",
+  "sourceDirName": ".",
+  "slug": "/rnw-dependencies",
+  "permalink": "/react-native-windows/docs/next/rnw-dependencies",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/rnw-dependencies.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "rnw-dependencies",
+    "title": "System Requirements"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Get Started with Windows",
+    "permalink": "/react-native-windows/docs/next/getting-started"
+  },
+  "next": {
+    "title": "React Native Windows CLI",
+    "permalink": "/react-native-windows/docs/next/run-windows-cli"
+  }
+}

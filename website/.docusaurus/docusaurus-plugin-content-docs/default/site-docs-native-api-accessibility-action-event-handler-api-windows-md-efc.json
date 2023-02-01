@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/AccessibilityActionEventHandler",
+  "id": "native-api/AccessibilityActionEventHandler",
+  "title": "AccessibilityActionEventHandler",
+  "description": "Kind: delegate",
+  "source": "@site/../docs/native-api/AccessibilityActionEventHandler-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/AccessibilityActionEventHandler",
+  "permalink": "/react-native-windows/docs/next/native-api/AccessibilityActionEventHandler",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/AccessibilityActionEventHandler-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "AccessibilityActionEventHandler",
+    "title": "AccessibilityActionEventHandler"
+  }
+}

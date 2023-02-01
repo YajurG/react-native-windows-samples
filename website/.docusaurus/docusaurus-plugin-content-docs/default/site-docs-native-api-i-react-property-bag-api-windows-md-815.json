@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-api/IReactPropertyBag",
+  "id": "native-api/IReactPropertyBag",
+  "title": "IReactPropertyBag",
+  "description": "Kind: interface",
+  "source": "@site/../docs/native-api/IReactPropertyBag-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/IReactPropertyBag",
+  "permalink": "/react-native-windows/docs/next/native-api/IReactPropertyBag",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/IReactPropertyBag-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "IReactPropertyBag",
+    "title": "IReactPropertyBag"
+  },
+  "sidebar": "apis",
+  "previous": {
+    "title": "IReactPackageProvider",
+    "permalink": "/react-native-windows/docs/next/native-api/IReactPackageProvider"
+  },
+  "next": {
+    "title": "IRedBoxHandler",
+    "permalink": "/react-native-windows/docs/next/native-api/IRedBoxHandler"
+  }
+}

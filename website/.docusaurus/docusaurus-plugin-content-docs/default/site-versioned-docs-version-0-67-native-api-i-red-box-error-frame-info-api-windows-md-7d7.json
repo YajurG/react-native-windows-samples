@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-api/version-0.67-IRedBoxErrorFrameInfo",
+  "id": "version-0.67/native-api/version-0.67-IRedBoxErrorFrameInfo",
+  "title": "IRedBoxErrorFrameInfo",
+  "description": "Kind: interface",
+  "source": "@site/versioned_docs/version-0.67/native-api/IRedBoxErrorFrameInfo-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/version-0.67-IRedBoxErrorFrameInfo",
+  "permalink": "/react-native-windows/docs/0.67/native-api/version-0.67-IRedBoxErrorFrameInfo",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.67/native-api/IRedBoxErrorFrameInfo-api-windows.md",
+  "tags": [],
+  "version": "0.67",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.67-IRedBoxErrorFrameInfo",
+    "title": "IRedBoxErrorFrameInfo",
+    "original_id": "IRedBoxErrorFrameInfo"
+  }
+}

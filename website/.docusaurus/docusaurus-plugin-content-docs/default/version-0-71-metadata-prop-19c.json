@@ -1,0 +1,143 @@
+{
+  "pluginId": "default",
+  "version": "0.71",
+  "label": "0.71",
+  "banner": null,
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-0.71",
+  "isLast": true,
+  "docsSidebars": {},
+  "docs": {
+    "native-api/version-0.71-IReactContext": {
+      "id": "native-api/version-0.71-IReactContext",
+      "title": "IReactContext",
+      "description": "Kind: interface"
+    },
+    "native-api/version-0.71-IReactPackageBuilder": {
+      "id": "native-api/version-0.71-IReactPackageBuilder",
+      "title": "IReactPackageBuilder",
+      "description": "Kind: interface"
+    },
+    "native-api/version-0.71-IReactPackageProvider": {
+      "id": "native-api/version-0.71-IReactPackageProvider",
+      "title": "IReactPackageProvider",
+      "description": "Kind: interface"
+    },
+    "native-api/version-0.71-IReactViewHost": {
+      "id": "native-api/version-0.71-IReactViewHost",
+      "title": "IReactViewHost",
+      "description": "Kind: interface"
+    },
+    "native-api/version-0.71-IViewManagerWithOnLayout": {
+      "id": "native-api/version-0.71-IViewManagerWithOnLayout",
+      "title": "IViewManagerWithOnLayout",
+      "description": "Kind: interface"
+    },
+    "native-api/version-0.71-JsiRuntime": {
+      "id": "native-api/version-0.71-JsiRuntime",
+      "title": "JsiRuntime",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.71-LayoutService": {
+      "id": "native-api/version-0.71-LayoutService",
+      "title": "LayoutService",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.71-Native-API-Reference": {
+      "id": "native-api/version-0.71-Native-API-Reference",
+      "title": "namespace Microsoft.ReactNative",
+      "description": "Enums"
+    },
+    "native-api/version-0.71-QuirkSettings": {
+      "id": "native-api/version-0.71-QuirkSettings",
+      "title": "QuirkSettings",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.71-ReactInstanceSettings": {
+      "id": "native-api/version-0.71-ReactInstanceSettings",
+      "title": "ReactInstanceSettings",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.71-ReactModuleProvider": {
+      "id": "native-api/version-0.71-ReactModuleProvider",
+      "title": "ReactModuleProvider",
+      "description": "Kind: delegate"
+    },
+    "native-api/version-0.71-ReactNativeHost": {
+      "id": "native-api/version-0.71-ReactNativeHost",
+      "title": "ReactNativeHost",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.71-ReactRootView": {
+      "id": "native-api/version-0.71-ReactRootView",
+      "title": "ReactRootView",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.71-ViewControl": {
+      "id": "native-api/version-0.71-ViewControl",
+      "title": "ViewControl",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.71-ViewManagerPropertyType": {
+      "id": "native-api/version-0.71-ViewManagerPropertyType",
+      "title": "ViewManagerPropertyType",
+      "description": "Kind: enum"
+    },
+    "native-api/version-0.71-ViewPanel": {
+      "id": "native-api/version-0.71-ViewPanel",
+      "title": "ViewPanel",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.71-XamlHelper": {
+      "id": "native-api/version-0.71-XamlHelper",
+      "title": "XamlHelper",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.71-XamlUIService": {
+      "id": "native-api/version-0.71-XamlUIService",
+      "title": "XamlUIService",
+      "description": "Kind: class"
+    },
+    "version-0.71-coreapp": {
+      "id": "version-0.71-coreapp",
+      "title": "CoreApp",
+      "description": "EXPERIMENTAL"
+    },
+    "version-0.71-getting-started": {
+      "id": "version-0.71-getting-started",
+      "title": "Get Started with Windows",
+      "description": "This guide will help you get started on setting up your very first React Native for Windows app."
+    },
+    "version-0.71-native-modules": {
+      "id": "version-0.71-native-modules",
+      "title": "Native Modules",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.71-native-modules-advanced": {
+      "id": "version-0.71-native-modules-advanced",
+      "title": "Native Modules (Advanced)",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.71-native-modules-vs-turbo-modules": {
+      "id": "version-0.71-native-modules-vs-turbo-modules",
+      "title": "Native Modules vs Turbo Modules",
+      "description": "If you've worked with React Native, you may be familiar with the concept of Native Modules, which allow JavaScript and platform-native code to communicate over the React Native \"bridge\", which handles cross-platform serialization via JSON."
+    },
+    "version-0.71-rnw-dependencies": {
+      "id": "version-0.71-rnw-dependencies",
+      "title": "System Requirements",
+      "description": "You can run React Native for Windows apps only on:"
+    },
+    "version-0.71-supported-community-modules": {
+      "id": "version-0.71-supported-community-modules",
+      "title": "Supported Community Modules",
+      "description": "ReactNative.Directory"
+    },
+    "version-0.71-win10-vm": {
+      "id": "version-0.71-win10-vm",
+      "title": "Developing Windows apps on a non-Windows PC",
+      "description": "It is possible to develop Windows apps on a non-Windows PC by using a virtual machine. The virtual machine can run either locally or on Azure."
+    }
+  }
+}

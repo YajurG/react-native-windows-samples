@@ -1,0 +1,30 @@
+{
+  "unversionedId": "nuget-update",
+  "id": "nuget-update",
+  "title": "Updating NuGet packages",
+  "description": "This documentation and the underlying platform code is a work in progress.",
+  "source": "@site/../docs/nuget-update.md",
+  "sourceDirName": ".",
+  "slug": "/nuget-update",
+  "permalink": "/react-native-windows/docs/next/nuget-update",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/nuget-update.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "nuget-update",
+    "title": "Updating NuGet packages"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using react-native-windows NuGet packages",
+    "permalink": "/react-native-windows/docs/next/NuGet"
+  },
+  "next": {
+    "title": "WinUI 3",
+    "permalink": "/react-native-windows/docs/next/winui3"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "pluginId": "default",
+  "version": "0.70",
+  "label": "0.70",
+  "banner": "unmaintained",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-0.70",
+  "isLast": false,
+  "docsSidebars": {},
+  "docs": {
+    "native-api/version-0.70-CoreAppPage": {
+      "id": "native-api/version-0.70-CoreAppPage",
+      "title": "CoreAppPage",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.70-IReactPackageProvider": {
+      "id": "native-api/version-0.70-IReactPackageProvider",
+      "title": "IReactPackageProvider",
+      "description": "Kind: interface"
+    },
+    "native-api/version-0.70-IReactPropertyBag": {
+      "id": "native-api/version-0.70-IReactPropertyBag",
+      "title": "IReactPropertyBag",
+      "description": "Kind: interface"
+    },
+    "native-api/version-0.70-IViewManagerWithDropViewInstance": {
+      "id": "native-api/version-0.70-IViewManagerWithDropViewInstance",
+      "title": "IViewManagerWithDropViewInstance",
+      "description": "Kind: interface"
+    },
+    "native-api/version-0.70-JsiBigIntRef": {
+      "id": "native-api/version-0.70-JsiBigIntRef",
+      "title": "JsiBigIntRef",
+      "description": "Kind: struct"
+    },
+    "native-api/version-0.70-JsiRuntime": {
+      "id": "native-api/version-0.70-JsiRuntime",
+      "title": "JsiRuntime",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.70-JsiValueKind": {
+      "id": "native-api/version-0.70-JsiValueKind",
+      "title": "JsiValueKind",
+      "description": "Kind: enum"
+    },
+    "native-api/version-0.70-Native-API-Reference": {
+      "id": "native-api/version-0.70-Native-API-Reference",
+      "title": "namespace Microsoft.ReactNative",
+      "description": "Enums"
+    },
+    "native-api/version-0.70-QuirkSettings": {
+      "id": "native-api/version-0.70-QuirkSettings",
+      "title": "QuirkSettings",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.70-ReactDispatcherHelper": {
+      "id": "native-api/version-0.70-ReactDispatcherHelper",
+      "title": "ReactDispatcherHelper",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.70-ReactInstanceSettings": {
+      "id": "native-api/version-0.70-ReactInstanceSettings",
+      "title": "ReactInstanceSettings",
+      "description": "Kind: class"
+    },
+    "version-0.70-coreapp": {
+      "id": "version-0.70-coreapp",
+      "title": "CoreApp",
+      "description": "EXPERIMENTAL"
+    },
+    "version-0.70-getting-started": {
+      "id": "version-0.70-getting-started",
+      "title": "Get Started with Windows",
+      "description": "This guide will help you get started on setting up your very first React Native for Windows app."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-api/version-0.71-IReactViewHost",
+  "id": "version-0.71/native-api/version-0.71-IReactViewHost",
+  "title": "IReactViewHost",
+  "description": "Kind: interface",
+  "source": "@site/versioned_docs/version-0.71/native-api/IReactViewHost-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/version-0.71-IReactViewHost",
+  "permalink": "/react-native-windows/docs/native-api/version-0.71-IReactViewHost",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.71/native-api/IReactViewHost-api-windows.md",
+  "tags": [],
+  "version": "0.71",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.71-IReactViewHost",
+    "title": "IReactViewHost",
+    "original_id": "IReactViewHost"
+  }
+}

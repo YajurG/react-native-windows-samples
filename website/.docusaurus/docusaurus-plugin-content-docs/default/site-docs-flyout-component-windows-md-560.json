@@ -1,0 +1,26 @@
+{
+  "unversionedId": "flyout-component",
+  "id": "flyout-component",
+  "title": "Flyout",
+  "description": "Props",
+  "source": "@site/../docs/flyout-component-windows.md",
+  "sourceDirName": ".",
+  "slug": "/flyout-component",
+  "permalink": "/react-native-windows/docs/next/flyout-component",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/flyout-component-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "flyout-component",
+    "title": "Flyout"
+  },
+  "sidebar": "apis",
+  "next": {
+    "title": "Glyph",
+    "permalink": "/react-native-windows/docs/next/glyph-component"
+  }
+}

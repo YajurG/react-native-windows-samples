@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.62-ireactmodulebuilder-api",
+  "id": "version-0.62/version-0.62-ireactmodulebuilder-api",
+  "title": "IReactModuleBuilder",
+  "description": "Builds native modules inside of React native code based on the provided meta-data.  See Native Modules for more usage information.",
+  "source": "@site/versioned_docs/version-0.62/IReactModuleBuilder-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.62-ireactmodulebuilder-api",
+  "permalink": "/react-native-windows/docs/0.62/version-0.62-ireactmodulebuilder-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.62/IReactModuleBuilder-api-windows.md",
+  "tags": [],
+  "version": "0.62",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.62-ireactmodulebuilder-api",
+    "title": "IReactModuleBuilder",
+    "original_id": "ireactmodulebuilder-api"
+  }
+}

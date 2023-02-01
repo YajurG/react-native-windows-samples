@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.60-building-rnw",
+  "id": "version-0.60/version-0.60-building-rnw",
+  "title": "Building React-Native-Windows",
+  "description": "- Make sure you have installed all of the development dependencies",
+  "source": "@site/versioned_docs/version-0.60/building-rnw.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.60-building-rnw",
+  "permalink": "/react-native-windows/docs/0.60/version-0.60-building-rnw",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.60/building-rnw.md",
+  "tags": [],
+  "version": "0.60",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.60-building-rnw",
+    "title": "Building React-Native-Windows",
+    "original_id": "building-rnw"
+  }
+}

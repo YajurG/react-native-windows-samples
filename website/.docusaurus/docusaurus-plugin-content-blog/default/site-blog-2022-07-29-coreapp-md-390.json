@@ -1,0 +1,29 @@
+{
+  "permalink": "/react-native-windows/blog/2022/07/29/coreapp",
+  "source": "@site/blog/2022-07-29-coreapp.md",
+  "title": "Streamlining app creation with React Native for Windows CoreApp",
+  "description": "Streamlining app creation with React Native for Windows CoreApp",
+  "date": "2022-07-29T00:00:00.000Z",
+  "formattedDate": "July 29, 2022",
+  "tags": [],
+  "readingTime": 5.625,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Alexander Sklar",
+      "url": "https://twitter.com/alexsklar"
+    }
+  ],
+  "frontMatter": {
+    "title": "Streamlining app creation with React Native for Windows CoreApp",
+    "author": "Alexander Sklar",
+    "authorURL": "https://twitter.com/alexsklar",
+    "description": "Streamlining app creation with React Native for Windows CoreApp",
+    "is_blog": true,
+    "published_date": "July 29, 2022"
+  },
+  "nextItem": {
+    "title": "Calling Windows APIs from React Native just got easier",
+    "permalink": "/react-native-windows/blog/2022/02/11/rnwinrt"
+  }
+}

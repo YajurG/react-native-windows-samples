@@ -1,0 +1,3748 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/react-native-windows/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": false,
+          "path": "/react-native-windows/docs/next",
+          "mainDocId": "getting-started",
+          "docs": [
+            {
+              "id": "app-publishing",
+              "path": "/react-native-windows/docs/next/app-publishing",
+              "sidebar": "docs"
+            },
+            {
+              "id": "config",
+              "path": "/react-native-windows/docs/next/config",
+              "sidebar": "docs"
+            },
+            {
+              "id": "coreapp",
+              "path": "/react-native-windows/docs/next/coreapp",
+              "sidebar": "apis"
+            },
+            {
+              "id": "customizing-sdk-versions",
+              "path": "/react-native-windows/docs/next/customizing-sdk-versions",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flyout-component",
+              "path": "/react-native-windows/docs/next/flyout-component",
+              "sidebar": "apis"
+            },
+            {
+              "id": "getting-started",
+              "path": "/react-native-windows/docs/next/getting-started",
+              "sidebar": "docs"
+            },
+            {
+              "id": "glyph-component",
+              "path": "/react-native-windows/docs/next/glyph-component",
+              "sidebar": "apis"
+            },
+            {
+              "id": "hermes",
+              "path": "/react-native-windows/docs/next/hermes",
+              "sidebar": "docs"
+            },
+            {
+              "id": "ikeyboardprops-api",
+              "path": "/react-native-windows/docs/next/ikeyboardprops-api",
+              "sidebar": "apis"
+            },
+            {
+              "id": "iviewwindowsprops-api",
+              "path": "/react-native-windows/docs/next/iviewwindowsprops-api",
+              "sidebar": "apis"
+            },
+            {
+              "id": "managing-cpp-deps",
+              "path": "/react-native-windows/docs/next/managing-cpp-deps",
+              "sidebar": "docs"
+            },
+            {
+              "id": "metro-config-out-tree-platforms",
+              "path": "/react-native-windows/docs/next/metro-config-out-tree-platforms",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-api/AccessibilityAction",
+              "path": "/react-native-windows/docs/next/native-api/AccessibilityAction"
+            },
+            {
+              "id": "native-api/AccessibilityActionEventHandler",
+              "path": "/react-native-windows/docs/next/native-api/AccessibilityActionEventHandler"
+            },
+            {
+              "id": "native-api/AccessibilityInvokeEventHandler",
+              "path": "/react-native-windows/docs/next/native-api/AccessibilityInvokeEventHandler"
+            },
+            {
+              "id": "native-api/AccessibilityRoles",
+              "path": "/react-native-windows/docs/next/native-api/AccessibilityRoles"
+            },
+            {
+              "id": "native-api/AccessibilityStates",
+              "path": "/react-native-windows/docs/next/native-api/AccessibilityStates"
+            },
+            {
+              "id": "native-api/AccessibilityValue",
+              "path": "/react-native-windows/docs/next/native-api/AccessibilityValue"
+            },
+            {
+              "id": "native-api/apptheme-api",
+              "path": "/react-native-windows/docs/next/native-api/apptheme-api"
+            },
+            {
+              "id": "native-api/BackNavigationHandlerKind",
+              "path": "/react-native-windows/docs/next/native-api/BackNavigationHandlerKind"
+            },
+            {
+              "id": "native-api/BorderEffect",
+              "path": "/react-native-windows/docs/next/native-api/BorderEffect"
+            },
+            {
+              "id": "native-api/CanvasComposite",
+              "path": "/react-native-windows/docs/next/native-api/CanvasComposite"
+            },
+            {
+              "id": "native-api/CanvasEdgeBehavior",
+              "path": "/react-native-windows/docs/next/native-api/CanvasEdgeBehavior"
+            },
+            {
+              "id": "native-api/ColorSourceEffect",
+              "path": "/react-native-windows/docs/next/native-api/ColorSourceEffect"
+            },
+            {
+              "id": "native-api/CompositeStepEffect",
+              "path": "/react-native-windows/docs/next/native-api/CompositeStepEffect"
+            },
+            {
+              "id": "native-api/ConstantProviderDelegate",
+              "path": "/react-native-windows/docs/next/native-api/ConstantProviderDelegate"
+            },
+            {
+              "id": "native-api/CoreAppPage",
+              "path": "/react-native-windows/docs/next/native-api/CoreAppPage"
+            },
+            {
+              "id": "native-api/DesktopWindowMessage",
+              "path": "/react-native-windows/docs/next/native-api/DesktopWindowMessage"
+            },
+            {
+              "id": "native-api/DevMenuControl",
+              "path": "/react-native-windows/docs/next/native-api/DevMenuControl"
+            },
+            {
+              "id": "native-api/DynamicAutomationPeer",
+              "path": "/react-native-windows/docs/next/native-api/DynamicAutomationPeer"
+            },
+            {
+              "id": "native-api/DynamicAutomationProperties",
+              "path": "/react-native-windows/docs/next/native-api/DynamicAutomationProperties"
+            },
+            {
+              "id": "native-api/DynamicValueProvider",
+              "path": "/react-native-windows/docs/next/native-api/DynamicValueProvider"
+            },
+            {
+              "id": "native-api/EffectBorderMode",
+              "path": "/react-native-windows/docs/next/native-api/EffectBorderMode"
+            },
+            {
+              "id": "native-api/EffectOptimization",
+              "path": "/react-native-windows/docs/next/native-api/EffectOptimization"
+            },
+            {
+              "id": "native-api/GaussianBlurEffect",
+              "path": "/react-native-windows/docs/next/native-api/GaussianBlurEffect"
+            },
+            {
+              "id": "native-api/IJsiByteBuffer",
+              "path": "/react-native-windows/docs/next/native-api/IJsiByteBuffer"
+            },
+            {
+              "id": "native-api/IJsiHostObject",
+              "path": "/react-native-windows/docs/next/native-api/IJsiHostObject"
+            },
+            {
+              "id": "native-api/IJSValueReader",
+              "path": "/react-native-windows/docs/next/native-api/IJSValueReader",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/IJSValueWriter",
+              "path": "/react-native-windows/docs/next/native-api/IJSValueWriter",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/InitializerDelegate",
+              "path": "/react-native-windows/docs/next/native-api/InitializerDelegate"
+            },
+            {
+              "id": "native-api/InstanceCreatedEventArgs",
+              "path": "/react-native-windows/docs/next/native-api/InstanceCreatedEventArgs"
+            },
+            {
+              "id": "native-api/InstanceDestroyedEventArgs",
+              "path": "/react-native-windows/docs/next/native-api/InstanceDestroyedEventArgs"
+            },
+            {
+              "id": "native-api/InstanceLoadedEventArgs",
+              "path": "/react-native-windows/docs/next/native-api/InstanceLoadedEventArgs"
+            },
+            {
+              "id": "native-api/IReactContext",
+              "path": "/react-native-windows/docs/next/native-api/IReactContext",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/IReactDispatcher",
+              "path": "/react-native-windows/docs/next/native-api/IReactDispatcher",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/IReactModuleBuilder",
+              "path": "/react-native-windows/docs/next/native-api/IReactModuleBuilder",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/IReactNonAbiValue",
+              "path": "/react-native-windows/docs/next/native-api/IReactNonAbiValue",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/IReactNotificationArgs",
+              "path": "/react-native-windows/docs/next/native-api/IReactNotificationArgs"
+            },
+            {
+              "id": "native-api/IReactNotificationService",
+              "path": "/react-native-windows/docs/next/native-api/IReactNotificationService"
+            },
+            {
+              "id": "native-api/IReactNotificationSubscription",
+              "path": "/react-native-windows/docs/next/native-api/IReactNotificationSubscription"
+            },
+            {
+              "id": "native-api/IReactPackageBuilder",
+              "path": "/react-native-windows/docs/next/native-api/IReactPackageBuilder",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/IReactPackageBuilderExperimental",
+              "path": "/react-native-windows/docs/next/native-api/IReactPackageBuilderExperimental"
+            },
+            {
+              "id": "native-api/IReactPackageProvider",
+              "path": "/react-native-windows/docs/next/native-api/IReactPackageProvider",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/IReactPropertyBag",
+              "path": "/react-native-windows/docs/next/native-api/IReactPropertyBag",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/IReactPropertyName",
+              "path": "/react-native-windows/docs/next/native-api/IReactPropertyName"
+            },
+            {
+              "id": "native-api/IReactPropertyNamespace",
+              "path": "/react-native-windows/docs/next/native-api/IReactPropertyNamespace"
+            },
+            {
+              "id": "native-api/IReactRootViewExperimental",
+              "path": "/react-native-windows/docs/next/native-api/IReactRootViewExperimental"
+            },
+            {
+              "id": "native-api/IReactSettingsSnapshot",
+              "path": "/react-native-windows/docs/next/native-api/IReactSettingsSnapshot"
+            },
+            {
+              "id": "native-api/IReactViewHost",
+              "path": "/react-native-windows/docs/next/native-api/IReactViewHost"
+            },
+            {
+              "id": "native-api/IReactViewInstance",
+              "path": "/react-native-windows/docs/next/native-api/IReactViewInstance"
+            },
+            {
+              "id": "native-api/IRedBoxErrorFrameInfo",
+              "path": "/react-native-windows/docs/next/native-api/IRedBoxErrorFrameInfo"
+            },
+            {
+              "id": "native-api/IRedBoxErrorInfo",
+              "path": "/react-native-windows/docs/next/native-api/IRedBoxErrorInfo"
+            },
+            {
+              "id": "native-api/IRedBoxHandler",
+              "path": "/react-native-windows/docs/next/native-api/IRedBoxHandler",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/IViewManager",
+              "path": "/react-native-windows/docs/next/native-api/IViewManager",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/IViewManagerCreateWithProperties",
+              "path": "/react-native-windows/docs/next/native-api/IViewManagerCreateWithProperties"
+            },
+            {
+              "id": "native-api/IViewManagerRequiresNativeLayout",
+              "path": "/react-native-windows/docs/next/native-api/IViewManagerRequiresNativeLayout"
+            },
+            {
+              "id": "native-api/IViewManagerWithChildren",
+              "path": "/react-native-windows/docs/next/native-api/IViewManagerWithChildren"
+            },
+            {
+              "id": "native-api/IViewManagerWithCommands",
+              "path": "/react-native-windows/docs/next/native-api/IViewManagerWithCommands"
+            },
+            {
+              "id": "native-api/IViewManagerWithDropViewInstance",
+              "path": "/react-native-windows/docs/next/native-api/IViewManagerWithDropViewInstance"
+            },
+            {
+              "id": "native-api/IViewManagerWithExportedEventTypeConstants",
+              "path": "/react-native-windows/docs/next/native-api/IViewManagerWithExportedEventTypeConstants"
+            },
+            {
+              "id": "native-api/IViewManagerWithExportedViewConstants",
+              "path": "/react-native-windows/docs/next/native-api/IViewManagerWithExportedViewConstants"
+            },
+            {
+              "id": "native-api/IViewManagerWithNativeProperties",
+              "path": "/react-native-windows/docs/next/native-api/IViewManagerWithNativeProperties"
+            },
+            {
+              "id": "native-api/IViewManagerWithOnLayout",
+              "path": "/react-native-windows/docs/next/native-api/IViewManagerWithOnLayout"
+            },
+            {
+              "id": "native-api/IViewManagerWithPointerEvents",
+              "path": "/react-native-windows/docs/next/native-api/IViewManagerWithPointerEvents"
+            },
+            {
+              "id": "native-api/IViewManagerWithReactContext",
+              "path": "/react-native-windows/docs/next/native-api/IViewManagerWithReactContext"
+            },
+            {
+              "id": "native-api/JsiBigIntRef",
+              "path": "/react-native-windows/docs/next/native-api/JsiBigIntRef"
+            },
+            {
+              "id": "native-api/JsiByteArrayUser",
+              "path": "/react-native-windows/docs/next/native-api/JsiByteArrayUser"
+            },
+            {
+              "id": "native-api/JSIEngine",
+              "path": "/react-native-windows/docs/next/native-api/JSIEngine"
+            },
+            {
+              "id": "native-api/JsiError",
+              "path": "/react-native-windows/docs/next/native-api/JsiError"
+            },
+            {
+              "id": "native-api/JsiErrorType",
+              "path": "/react-native-windows/docs/next/native-api/JsiErrorType"
+            },
+            {
+              "id": "native-api/JsiHostFunction",
+              "path": "/react-native-windows/docs/next/native-api/JsiHostFunction"
+            },
+            {
+              "id": "native-api/JsiObjectRef",
+              "path": "/react-native-windows/docs/next/native-api/JsiObjectRef"
+            },
+            {
+              "id": "native-api/JsiPreparedJavaScript",
+              "path": "/react-native-windows/docs/next/native-api/JsiPreparedJavaScript"
+            },
+            {
+              "id": "native-api/JsiPropertyIdRef",
+              "path": "/react-native-windows/docs/next/native-api/JsiPropertyIdRef"
+            },
+            {
+              "id": "native-api/JsiRuntime",
+              "path": "/react-native-windows/docs/next/native-api/JsiRuntime"
+            },
+            {
+              "id": "native-api/JsiScopeState",
+              "path": "/react-native-windows/docs/next/native-api/JsiScopeState"
+            },
+            {
+              "id": "native-api/JsiStringRef",
+              "path": "/react-native-windows/docs/next/native-api/JsiStringRef"
+            },
+            {
+              "id": "native-api/JsiSymbolRef",
+              "path": "/react-native-windows/docs/next/native-api/JsiSymbolRef"
+            },
+            {
+              "id": "native-api/JsiValueKind",
+              "path": "/react-native-windows/docs/next/native-api/JsiValueKind"
+            },
+            {
+              "id": "native-api/JsiValueRef",
+              "path": "/react-native-windows/docs/next/native-api/JsiValueRef"
+            },
+            {
+              "id": "native-api/JsiWeakObjectRef",
+              "path": "/react-native-windows/docs/next/native-api/JsiWeakObjectRef"
+            },
+            {
+              "id": "native-api/JSValueArgWriter",
+              "path": "/react-native-windows/docs/next/native-api/JSValueArgWriter"
+            },
+            {
+              "id": "native-api/JSValueType",
+              "path": "/react-native-windows/docs/next/native-api/JSValueType"
+            },
+            {
+              "id": "native-api/LayoutService",
+              "path": "/react-native-windows/docs/next/native-api/LayoutService"
+            },
+            {
+              "id": "native-api/LoadingState",
+              "path": "/react-native-windows/docs/next/native-api/LoadingState"
+            },
+            {
+              "id": "native-api/LogHandler",
+              "path": "/react-native-windows/docs/next/native-api/LogHandler"
+            },
+            {
+              "id": "native-api/LogLevel",
+              "path": "/react-native-windows/docs/next/native-api/LogLevel"
+            },
+            {
+              "id": "native-api/MethodDelegate",
+              "path": "/react-native-windows/docs/next/native-api/MethodDelegate"
+            },
+            {
+              "id": "native-api/MethodResultCallback",
+              "path": "/react-native-windows/docs/next/native-api/MethodResultCallback"
+            },
+            {
+              "id": "native-api/MethodReturnType",
+              "path": "/react-native-windows/docs/next/native-api/MethodReturnType"
+            },
+            {
+              "id": "native-api/Native-API-Reference",
+              "path": "/react-native-windows/docs/next/native-api/Native-API-Reference",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/PointerEventKind",
+              "path": "/react-native-windows/docs/next/native-api/PointerEventKind"
+            },
+            {
+              "id": "native-api/QuirkSettings",
+              "path": "/react-native-windows/docs/next/native-api/QuirkSettings"
+            },
+            {
+              "id": "native-api/ReactApplication",
+              "path": "/react-native-windows/docs/next/native-api/ReactApplication",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/ReactCoreInjection",
+              "path": "/react-native-windows/docs/next/native-api/ReactCoreInjection"
+            },
+            {
+              "id": "native-api/ReactCreatePropertyValue",
+              "path": "/react-native-windows/docs/next/native-api/ReactCreatePropertyValue"
+            },
+            {
+              "id": "native-api/ReactDispatcherCallback",
+              "path": "/react-native-windows/docs/next/native-api/ReactDispatcherCallback"
+            },
+            {
+              "id": "native-api/ReactDispatcherHelper",
+              "path": "/react-native-windows/docs/next/native-api/ReactDispatcherHelper"
+            },
+            {
+              "id": "native-api/ReactInstanceSettings",
+              "path": "/react-native-windows/docs/next/native-api/ReactInstanceSettings",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/ReactModuleProvider",
+              "path": "/react-native-windows/docs/next/native-api/ReactModuleProvider"
+            },
+            {
+              "id": "native-api/ReactNativeHost",
+              "path": "/react-native-windows/docs/next/native-api/ReactNativeHost",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-api/ReactNotificationHandler",
+              "path": "/react-native-windows/docs/next/native-api/ReactNotificationHandler"
+            },
+            {
+              "id": "native-api/ReactNotificationServiceHelper",
+              "path": "/react-native-windows/docs/next/native-api/ReactNotificationServiceHelper"
+            },
+            {
+              "id": "native-api/ReactPointerEventArgs",
+              "path": "/react-native-windows/docs/next/native-api/ReactPointerEventArgs"
+            },
+            {
+              "id": "native-api/ReactPropertyBagHelper",
+              "path": "/react-native-windows/docs/next/native-api/ReactPropertyBagHelper"
+            },
+            {
+              "id": "native-api/ReactRootView",
+              "path": "/react-native-windows/docs/next/native-api/ReactRootView"
+            },
+            {
+              "id": "native-api/ReactViewManagerProvider",
+              "path": "/react-native-windows/docs/next/native-api/ReactViewManagerProvider"
+            },
+            {
+              "id": "native-api/ReactViewOptions",
+              "path": "/react-native-windows/docs/next/native-api/ReactViewOptions"
+            },
+            {
+              "id": "native-api/RedBoxErrorType",
+              "path": "/react-native-windows/docs/next/native-api/RedBoxErrorType"
+            },
+            {
+              "id": "native-api/RedBoxHelper",
+              "path": "/react-native-windows/docs/next/native-api/RedBoxHelper"
+            },
+            {
+              "id": "native-api/SyncMethodDelegate",
+              "path": "/react-native-windows/docs/next/native-api/SyncMethodDelegate"
+            },
+            {
+              "id": "native-api/UIBatchCompleteCallback",
+              "path": "/react-native-windows/docs/next/native-api/UIBatchCompleteCallback"
+            },
+            {
+              "id": "native-api/ViewControl",
+              "path": "/react-native-windows/docs/next/native-api/ViewControl"
+            },
+            {
+              "id": "native-api/ViewManagerPropertyType",
+              "path": "/react-native-windows/docs/next/native-api/ViewManagerPropertyType"
+            },
+            {
+              "id": "native-api/ViewPanel",
+              "path": "/react-native-windows/docs/next/native-api/ViewPanel"
+            },
+            {
+              "id": "native-api/XamlHelper",
+              "path": "/react-native-windows/docs/next/native-api/XamlHelper"
+            },
+            {
+              "id": "native-api/XamlMetaDataProvider",
+              "path": "/react-native-windows/docs/next/native-api/XamlMetaDataProvider"
+            },
+            {
+              "id": "native-api/XamlUIService",
+              "path": "/react-native-windows/docs/next/native-api/XamlUIService",
+              "sidebar": "apis"
+            },
+            {
+              "id": "native-code",
+              "path": "/react-native-windows/docs/next/native-code",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-code-language-choice",
+              "path": "/react-native-windows/docs/next/native-code-language-choice",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules",
+              "path": "/react-native-windows/docs/next/native-modules",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-advanced",
+              "path": "/react-native-windows/docs/next/native-modules-advanced",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-async",
+              "path": "/react-native-windows/docs/next/native-modules-async",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-autolinking",
+              "path": "/react-native-windows/docs/next/native-modules-autolinking",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-csharp-codegen",
+              "path": "/react-native-windows/docs/next/native-modules-csharp-codegen",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-jsvalue",
+              "path": "/react-native-windows/docs/next/native-modules-jsvalue",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-marshalling-data",
+              "path": "/react-native-windows/docs/next/native-modules-marshalling-data",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-setup",
+              "path": "/react-native-windows/docs/next/native-modules-setup",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-troubleshooting",
+              "path": "/react-native-windows/docs/next/native-modules-troubleshooting",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-using",
+              "path": "/react-native-windows/docs/next/native-modules-using",
+              "sidebar": "docs"
+            },
+            {
+              "id": "native-modules-vs-turbo-modules",
+              "path": "/react-native-windows/docs/next/native-modules-vs-turbo-modules",
+              "sidebar": "docs"
+            },
+            {
+              "id": "NuGet",
+              "path": "/react-native-windows/docs/next/NuGet",
+              "sidebar": "docs"
+            },
+            {
+              "id": "nuget-update",
+              "path": "/react-native-windows/docs/next/nuget-update",
+              "sidebar": "docs"
+            },
+            {
+              "id": "parity-status",
+              "path": "/react-native-windows/docs/next/parity-status",
+              "sidebar": "docs"
+            },
+            {
+              "id": "platform",
+              "path": "/react-native-windows/docs/next/platform",
+              "sidebar": "docs"
+            },
+            {
+              "id": "popup-component",
+              "path": "/react-native-windows/docs/next/popup-component",
+              "sidebar": "apis"
+            },
+            {
+              "id": "releases",
+              "path": "/react-native-windows/docs/next/releases",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rnm-dependencies",
+              "path": "/react-native-windows/docs/next/rnm-dependencies",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rnm-getting-started",
+              "path": "/react-native-windows/docs/next/rnm-getting-started",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rnw-dependencies",
+              "path": "/react-native-windows/docs/next/rnw-dependencies",
+              "sidebar": "docs"
+            },
+            {
+              "id": "run-windows-cli",
+              "path": "/react-native-windows/docs/next/run-windows-cli",
+              "sidebar": "docs"
+            },
+            {
+              "id": "setup-ci",
+              "path": "/react-native-windows/docs/next/setup-ci",
+              "sidebar": "docs"
+            },
+            {
+              "id": "supported-community-modules",
+              "path": "/react-native-windows/docs/next/supported-community-modules",
+              "sidebar": "docs"
+            },
+            {
+              "id": "upgrade-app",
+              "path": "/react-native-windows/docs/next/upgrade-app",
+              "sidebar": "docs"
+            },
+            {
+              "id": "view-managers",
+              "path": "/react-native-windows/docs/next/view-managers",
+              "sidebar": "docs"
+            },
+            {
+              "id": "win10-compat",
+              "path": "/react-native-windows/docs/next/win10-compat"
+            },
+            {
+              "id": "win10-vm",
+              "path": "/react-native-windows/docs/next/win10-vm",
+              "sidebar": "docs"
+            },
+            {
+              "id": "windowsbrush-and-theme",
+              "path": "/react-native-windows/docs/next/windowsbrush-and-theme",
+              "sidebar": "docs"
+            },
+            {
+              "id": "winui3",
+              "path": "/react-native-windows/docs/next/winui3",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/react-native-windows/docs/next/getting-started",
+                "label": "getting-started"
+              }
+            },
+            "apis": {
+              "link": {
+                "path": "/react-native-windows/docs/next/flyout-component",
+                "label": "flyout-component"
+              }
+            }
+          }
+        },
+        {
+          "name": "0.71",
+          "label": "0.71",
+          "isLast": true,
+          "path": "/react-native-windows/docs",
+          "mainDocId": "native-api/version-0.71-IReactContext",
+          "docs": [
+            {
+              "id": "native-api/version-0.71-IReactContext",
+              "path": "/react-native-windows/docs/native-api/version-0.71-IReactContext"
+            },
+            {
+              "id": "native-api/version-0.71-IReactPackageBuilder",
+              "path": "/react-native-windows/docs/native-api/version-0.71-IReactPackageBuilder"
+            },
+            {
+              "id": "native-api/version-0.71-IReactPackageProvider",
+              "path": "/react-native-windows/docs/native-api/version-0.71-IReactPackageProvider"
+            },
+            {
+              "id": "native-api/version-0.71-IReactViewHost",
+              "path": "/react-native-windows/docs/native-api/version-0.71-IReactViewHost"
+            },
+            {
+              "id": "native-api/version-0.71-IViewManagerWithOnLayout",
+              "path": "/react-native-windows/docs/native-api/version-0.71-IViewManagerWithOnLayout"
+            },
+            {
+              "id": "native-api/version-0.71-JsiRuntime",
+              "path": "/react-native-windows/docs/native-api/version-0.71-JsiRuntime"
+            },
+            {
+              "id": "native-api/version-0.71-LayoutService",
+              "path": "/react-native-windows/docs/native-api/version-0.71-LayoutService"
+            },
+            {
+              "id": "native-api/version-0.71-Native-API-Reference",
+              "path": "/react-native-windows/docs/native-api/version-0.71-Native-API-Reference"
+            },
+            {
+              "id": "native-api/version-0.71-QuirkSettings",
+              "path": "/react-native-windows/docs/native-api/version-0.71-QuirkSettings"
+            },
+            {
+              "id": "native-api/version-0.71-ReactInstanceSettings",
+              "path": "/react-native-windows/docs/native-api/version-0.71-ReactInstanceSettings"
+            },
+            {
+              "id": "native-api/version-0.71-ReactModuleProvider",
+              "path": "/react-native-windows/docs/native-api/version-0.71-ReactModuleProvider"
+            },
+            {
+              "id": "native-api/version-0.71-ReactNativeHost",
+              "path": "/react-native-windows/docs/native-api/version-0.71-ReactNativeHost"
+            },
+            {
+              "id": "native-api/version-0.71-ReactRootView",
+              "path": "/react-native-windows/docs/native-api/version-0.71-ReactRootView"
+            },
+            {
+              "id": "native-api/version-0.71-ViewControl",
+              "path": "/react-native-windows/docs/native-api/version-0.71-ViewControl"
+            },
+            {
+              "id": "native-api/version-0.71-ViewManagerPropertyType",
+              "path": "/react-native-windows/docs/native-api/version-0.71-ViewManagerPropertyType"
+            },
+            {
+              "id": "native-api/version-0.71-ViewPanel",
+              "path": "/react-native-windows/docs/native-api/version-0.71-ViewPanel"
+            },
+            {
+              "id": "native-api/version-0.71-XamlHelper",
+              "path": "/react-native-windows/docs/native-api/version-0.71-XamlHelper"
+            },
+            {
+              "id": "native-api/version-0.71-XamlUIService",
+              "path": "/react-native-windows/docs/native-api/version-0.71-XamlUIService"
+            },
+            {
+              "id": "version-0.71-coreapp",
+              "path": "/react-native-windows/docs/version-0.71-coreapp"
+            },
+            {
+              "id": "version-0.71-getting-started",
+              "path": "/react-native-windows/docs/version-0.71-getting-started"
+            },
+            {
+              "id": "version-0.71-native-modules",
+              "path": "/react-native-windows/docs/version-0.71-native-modules"
+            },
+            {
+              "id": "version-0.71-native-modules-advanced",
+              "path": "/react-native-windows/docs/version-0.71-native-modules-advanced"
+            },
+            {
+              "id": "version-0.71-native-modules-vs-turbo-modules",
+              "path": "/react-native-windows/docs/version-0.71-native-modules-vs-turbo-modules"
+            },
+            {
+              "id": "version-0.71-rnw-dependencies",
+              "path": "/react-native-windows/docs/version-0.71-rnw-dependencies"
+            },
+            {
+              "id": "version-0.71-supported-community-modules",
+              "path": "/react-native-windows/docs/version-0.71-supported-community-modules"
+            },
+            {
+              "id": "version-0.71-win10-vm",
+              "path": "/react-native-windows/docs/version-0.71-win10-vm"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        },
+        {
+          "name": "0.70",
+          "label": "0.70",
+          "isLast": false,
+          "path": "/react-native-windows/docs/0.70",
+          "mainDocId": "native-api/version-0.70-CoreAppPage",
+          "docs": [
+            {
+              "id": "native-api/version-0.70-CoreAppPage",
+              "path": "/react-native-windows/docs/0.70/native-api/version-0.70-CoreAppPage"
+            },
+            {
+              "id": "native-api/version-0.70-IReactPackageProvider",
+              "path": "/react-native-windows/docs/0.70/native-api/version-0.70-IReactPackageProvider"
+            },
+            {
+              "id": "native-api/version-0.70-IReactPropertyBag",
+              "path": "/react-native-windows/docs/0.70/native-api/version-0.70-IReactPropertyBag"
+            },
+            {
+              "id": "native-api/version-0.70-IViewManagerWithDropViewInstance",
+              "path": "/react-native-windows/docs/0.70/native-api/version-0.70-IViewManagerWithDropViewInstance"
+            },
+            {
+              "id": "native-api/version-0.70-JsiBigIntRef",
+              "path": "/react-native-windows/docs/0.70/native-api/version-0.70-JsiBigIntRef"
+            },
+            {
+              "id": "native-api/version-0.70-JsiRuntime",
+              "path": "/react-native-windows/docs/0.70/native-api/version-0.70-JsiRuntime"
+            },
+            {
+              "id": "native-api/version-0.70-JsiValueKind",
+              "path": "/react-native-windows/docs/0.70/native-api/version-0.70-JsiValueKind"
+            },
+            {
+              "id": "native-api/version-0.70-Native-API-Reference",
+              "path": "/react-native-windows/docs/0.70/native-api/version-0.70-Native-API-Reference"
+            },
+            {
+              "id": "native-api/version-0.70-QuirkSettings",
+              "path": "/react-native-windows/docs/0.70/native-api/version-0.70-QuirkSettings"
+            },
+            {
+              "id": "native-api/version-0.70-ReactDispatcherHelper",
+              "path": "/react-native-windows/docs/0.70/native-api/version-0.70-ReactDispatcherHelper"
+            },
+            {
+              "id": "native-api/version-0.70-ReactInstanceSettings",
+              "path": "/react-native-windows/docs/0.70/native-api/version-0.70-ReactInstanceSettings"
+            },
+            {
+              "id": "version-0.70-coreapp",
+              "path": "/react-native-windows/docs/0.70/version-0.70-coreapp"
+            },
+            {
+              "id": "version-0.70-getting-started",
+              "path": "/react-native-windows/docs/0.70/version-0.70-getting-started"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        },
+        {
+          "name": "0.69",
+          "label": "0.69",
+          "isLast": false,
+          "path": "/react-native-windows/docs/0.69",
+          "mainDocId": "native-api/version-0.69-IReactContext",
+          "docs": [
+            {
+              "id": "native-api/version-0.69-IReactContext",
+              "path": "/react-native-windows/docs/0.69/native-api/version-0.69-IReactContext"
+            },
+            {
+              "id": "native-api/version-0.69-IViewManagerWithDropViewInstance",
+              "path": "/react-native-windows/docs/0.69/native-api/version-0.69-IViewManagerWithDropViewInstance"
+            },
+            {
+              "id": "native-api/version-0.69-JsiRuntime",
+              "path": "/react-native-windows/docs/0.69/native-api/version-0.69-JsiRuntime"
+            },
+            {
+              "id": "native-api/version-0.69-LoadingState",
+              "path": "/react-native-windows/docs/0.69/native-api/version-0.69-LoadingState"
+            },
+            {
+              "id": "native-api/version-0.69-Native-API-Reference",
+              "path": "/react-native-windows/docs/0.69/native-api/version-0.69-Native-API-Reference"
+            },
+            {
+              "id": "native-api/version-0.69-ReactInstanceSettings",
+              "path": "/react-native-windows/docs/0.69/native-api/version-0.69-ReactInstanceSettings"
+            },
+            {
+              "id": "version-0.69-getting-started",
+              "path": "/react-native-windows/docs/0.69/version-0.69-getting-started"
+            },
+            {
+              "id": "version-0.69-nuget-update",
+              "path": "/react-native-windows/docs/0.69/version-0.69-nuget-update"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        },
+        {
+          "name": "0.68",
+          "label": "0.68",
+          "isLast": false,
+          "path": "/react-native-windows/docs/0.68",
+          "mainDocId": "native-api/version-0.68-IReactSettingsSnapshot",
+          "docs": [
+            {
+              "id": "native-api/version-0.68-IReactSettingsSnapshot",
+              "path": "/react-native-windows/docs/0.68/native-api/version-0.68-IReactSettingsSnapshot"
+            },
+            {
+              "id": "native-api/version-0.68-IViewManagerWithDropViewInstance",
+              "path": "/react-native-windows/docs/0.68/native-api/version-0.68-IViewManagerWithDropViewInstance"
+            },
+            {
+              "id": "native-api/version-0.68-Native-API-Reference",
+              "path": "/react-native-windows/docs/0.68/native-api/version-0.68-Native-API-Reference"
+            },
+            {
+              "id": "native-api/version-0.68-ReactInstanceSettings",
+              "path": "/react-native-windows/docs/0.68/native-api/version-0.68-ReactInstanceSettings"
+            },
+            {
+              "id": "version-0.68-customizing-sdk-versions",
+              "path": "/react-native-windows/docs/0.68/version-0.68-customizing-sdk-versions"
+            },
+            {
+              "id": "version-0.68-getting-started",
+              "path": "/react-native-windows/docs/0.68/version-0.68-getting-started"
+            },
+            {
+              "id": "version-0.68-managing-cpp-deps",
+              "path": "/react-native-windows/docs/0.68/version-0.68-managing-cpp-deps"
+            },
+            {
+              "id": "version-0.68-native-modules",
+              "path": "/react-native-windows/docs/0.68/version-0.68-native-modules"
+            },
+            {
+              "id": "version-0.68-native-modules-setup",
+              "path": "/react-native-windows/docs/0.68/version-0.68-native-modules-setup"
+            },
+            {
+              "id": "version-0.68-NuGet",
+              "path": "/react-native-windows/docs/0.68/version-0.68-NuGet"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        },
+        {
+          "name": "0.67",
+          "label": "0.67",
+          "isLast": false,
+          "path": "/react-native-windows/docs/0.67",
+          "mainDocId": "native-api/version-0.67-AccessibilityAction",
+          "docs": [
+            {
+              "id": "native-api/version-0.67-AccessibilityAction",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-AccessibilityAction"
+            },
+            {
+              "id": "native-api/version-0.67-AccessibilityActionEventHandler",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-AccessibilityActionEventHandler"
+            },
+            {
+              "id": "native-api/version-0.67-AccessibilityInvokeEventHandler",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-AccessibilityInvokeEventHandler"
+            },
+            {
+              "id": "native-api/version-0.67-AccessibilityRoles",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-AccessibilityRoles"
+            },
+            {
+              "id": "native-api/version-0.67-AccessibilityStates",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-AccessibilityStates"
+            },
+            {
+              "id": "native-api/version-0.67-AccessibilityValue",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-AccessibilityValue"
+            },
+            {
+              "id": "native-api/version-0.67-apptheme-api",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-apptheme-api"
+            },
+            {
+              "id": "native-api/version-0.67-BackNavigationHandlerKind",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-BackNavigationHandlerKind"
+            },
+            {
+              "id": "native-api/version-0.67-BorderEffect",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-BorderEffect"
+            },
+            {
+              "id": "native-api/version-0.67-CanvasComposite",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-CanvasComposite"
+            },
+            {
+              "id": "native-api/version-0.67-CanvasEdgeBehavior",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-CanvasEdgeBehavior"
+            },
+            {
+              "id": "native-api/version-0.67-ColorSourceEffect",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ColorSourceEffect"
+            },
+            {
+              "id": "native-api/version-0.67-CompositeStepEffect",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-CompositeStepEffect"
+            },
+            {
+              "id": "native-api/version-0.67-ConstantProviderDelegate",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ConstantProviderDelegate"
+            },
+            {
+              "id": "native-api/version-0.67-DesktopWindowMessage",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-DesktopWindowMessage"
+            },
+            {
+              "id": "native-api/version-0.67-DevMenuControl",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-DevMenuControl"
+            },
+            {
+              "id": "native-api/version-0.67-DynamicAutomationPeer",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-DynamicAutomationPeer"
+            },
+            {
+              "id": "native-api/version-0.67-DynamicAutomationProperties",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-DynamicAutomationProperties"
+            },
+            {
+              "id": "native-api/version-0.67-DynamicValueProvider",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-DynamicValueProvider"
+            },
+            {
+              "id": "native-api/version-0.67-EffectBorderMode",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-EffectBorderMode"
+            },
+            {
+              "id": "native-api/version-0.67-EffectOptimization",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-EffectOptimization"
+            },
+            {
+              "id": "native-api/version-0.67-GaussianBlurEffect",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-GaussianBlurEffect"
+            },
+            {
+              "id": "native-api/version-0.67-IJsiByteBuffer",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IJsiByteBuffer"
+            },
+            {
+              "id": "native-api/version-0.67-IJsiHostObject",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IJsiHostObject"
+            },
+            {
+              "id": "native-api/version-0.67-IJSValueReader",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IJSValueReader"
+            },
+            {
+              "id": "native-api/version-0.67-IJSValueWriter",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IJSValueWriter"
+            },
+            {
+              "id": "native-api/version-0.67-InitializerDelegate",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-InitializerDelegate"
+            },
+            {
+              "id": "native-api/version-0.67-InstanceCreatedEventArgs",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-InstanceCreatedEventArgs"
+            },
+            {
+              "id": "native-api/version-0.67-InstanceDestroyedEventArgs",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-InstanceDestroyedEventArgs"
+            },
+            {
+              "id": "native-api/version-0.67-InstanceLoadedEventArgs",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-InstanceLoadedEventArgs"
+            },
+            {
+              "id": "native-api/version-0.67-IReactContext",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactContext"
+            },
+            {
+              "id": "native-api/version-0.67-IReactDispatcher",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactDispatcher"
+            },
+            {
+              "id": "native-api/version-0.67-IReactModuleBuilder",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactModuleBuilder"
+            },
+            {
+              "id": "native-api/version-0.67-IReactNonAbiValue",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactNonAbiValue"
+            },
+            {
+              "id": "native-api/version-0.67-IReactNotificationArgs",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactNotificationArgs"
+            },
+            {
+              "id": "native-api/version-0.67-IReactNotificationService",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactNotificationService"
+            },
+            {
+              "id": "native-api/version-0.67-IReactNotificationSubscription",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactNotificationSubscription"
+            },
+            {
+              "id": "native-api/version-0.67-IReactPackageBuilder",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactPackageBuilder"
+            },
+            {
+              "id": "native-api/version-0.67-IReactPackageBuilderExperimental",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactPackageBuilderExperimental"
+            },
+            {
+              "id": "native-api/version-0.67-IReactPackageProvider",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactPackageProvider"
+            },
+            {
+              "id": "native-api/version-0.67-IReactPropertyBag",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactPropertyBag"
+            },
+            {
+              "id": "native-api/version-0.67-IReactPropertyName",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactPropertyName"
+            },
+            {
+              "id": "native-api/version-0.67-IReactPropertyNamespace",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactPropertyNamespace"
+            },
+            {
+              "id": "native-api/version-0.67-IReactRootViewExperimental",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactRootViewExperimental"
+            },
+            {
+              "id": "native-api/version-0.67-IReactSettingsSnapshot",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactSettingsSnapshot"
+            },
+            {
+              "id": "native-api/version-0.67-IReactViewHost",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactViewHost"
+            },
+            {
+              "id": "native-api/version-0.67-IReactViewInstance",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IReactViewInstance"
+            },
+            {
+              "id": "native-api/version-0.67-IRedBoxErrorFrameInfo",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IRedBoxErrorFrameInfo"
+            },
+            {
+              "id": "native-api/version-0.67-IRedBoxErrorInfo",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IRedBoxErrorInfo"
+            },
+            {
+              "id": "native-api/version-0.67-IRedBoxHandler",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IRedBoxHandler"
+            },
+            {
+              "id": "native-api/version-0.67-IViewManager",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IViewManager"
+            },
+            {
+              "id": "native-api/version-0.67-IViewManagerCreateWithProperties",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IViewManagerCreateWithProperties"
+            },
+            {
+              "id": "native-api/version-0.67-IViewManagerRequiresNativeLayout",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IViewManagerRequiresNativeLayout"
+            },
+            {
+              "id": "native-api/version-0.67-IViewManagerWithChildren",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IViewManagerWithChildren"
+            },
+            {
+              "id": "native-api/version-0.67-IViewManagerWithCommands",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IViewManagerWithCommands"
+            },
+            {
+              "id": "native-api/version-0.67-IViewManagerWithExportedEventTypeConstants",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IViewManagerWithExportedEventTypeConstants"
+            },
+            {
+              "id": "native-api/version-0.67-IViewManagerWithExportedViewConstants",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IViewManagerWithExportedViewConstants"
+            },
+            {
+              "id": "native-api/version-0.67-IViewManagerWithNativeProperties",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IViewManagerWithNativeProperties"
+            },
+            {
+              "id": "native-api/version-0.67-IViewManagerWithPointerEvents",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IViewManagerWithPointerEvents"
+            },
+            {
+              "id": "native-api/version-0.67-IViewManagerWithReactContext",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-IViewManagerWithReactContext"
+            },
+            {
+              "id": "native-api/version-0.67-JsiByteArrayUser",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiByteArrayUser"
+            },
+            {
+              "id": "native-api/version-0.67-JSIEngine",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JSIEngine"
+            },
+            {
+              "id": "native-api/version-0.67-JsiError",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiError"
+            },
+            {
+              "id": "native-api/version-0.67-JsiErrorType",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiErrorType"
+            },
+            {
+              "id": "native-api/version-0.67-JsiHostFunction",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiHostFunction"
+            },
+            {
+              "id": "native-api/version-0.67-JsiObjectRef",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiObjectRef"
+            },
+            {
+              "id": "native-api/version-0.67-JsiPreparedJavaScript",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiPreparedJavaScript"
+            },
+            {
+              "id": "native-api/version-0.67-JsiPropertyIdRef",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiPropertyIdRef"
+            },
+            {
+              "id": "native-api/version-0.67-JsiRuntime",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiRuntime"
+            },
+            {
+              "id": "native-api/version-0.67-JsiScopeState",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiScopeState"
+            },
+            {
+              "id": "native-api/version-0.67-JsiStringRef",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiStringRef"
+            },
+            {
+              "id": "native-api/version-0.67-JsiSymbolRef",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiSymbolRef"
+            },
+            {
+              "id": "native-api/version-0.67-JsiValueKind",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiValueKind"
+            },
+            {
+              "id": "native-api/version-0.67-JsiValueRef",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiValueRef"
+            },
+            {
+              "id": "native-api/version-0.67-JsiWeakObjectRef",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JsiWeakObjectRef"
+            },
+            {
+              "id": "native-api/version-0.67-JSValueArgWriter",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JSValueArgWriter"
+            },
+            {
+              "id": "native-api/version-0.67-JSValueType",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-JSValueType"
+            },
+            {
+              "id": "native-api/version-0.67-LogHandler",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-LogHandler"
+            },
+            {
+              "id": "native-api/version-0.67-LogLevel",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-LogLevel"
+            },
+            {
+              "id": "native-api/version-0.67-MethodDelegate",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-MethodDelegate"
+            },
+            {
+              "id": "native-api/version-0.67-MethodResultCallback",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-MethodResultCallback"
+            },
+            {
+              "id": "native-api/version-0.67-MethodReturnType",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-MethodReturnType"
+            },
+            {
+              "id": "native-api/version-0.67-Native-API-Reference",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-Native-API-Reference"
+            },
+            {
+              "id": "native-api/version-0.67-PointerEventKind",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-PointerEventKind"
+            },
+            {
+              "id": "native-api/version-0.67-QuirkSettings",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-QuirkSettings"
+            },
+            {
+              "id": "native-api/version-0.67-ReactApplication",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactApplication"
+            },
+            {
+              "id": "native-api/version-0.67-ReactCoreInjection",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactCoreInjection"
+            },
+            {
+              "id": "native-api/version-0.67-ReactCreatePropertyValue",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactCreatePropertyValue"
+            },
+            {
+              "id": "native-api/version-0.67-ReactDispatcherCallback",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactDispatcherCallback"
+            },
+            {
+              "id": "native-api/version-0.67-ReactDispatcherHelper",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactDispatcherHelper"
+            },
+            {
+              "id": "native-api/version-0.67-ReactInstanceSettings",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactInstanceSettings"
+            },
+            {
+              "id": "native-api/version-0.67-ReactModuleProvider",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactModuleProvider"
+            },
+            {
+              "id": "native-api/version-0.67-ReactNativeHost",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactNativeHost"
+            },
+            {
+              "id": "native-api/version-0.67-ReactNotificationHandler",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactNotificationHandler"
+            },
+            {
+              "id": "native-api/version-0.67-ReactNotificationServiceHelper",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactNotificationServiceHelper"
+            },
+            {
+              "id": "native-api/version-0.67-ReactPointerEventArgs",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactPointerEventArgs"
+            },
+            {
+              "id": "native-api/version-0.67-ReactPropertyBagHelper",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactPropertyBagHelper"
+            },
+            {
+              "id": "native-api/version-0.67-ReactRootView",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactRootView"
+            },
+            {
+              "id": "native-api/version-0.67-ReactViewManagerProvider",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactViewManagerProvider"
+            },
+            {
+              "id": "native-api/version-0.67-ReactViewOptions",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ReactViewOptions"
+            },
+            {
+              "id": "native-api/version-0.67-RedBoxErrorType",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-RedBoxErrorType"
+            },
+            {
+              "id": "native-api/version-0.67-RedBoxHelper",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-RedBoxHelper"
+            },
+            {
+              "id": "native-api/version-0.67-SyncMethodDelegate",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-SyncMethodDelegate"
+            },
+            {
+              "id": "native-api/version-0.67-UIBatchCompleteCallback",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-UIBatchCompleteCallback"
+            },
+            {
+              "id": "native-api/version-0.67-ViewControl",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ViewControl"
+            },
+            {
+              "id": "native-api/version-0.67-ViewManagerPropertyType",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ViewManagerPropertyType"
+            },
+            {
+              "id": "native-api/version-0.67-ViewPanel",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-ViewPanel"
+            },
+            {
+              "id": "native-api/version-0.67-XamlHelper",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-XamlHelper"
+            },
+            {
+              "id": "native-api/version-0.67-XamlMetaDataProvider",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-XamlMetaDataProvider"
+            },
+            {
+              "id": "native-api/version-0.67-XamlUIService",
+              "path": "/react-native-windows/docs/0.67/native-api/version-0.67-XamlUIService"
+            },
+            {
+              "id": "version-0.67-app-publishing",
+              "path": "/react-native-windows/docs/0.67/version-0.67-app-publishing"
+            },
+            {
+              "id": "version-0.67-customizing-sdk-versions",
+              "path": "/react-native-windows/docs/0.67/version-0.67-customizing-sdk-versions"
+            },
+            {
+              "id": "version-0.67-flyout-component",
+              "path": "/react-native-windows/docs/0.67/version-0.67-flyout-component"
+            },
+            {
+              "id": "version-0.67-getting-started",
+              "path": "/react-native-windows/docs/0.67/version-0.67-getting-started"
+            },
+            {
+              "id": "version-0.67-hermes",
+              "path": "/react-native-windows/docs/0.67/version-0.67-hermes"
+            },
+            {
+              "id": "version-0.67-native-modules-autolinking",
+              "path": "/react-native-windows/docs/0.67/version-0.67-native-modules-autolinking"
+            },
+            {
+              "id": "version-0.67-native-modules-setup",
+              "path": "/react-native-windows/docs/0.67/version-0.67-native-modules-setup"
+            },
+            {
+              "id": "version-0.67-popup-component",
+              "path": "/react-native-windows/docs/0.67/version-0.67-popup-component"
+            },
+            {
+              "id": "version-0.67-rnm-getting-started",
+              "path": "/react-native-windows/docs/0.67/version-0.67-rnm-getting-started"
+            },
+            {
+              "id": "version-0.67-setup-ci",
+              "path": "/react-native-windows/docs/0.67/version-0.67-setup-ci"
+            },
+            {
+              "id": "version-0.67-supported-community-modules",
+              "path": "/react-native-windows/docs/0.67/version-0.67-supported-community-modules"
+            },
+            {
+              "id": "version-0.67-upgrade-app",
+              "path": "/react-native-windows/docs/0.67/version-0.67-upgrade-app"
+            },
+            {
+              "id": "version-0.67-winui3",
+              "path": "/react-native-windows/docs/0.67/version-0.67-winui3"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        },
+        {
+          "name": "0.66",
+          "label": "0.66",
+          "isLast": false,
+          "path": "/react-native-windows/docs/0.66",
+          "mainDocId": "version-0.66-AccessibilityAction",
+          "docs": [
+            {
+              "id": "version-0.66-AccessibilityAction",
+              "path": "/react-native-windows/docs/0.66/version-0.66-AccessibilityAction"
+            },
+            {
+              "id": "version-0.66-AccessibilityActionEventHandler",
+              "path": "/react-native-windows/docs/0.66/version-0.66-AccessibilityActionEventHandler"
+            },
+            {
+              "id": "version-0.66-AccessibilityInvokeEventHandler",
+              "path": "/react-native-windows/docs/0.66/version-0.66-AccessibilityInvokeEventHandler"
+            },
+            {
+              "id": "version-0.66-AccessibilityRoles",
+              "path": "/react-native-windows/docs/0.66/version-0.66-AccessibilityRoles"
+            },
+            {
+              "id": "version-0.66-AccessibilityStates",
+              "path": "/react-native-windows/docs/0.66/version-0.66-AccessibilityStates"
+            },
+            {
+              "id": "version-0.66-AccessibilityValue",
+              "path": "/react-native-windows/docs/0.66/version-0.66-AccessibilityValue"
+            },
+            {
+              "id": "version-0.66-BackNavigationHandlerKind",
+              "path": "/react-native-windows/docs/0.66/version-0.66-BackNavigationHandlerKind"
+            },
+            {
+              "id": "version-0.66-BorderEffect",
+              "path": "/react-native-windows/docs/0.66/version-0.66-BorderEffect"
+            },
+            {
+              "id": "version-0.66-CanvasComposite",
+              "path": "/react-native-windows/docs/0.66/version-0.66-CanvasComposite"
+            },
+            {
+              "id": "version-0.66-CanvasEdgeBehavior",
+              "path": "/react-native-windows/docs/0.66/version-0.66-CanvasEdgeBehavior"
+            },
+            {
+              "id": "version-0.66-ColorSourceEffect",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ColorSourceEffect"
+            },
+            {
+              "id": "version-0.66-CompositeStepEffect",
+              "path": "/react-native-windows/docs/0.66/version-0.66-CompositeStepEffect"
+            },
+            {
+              "id": "version-0.66-config",
+              "path": "/react-native-windows/docs/0.66/version-0.66-config"
+            },
+            {
+              "id": "version-0.66-ConstantProviderDelegate",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ConstantProviderDelegate"
+            },
+            {
+              "id": "version-0.66-DesktopWindowMessage",
+              "path": "/react-native-windows/docs/0.66/version-0.66-DesktopWindowMessage"
+            },
+            {
+              "id": "version-0.66-DevMenuControl",
+              "path": "/react-native-windows/docs/0.66/version-0.66-DevMenuControl"
+            },
+            {
+              "id": "version-0.66-DynamicAutomationPeer",
+              "path": "/react-native-windows/docs/0.66/version-0.66-DynamicAutomationPeer"
+            },
+            {
+              "id": "version-0.66-DynamicAutomationProperties",
+              "path": "/react-native-windows/docs/0.66/version-0.66-DynamicAutomationProperties"
+            },
+            {
+              "id": "version-0.66-DynamicValueProvider",
+              "path": "/react-native-windows/docs/0.66/version-0.66-DynamicValueProvider"
+            },
+            {
+              "id": "version-0.66-EffectBorderMode",
+              "path": "/react-native-windows/docs/0.66/version-0.66-EffectBorderMode"
+            },
+            {
+              "id": "version-0.66-EffectOptimization",
+              "path": "/react-native-windows/docs/0.66/version-0.66-EffectOptimization"
+            },
+            {
+              "id": "version-0.66-GaussianBlurEffect",
+              "path": "/react-native-windows/docs/0.66/version-0.66-GaussianBlurEffect"
+            },
+            {
+              "id": "version-0.66-getting-started",
+              "path": "/react-native-windows/docs/0.66/version-0.66-getting-started"
+            },
+            {
+              "id": "version-0.66-hermes",
+              "path": "/react-native-windows/docs/0.66/version-0.66-hermes"
+            },
+            {
+              "id": "version-0.66-IJsiByteBuffer",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IJsiByteBuffer"
+            },
+            {
+              "id": "version-0.66-IJsiHostObject",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IJsiHostObject"
+            },
+            {
+              "id": "version-0.66-IJSValueReader",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IJSValueReader"
+            },
+            {
+              "id": "version-0.66-IJSValueWriter",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IJSValueWriter"
+            },
+            {
+              "id": "version-0.66-InitializerDelegate",
+              "path": "/react-native-windows/docs/0.66/version-0.66-InitializerDelegate"
+            },
+            {
+              "id": "version-0.66-InstanceCreatedEventArgs",
+              "path": "/react-native-windows/docs/0.66/version-0.66-InstanceCreatedEventArgs"
+            },
+            {
+              "id": "version-0.66-InstanceDestroyedEventArgs",
+              "path": "/react-native-windows/docs/0.66/version-0.66-InstanceDestroyedEventArgs"
+            },
+            {
+              "id": "version-0.66-InstanceLoadedEventArgs",
+              "path": "/react-native-windows/docs/0.66/version-0.66-InstanceLoadedEventArgs"
+            },
+            {
+              "id": "version-0.66-IReactContext",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactContext"
+            },
+            {
+              "id": "version-0.66-IReactDispatcher",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactDispatcher"
+            },
+            {
+              "id": "version-0.66-IReactModuleBuilder",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactModuleBuilder"
+            },
+            {
+              "id": "version-0.66-IReactNonAbiValue",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactNonAbiValue"
+            },
+            {
+              "id": "version-0.66-IReactNotificationArgs",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactNotificationArgs"
+            },
+            {
+              "id": "version-0.66-IReactNotificationService",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactNotificationService"
+            },
+            {
+              "id": "version-0.66-IReactNotificationSubscription",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactNotificationSubscription"
+            },
+            {
+              "id": "version-0.66-IReactPackageBuilder",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactPackageBuilder"
+            },
+            {
+              "id": "version-0.66-IReactPackageBuilderExperimental",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactPackageBuilderExperimental"
+            },
+            {
+              "id": "version-0.66-IReactPackageProvider",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactPackageProvider"
+            },
+            {
+              "id": "version-0.66-IReactPropertyBag",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactPropertyBag"
+            },
+            {
+              "id": "version-0.66-IReactPropertyName",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactPropertyName"
+            },
+            {
+              "id": "version-0.66-IReactPropertyNamespace",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactPropertyNamespace"
+            },
+            {
+              "id": "version-0.66-IReactRootViewExperimental",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactRootViewExperimental"
+            },
+            {
+              "id": "version-0.66-IReactSettingsSnapshot",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactSettingsSnapshot"
+            },
+            {
+              "id": "version-0.66-IReactViewHost",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactViewHost"
+            },
+            {
+              "id": "version-0.66-IReactViewInstance",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IReactViewInstance"
+            },
+            {
+              "id": "version-0.66-IRedBoxErrorFrameInfo",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IRedBoxErrorFrameInfo"
+            },
+            {
+              "id": "version-0.66-IRedBoxErrorInfo",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IRedBoxErrorInfo"
+            },
+            {
+              "id": "version-0.66-IRedBoxHandler",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IRedBoxHandler"
+            },
+            {
+              "id": "version-0.66-IViewManager",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IViewManager"
+            },
+            {
+              "id": "version-0.66-IViewManagerCreateWithProperties",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IViewManagerCreateWithProperties"
+            },
+            {
+              "id": "version-0.66-IViewManagerRequiresNativeLayout",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IViewManagerRequiresNativeLayout"
+            },
+            {
+              "id": "version-0.66-IViewManagerWithChildren",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IViewManagerWithChildren"
+            },
+            {
+              "id": "version-0.66-IViewManagerWithCommands",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IViewManagerWithCommands"
+            },
+            {
+              "id": "version-0.66-IViewManagerWithExportedEventTypeConstants",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IViewManagerWithExportedEventTypeConstants"
+            },
+            {
+              "id": "version-0.66-IViewManagerWithExportedViewConstants",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IViewManagerWithExportedViewConstants"
+            },
+            {
+              "id": "version-0.66-IViewManagerWithNativeProperties",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IViewManagerWithNativeProperties"
+            },
+            {
+              "id": "version-0.66-IViewManagerWithReactContext",
+              "path": "/react-native-windows/docs/0.66/version-0.66-IViewManagerWithReactContext"
+            },
+            {
+              "id": "version-0.66-JsiByteArrayUser",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiByteArrayUser"
+            },
+            {
+              "id": "version-0.66-JSIEngine",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JSIEngine"
+            },
+            {
+              "id": "version-0.66-JsiError",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiError"
+            },
+            {
+              "id": "version-0.66-JsiErrorType",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiErrorType"
+            },
+            {
+              "id": "version-0.66-JsiHostFunction",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiHostFunction"
+            },
+            {
+              "id": "version-0.66-JsiObjectRef",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiObjectRef"
+            },
+            {
+              "id": "version-0.66-JsiPreparedJavaScript",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiPreparedJavaScript"
+            },
+            {
+              "id": "version-0.66-JsiPropertyIdRef",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiPropertyIdRef"
+            },
+            {
+              "id": "version-0.66-JsiRuntime",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiRuntime"
+            },
+            {
+              "id": "version-0.66-JsiScopeState",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiScopeState"
+            },
+            {
+              "id": "version-0.66-JsiStringRef",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiStringRef"
+            },
+            {
+              "id": "version-0.66-JsiSymbolRef",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiSymbolRef"
+            },
+            {
+              "id": "version-0.66-JsiValueKind",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiValueKind"
+            },
+            {
+              "id": "version-0.66-JsiValueRef",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiValueRef"
+            },
+            {
+              "id": "version-0.66-JsiWeakObjectRef",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JsiWeakObjectRef"
+            },
+            {
+              "id": "version-0.66-JSValueArgWriter",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JSValueArgWriter"
+            },
+            {
+              "id": "version-0.66-JSValueType",
+              "path": "/react-native-windows/docs/0.66/version-0.66-JSValueType"
+            },
+            {
+              "id": "version-0.66-LogHandler",
+              "path": "/react-native-windows/docs/0.66/version-0.66-LogHandler"
+            },
+            {
+              "id": "version-0.66-LogLevel",
+              "path": "/react-native-windows/docs/0.66/version-0.66-LogLevel"
+            },
+            {
+              "id": "version-0.66-MethodDelegate",
+              "path": "/react-native-windows/docs/0.66/version-0.66-MethodDelegate"
+            },
+            {
+              "id": "version-0.66-MethodResultCallback",
+              "path": "/react-native-windows/docs/0.66/version-0.66-MethodResultCallback"
+            },
+            {
+              "id": "version-0.66-MethodReturnType",
+              "path": "/react-native-windows/docs/0.66/version-0.66-MethodReturnType"
+            },
+            {
+              "id": "version-0.66-Native-API-Reference",
+              "path": "/react-native-windows/docs/0.66/version-0.66-Native-API-Reference"
+            },
+            {
+              "id": "version-0.66-NuGet",
+              "path": "/react-native-windows/docs/0.66/version-0.66-NuGet"
+            },
+            {
+              "id": "version-0.66-QuirkSettings",
+              "path": "/react-native-windows/docs/0.66/version-0.66-QuirkSettings"
+            },
+            {
+              "id": "version-0.66-ReactApplication",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactApplication"
+            },
+            {
+              "id": "version-0.66-ReactCoreInjection",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactCoreInjection"
+            },
+            {
+              "id": "version-0.66-ReactCreatePropertyValue",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactCreatePropertyValue"
+            },
+            {
+              "id": "version-0.66-ReactDispatcherCallback",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactDispatcherCallback"
+            },
+            {
+              "id": "version-0.66-ReactDispatcherHelper",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactDispatcherHelper"
+            },
+            {
+              "id": "version-0.66-ReactInstanceSettings",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactInstanceSettings"
+            },
+            {
+              "id": "version-0.66-ReactModuleProvider",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactModuleProvider"
+            },
+            {
+              "id": "version-0.66-ReactNativeHost",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactNativeHost"
+            },
+            {
+              "id": "version-0.66-ReactNotificationHandler",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactNotificationHandler"
+            },
+            {
+              "id": "version-0.66-ReactNotificationServiceHelper",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactNotificationServiceHelper"
+            },
+            {
+              "id": "version-0.66-ReactPropertyBagHelper",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactPropertyBagHelper"
+            },
+            {
+              "id": "version-0.66-ReactRootView",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactRootView"
+            },
+            {
+              "id": "version-0.66-ReactViewManagerProvider",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactViewManagerProvider"
+            },
+            {
+              "id": "version-0.66-ReactViewOptions",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ReactViewOptions"
+            },
+            {
+              "id": "version-0.66-RedBoxErrorType",
+              "path": "/react-native-windows/docs/0.66/version-0.66-RedBoxErrorType"
+            },
+            {
+              "id": "version-0.66-RedBoxHelper",
+              "path": "/react-native-windows/docs/0.66/version-0.66-RedBoxHelper"
+            },
+            {
+              "id": "version-0.66-rnm-getting-started",
+              "path": "/react-native-windows/docs/0.66/version-0.66-rnm-getting-started"
+            },
+            {
+              "id": "version-0.66-rnw-dependencies",
+              "path": "/react-native-windows/docs/0.66/version-0.66-rnw-dependencies"
+            },
+            {
+              "id": "version-0.66-SyncMethodDelegate",
+              "path": "/react-native-windows/docs/0.66/version-0.66-SyncMethodDelegate"
+            },
+            {
+              "id": "version-0.66-UIBatchCompleteCallback",
+              "path": "/react-native-windows/docs/0.66/version-0.66-UIBatchCompleteCallback"
+            },
+            {
+              "id": "version-0.66-ViewControl",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ViewControl"
+            },
+            {
+              "id": "version-0.66-ViewManagerPropertyType",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ViewManagerPropertyType"
+            },
+            {
+              "id": "version-0.66-ViewPanel",
+              "path": "/react-native-windows/docs/0.66/version-0.66-ViewPanel"
+            },
+            {
+              "id": "version-0.66-win10-compat",
+              "path": "/react-native-windows/docs/0.66/version-0.66-win10-compat"
+            },
+            {
+              "id": "version-0.66-XamlHelper",
+              "path": "/react-native-windows/docs/0.66/version-0.66-XamlHelper"
+            },
+            {
+              "id": "version-0.66-XamlMetaDataProvider",
+              "path": "/react-native-windows/docs/0.66/version-0.66-XamlMetaDataProvider"
+            },
+            {
+              "id": "version-0.66-XamlUIService",
+              "path": "/react-native-windows/docs/0.66/version-0.66-XamlUIService"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        },
+        {
+          "name": "0.65",
+          "label": "0.65",
+          "isLast": false,
+          "path": "/react-native-windows/docs/0.65",
+          "mainDocId": "version-0.65-AccessibilityAction",
+          "docs": [
+            {
+              "id": "version-0.65-AccessibilityAction",
+              "path": "/react-native-windows/docs/0.65/version-0.65-AccessibilityAction"
+            },
+            {
+              "id": "version-0.65-AccessibilityActionEventHandler",
+              "path": "/react-native-windows/docs/0.65/version-0.65-AccessibilityActionEventHandler"
+            },
+            {
+              "id": "version-0.65-AccessibilityInvokeEventHandler",
+              "path": "/react-native-windows/docs/0.65/version-0.65-AccessibilityInvokeEventHandler"
+            },
+            {
+              "id": "version-0.65-AccessibilityRoles",
+              "path": "/react-native-windows/docs/0.65/version-0.65-AccessibilityRoles"
+            },
+            {
+              "id": "version-0.65-AccessibilityStates",
+              "path": "/react-native-windows/docs/0.65/version-0.65-AccessibilityStates"
+            },
+            {
+              "id": "version-0.65-AccessibilityValue",
+              "path": "/react-native-windows/docs/0.65/version-0.65-AccessibilityValue"
+            },
+            {
+              "id": "version-0.65-apptheme-api",
+              "path": "/react-native-windows/docs/0.65/version-0.65-apptheme-api"
+            },
+            {
+              "id": "version-0.65-BorderEffect",
+              "path": "/react-native-windows/docs/0.65/version-0.65-BorderEffect"
+            },
+            {
+              "id": "version-0.65-CanvasComposite",
+              "path": "/react-native-windows/docs/0.65/version-0.65-CanvasComposite"
+            },
+            {
+              "id": "version-0.65-CanvasEdgeBehavior",
+              "path": "/react-native-windows/docs/0.65/version-0.65-CanvasEdgeBehavior"
+            },
+            {
+              "id": "version-0.65-ColorSourceEffect",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ColorSourceEffect"
+            },
+            {
+              "id": "version-0.65-CompositeStepEffect",
+              "path": "/react-native-windows/docs/0.65/version-0.65-CompositeStepEffect"
+            },
+            {
+              "id": "version-0.65-config",
+              "path": "/react-native-windows/docs/0.65/version-0.65-config"
+            },
+            {
+              "id": "version-0.65-ConstantProviderDelegate",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ConstantProviderDelegate"
+            },
+            {
+              "id": "version-0.65-customizing-sdk-versions",
+              "path": "/react-native-windows/docs/0.65/version-0.65-customizing-sdk-versions"
+            },
+            {
+              "id": "version-0.65-DesktopWindowMessage",
+              "path": "/react-native-windows/docs/0.65/version-0.65-DesktopWindowMessage"
+            },
+            {
+              "id": "version-0.65-DevMenuControl",
+              "path": "/react-native-windows/docs/0.65/version-0.65-DevMenuControl"
+            },
+            {
+              "id": "version-0.65-DynamicAutomationPeer",
+              "path": "/react-native-windows/docs/0.65/version-0.65-DynamicAutomationPeer"
+            },
+            {
+              "id": "version-0.65-DynamicAutomationProperties",
+              "path": "/react-native-windows/docs/0.65/version-0.65-DynamicAutomationProperties"
+            },
+            {
+              "id": "version-0.65-DynamicValueProvider",
+              "path": "/react-native-windows/docs/0.65/version-0.65-DynamicValueProvider"
+            },
+            {
+              "id": "version-0.65-EffectBorderMode",
+              "path": "/react-native-windows/docs/0.65/version-0.65-EffectBorderMode"
+            },
+            {
+              "id": "version-0.65-EffectOptimization",
+              "path": "/react-native-windows/docs/0.65/version-0.65-EffectOptimization"
+            },
+            {
+              "id": "version-0.65-GaussianBlurEffect",
+              "path": "/react-native-windows/docs/0.65/version-0.65-GaussianBlurEffect"
+            },
+            {
+              "id": "version-0.65-getting-started",
+              "path": "/react-native-windows/docs/0.65/version-0.65-getting-started"
+            },
+            {
+              "id": "version-0.65-hermes",
+              "path": "/react-native-windows/docs/0.65/version-0.65-hermes"
+            },
+            {
+              "id": "version-0.65-IJsiByteBuffer",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IJsiByteBuffer"
+            },
+            {
+              "id": "version-0.65-IJsiHostObject",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IJsiHostObject"
+            },
+            {
+              "id": "version-0.65-IJSValueReader",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IJSValueReader"
+            },
+            {
+              "id": "version-0.65-IJSValueWriter",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IJSValueWriter"
+            },
+            {
+              "id": "version-0.65-InitializerDelegate",
+              "path": "/react-native-windows/docs/0.65/version-0.65-InitializerDelegate"
+            },
+            {
+              "id": "version-0.65-InstanceCreatedEventArgs",
+              "path": "/react-native-windows/docs/0.65/version-0.65-InstanceCreatedEventArgs"
+            },
+            {
+              "id": "version-0.65-InstanceDestroyedEventArgs",
+              "path": "/react-native-windows/docs/0.65/version-0.65-InstanceDestroyedEventArgs"
+            },
+            {
+              "id": "version-0.65-InstanceLoadedEventArgs",
+              "path": "/react-native-windows/docs/0.65/version-0.65-InstanceLoadedEventArgs"
+            },
+            {
+              "id": "version-0.65-IReactContext",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactContext"
+            },
+            {
+              "id": "version-0.65-IReactDispatcher",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactDispatcher"
+            },
+            {
+              "id": "version-0.65-IReactModuleBuilder",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactModuleBuilder"
+            },
+            {
+              "id": "version-0.65-IReactNonAbiValue",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactNonAbiValue"
+            },
+            {
+              "id": "version-0.65-IReactNotificationArgs",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactNotificationArgs"
+            },
+            {
+              "id": "version-0.65-IReactNotificationService",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactNotificationService"
+            },
+            {
+              "id": "version-0.65-IReactNotificationSubscription",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactNotificationSubscription"
+            },
+            {
+              "id": "version-0.65-IReactPackageBuilder",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactPackageBuilder"
+            },
+            {
+              "id": "version-0.65-IReactPackageBuilderExperimental",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactPackageBuilderExperimental"
+            },
+            {
+              "id": "version-0.65-IReactPackageProvider",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactPackageProvider"
+            },
+            {
+              "id": "version-0.65-IReactPropertyBag",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactPropertyBag"
+            },
+            {
+              "id": "version-0.65-IReactPropertyName",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactPropertyName"
+            },
+            {
+              "id": "version-0.65-IReactPropertyNamespace",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactPropertyNamespace"
+            },
+            {
+              "id": "version-0.65-IReactSettingsSnapshot",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactSettingsSnapshot"
+            },
+            {
+              "id": "version-0.65-IReactViewHost",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactViewHost"
+            },
+            {
+              "id": "version-0.65-IReactViewInstance",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IReactViewInstance"
+            },
+            {
+              "id": "version-0.65-IRedBoxErrorFrameInfo",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IRedBoxErrorFrameInfo"
+            },
+            {
+              "id": "version-0.65-IRedBoxErrorInfo",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IRedBoxErrorInfo"
+            },
+            {
+              "id": "version-0.65-IRedBoxHandler",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IRedBoxHandler"
+            },
+            {
+              "id": "version-0.65-IViewManager",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IViewManager"
+            },
+            {
+              "id": "version-0.65-IViewManagerCreateWithProperties",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IViewManagerCreateWithProperties"
+            },
+            {
+              "id": "version-0.65-IViewManagerRequiresNativeLayout",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IViewManagerRequiresNativeLayout"
+            },
+            {
+              "id": "version-0.65-IViewManagerWithChildren",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IViewManagerWithChildren"
+            },
+            {
+              "id": "version-0.65-IViewManagerWithCommands",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IViewManagerWithCommands"
+            },
+            {
+              "id": "version-0.65-IViewManagerWithExportedEventTypeConstants",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IViewManagerWithExportedEventTypeConstants"
+            },
+            {
+              "id": "version-0.65-IViewManagerWithExportedViewConstants",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IViewManagerWithExportedViewConstants"
+            },
+            {
+              "id": "version-0.65-IViewManagerWithNativeProperties",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IViewManagerWithNativeProperties"
+            },
+            {
+              "id": "version-0.65-IViewManagerWithReactContext",
+              "path": "/react-native-windows/docs/0.65/version-0.65-IViewManagerWithReactContext"
+            },
+            {
+              "id": "version-0.65-iviewwindowsprops-api",
+              "path": "/react-native-windows/docs/0.65/version-0.65-iviewwindowsprops-api"
+            },
+            {
+              "id": "version-0.65-JsiByteArrayUser",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiByteArrayUser"
+            },
+            {
+              "id": "version-0.65-JSIEngine",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JSIEngine"
+            },
+            {
+              "id": "version-0.65-JsiError",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiError"
+            },
+            {
+              "id": "version-0.65-JsiErrorType",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiErrorType"
+            },
+            {
+              "id": "version-0.65-JsiHostFunction",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiHostFunction"
+            },
+            {
+              "id": "version-0.65-JsiObjectRef",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiObjectRef"
+            },
+            {
+              "id": "version-0.65-JsiPreparedJavaScript",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiPreparedJavaScript"
+            },
+            {
+              "id": "version-0.65-JsiPropertyIdRef",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiPropertyIdRef"
+            },
+            {
+              "id": "version-0.65-JsiRuntime",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiRuntime"
+            },
+            {
+              "id": "version-0.65-JsiScopeState",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiScopeState"
+            },
+            {
+              "id": "version-0.65-JsiStringRef",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiStringRef"
+            },
+            {
+              "id": "version-0.65-JsiSymbolRef",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiSymbolRef"
+            },
+            {
+              "id": "version-0.65-JsiValueKind",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiValueKind"
+            },
+            {
+              "id": "version-0.65-JsiValueRef",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiValueRef"
+            },
+            {
+              "id": "version-0.65-JsiWeakObjectRef",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JsiWeakObjectRef"
+            },
+            {
+              "id": "version-0.65-JSValueArgWriter",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JSValueArgWriter"
+            },
+            {
+              "id": "version-0.65-JSValueType",
+              "path": "/react-native-windows/docs/0.65/version-0.65-JSValueType"
+            },
+            {
+              "id": "version-0.65-MethodDelegate",
+              "path": "/react-native-windows/docs/0.65/version-0.65-MethodDelegate"
+            },
+            {
+              "id": "version-0.65-MethodResultCallback",
+              "path": "/react-native-windows/docs/0.65/version-0.65-MethodResultCallback"
+            },
+            {
+              "id": "version-0.65-MethodReturnType",
+              "path": "/react-native-windows/docs/0.65/version-0.65-MethodReturnType"
+            },
+            {
+              "id": "version-0.65-Native-API-Reference",
+              "path": "/react-native-windows/docs/0.65/version-0.65-Native-API-Reference"
+            },
+            {
+              "id": "version-0.65-native-code",
+              "path": "/react-native-windows/docs/0.65/version-0.65-native-code"
+            },
+            {
+              "id": "version-0.65-native-modules",
+              "path": "/react-native-windows/docs/0.65/version-0.65-native-modules"
+            },
+            {
+              "id": "version-0.65-native-modules-advanced",
+              "path": "/react-native-windows/docs/0.65/version-0.65-native-modules-advanced"
+            },
+            {
+              "id": "version-0.65-native-modules-async",
+              "path": "/react-native-windows/docs/0.65/version-0.65-native-modules-async"
+            },
+            {
+              "id": "version-0.65-native-modules-jsvalue",
+              "path": "/react-native-windows/docs/0.65/version-0.65-native-modules-jsvalue"
+            },
+            {
+              "id": "version-0.65-native-modules-setup",
+              "path": "/react-native-windows/docs/0.65/version-0.65-native-modules-setup"
+            },
+            {
+              "id": "version-0.65-NuGet",
+              "path": "/react-native-windows/docs/0.65/version-0.65-NuGet"
+            },
+            {
+              "id": "version-0.65-parity-status",
+              "path": "/react-native-windows/docs/0.65/version-0.65-parity-status"
+            },
+            {
+              "id": "version-0.65-QuirkSettings",
+              "path": "/react-native-windows/docs/0.65/version-0.65-QuirkSettings"
+            },
+            {
+              "id": "version-0.65-ReactApplication",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactApplication"
+            },
+            {
+              "id": "version-0.65-ReactCoreInjection",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactCoreInjection"
+            },
+            {
+              "id": "version-0.65-ReactCreatePropertyValue",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactCreatePropertyValue"
+            },
+            {
+              "id": "version-0.65-ReactDispatcherCallback",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactDispatcherCallback"
+            },
+            {
+              "id": "version-0.65-ReactDispatcherHelper",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactDispatcherHelper"
+            },
+            {
+              "id": "version-0.65-ReactInstanceSettings",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactInstanceSettings"
+            },
+            {
+              "id": "version-0.65-ReactModuleProvider",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactModuleProvider"
+            },
+            {
+              "id": "version-0.65-ReactNativeHost",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactNativeHost"
+            },
+            {
+              "id": "version-0.65-ReactNotificationHandler",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactNotificationHandler"
+            },
+            {
+              "id": "version-0.65-ReactNotificationServiceHelper",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactNotificationServiceHelper"
+            },
+            {
+              "id": "version-0.65-ReactPropertyBagHelper",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactPropertyBagHelper"
+            },
+            {
+              "id": "version-0.65-ReactRootView",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactRootView"
+            },
+            {
+              "id": "version-0.65-ReactViewManagerProvider",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactViewManagerProvider"
+            },
+            {
+              "id": "version-0.65-ReactViewOptions",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ReactViewOptions"
+            },
+            {
+              "id": "version-0.65-RedBoxErrorType",
+              "path": "/react-native-windows/docs/0.65/version-0.65-RedBoxErrorType"
+            },
+            {
+              "id": "version-0.65-RedBoxHelper",
+              "path": "/react-native-windows/docs/0.65/version-0.65-RedBoxHelper"
+            },
+            {
+              "id": "version-0.65-releases",
+              "path": "/react-native-windows/docs/0.65/version-0.65-releases"
+            },
+            {
+              "id": "version-0.65-rnw-dependencies",
+              "path": "/react-native-windows/docs/0.65/version-0.65-rnw-dependencies"
+            },
+            {
+              "id": "version-0.65-run-windows-cli",
+              "path": "/react-native-windows/docs/0.65/version-0.65-run-windows-cli"
+            },
+            {
+              "id": "version-0.65-SyncMethodDelegate",
+              "path": "/react-native-windows/docs/0.65/version-0.65-SyncMethodDelegate"
+            },
+            {
+              "id": "version-0.65-UIBatchCompleteCallback",
+              "path": "/react-native-windows/docs/0.65/version-0.65-UIBatchCompleteCallback"
+            },
+            {
+              "id": "version-0.65-view-managers",
+              "path": "/react-native-windows/docs/0.65/version-0.65-view-managers"
+            },
+            {
+              "id": "version-0.65-ViewControl",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ViewControl"
+            },
+            {
+              "id": "version-0.65-ViewManagerPropertyType",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ViewManagerPropertyType"
+            },
+            {
+              "id": "version-0.65-ViewPanel",
+              "path": "/react-native-windows/docs/0.65/version-0.65-ViewPanel"
+            },
+            {
+              "id": "version-0.65-win10-compat",
+              "path": "/react-native-windows/docs/0.65/version-0.65-win10-compat"
+            },
+            {
+              "id": "version-0.65-windowsbrush-and-theme",
+              "path": "/react-native-windows/docs/0.65/version-0.65-windowsbrush-and-theme"
+            },
+            {
+              "id": "version-0.65-XamlHelper",
+              "path": "/react-native-windows/docs/0.65/version-0.65-XamlHelper"
+            },
+            {
+              "id": "version-0.65-XamlMetaDataProvider",
+              "path": "/react-native-windows/docs/0.65/version-0.65-XamlMetaDataProvider"
+            },
+            {
+              "id": "version-0.65-XamlUIService",
+              "path": "/react-native-windows/docs/0.65/version-0.65-XamlUIService"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        },
+        {
+          "name": "0.64",
+          "label": "0.64",
+          "isLast": false,
+          "path": "/react-native-windows/docs/0.64",
+          "mainDocId": "version-0.64-AccessibilityAction",
+          "docs": [
+            {
+              "id": "version-0.64-AccessibilityAction",
+              "path": "/react-native-windows/docs/0.64/version-0.64-AccessibilityAction"
+            },
+            {
+              "id": "version-0.64-AccessibilityActionEventHandler",
+              "path": "/react-native-windows/docs/0.64/version-0.64-AccessibilityActionEventHandler"
+            },
+            {
+              "id": "version-0.64-AccessibilityInvokeEventHandler",
+              "path": "/react-native-windows/docs/0.64/version-0.64-AccessibilityInvokeEventHandler"
+            },
+            {
+              "id": "version-0.64-AccessibilityRoles",
+              "path": "/react-native-windows/docs/0.64/version-0.64-AccessibilityRoles"
+            },
+            {
+              "id": "version-0.64-AccessibilityStates",
+              "path": "/react-native-windows/docs/0.64/version-0.64-AccessibilityStates"
+            },
+            {
+              "id": "version-0.64-AccessibilityValue",
+              "path": "/react-native-windows/docs/0.64/version-0.64-AccessibilityValue"
+            },
+            {
+              "id": "version-0.64-apptheme-api",
+              "path": "/react-native-windows/docs/0.64/version-0.64-apptheme-api"
+            },
+            {
+              "id": "version-0.64-BorderEffect",
+              "path": "/react-native-windows/docs/0.64/version-0.64-BorderEffect"
+            },
+            {
+              "id": "version-0.64-building-rnw",
+              "path": "/react-native-windows/docs/0.64/version-0.64-building-rnw"
+            },
+            {
+              "id": "version-0.64-CanvasComposite",
+              "path": "/react-native-windows/docs/0.64/version-0.64-CanvasComposite"
+            },
+            {
+              "id": "version-0.64-CanvasEdgeBehavior",
+              "path": "/react-native-windows/docs/0.64/version-0.64-CanvasEdgeBehavior"
+            },
+            {
+              "id": "version-0.64-ColorSourceEffect",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ColorSourceEffect"
+            },
+            {
+              "id": "version-0.64-CompositeStepEffect",
+              "path": "/react-native-windows/docs/0.64/version-0.64-CompositeStepEffect"
+            },
+            {
+              "id": "version-0.64-config",
+              "path": "/react-native-windows/docs/0.64/version-0.64-config"
+            },
+            {
+              "id": "version-0.64-ConstantProviderDelegate",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ConstantProviderDelegate"
+            },
+            {
+              "id": "version-0.64-customizing-sdk-versions",
+              "path": "/react-native-windows/docs/0.64/version-0.64-customizing-sdk-versions"
+            },
+            {
+              "id": "version-0.64-DevMenuControl",
+              "path": "/react-native-windows/docs/0.64/version-0.64-DevMenuControl"
+            },
+            {
+              "id": "version-0.64-DynamicAutomationPeer",
+              "path": "/react-native-windows/docs/0.64/version-0.64-DynamicAutomationPeer"
+            },
+            {
+              "id": "version-0.64-DynamicAutomationProperties",
+              "path": "/react-native-windows/docs/0.64/version-0.64-DynamicAutomationProperties"
+            },
+            {
+              "id": "version-0.64-DynamicValueProvider",
+              "path": "/react-native-windows/docs/0.64/version-0.64-DynamicValueProvider"
+            },
+            {
+              "id": "version-0.64-EffectBorderMode",
+              "path": "/react-native-windows/docs/0.64/version-0.64-EffectBorderMode"
+            },
+            {
+              "id": "version-0.64-EffectOptimization",
+              "path": "/react-native-windows/docs/0.64/version-0.64-EffectOptimization"
+            },
+            {
+              "id": "version-0.64-flyout-component",
+              "path": "/react-native-windows/docs/0.64/version-0.64-flyout-component"
+            },
+            {
+              "id": "version-0.64-GaussianBlurEffect",
+              "path": "/react-native-windows/docs/0.64/version-0.64-GaussianBlurEffect"
+            },
+            {
+              "id": "version-0.64-getting-started",
+              "path": "/react-native-windows/docs/0.64/version-0.64-getting-started"
+            },
+            {
+              "id": "version-0.64-glyph-component",
+              "path": "/react-native-windows/docs/0.64/version-0.64-glyph-component"
+            },
+            {
+              "id": "version-0.64-hermes",
+              "path": "/react-native-windows/docs/0.64/version-0.64-hermes"
+            },
+            {
+              "id": "version-0.64-IJsiByteBuffer",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IJsiByteBuffer"
+            },
+            {
+              "id": "version-0.64-IJsiHostObject",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IJsiHostObject"
+            },
+            {
+              "id": "version-0.64-IJSValueReader",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IJSValueReader"
+            },
+            {
+              "id": "version-0.64-IJSValueWriter",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IJSValueWriter"
+            },
+            {
+              "id": "version-0.64-ikeyboardprops-api",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ikeyboardprops-api"
+            },
+            {
+              "id": "version-0.64-InitializerDelegate",
+              "path": "/react-native-windows/docs/0.64/version-0.64-InitializerDelegate"
+            },
+            {
+              "id": "version-0.64-InstanceCreatedEventArgs",
+              "path": "/react-native-windows/docs/0.64/version-0.64-InstanceCreatedEventArgs"
+            },
+            {
+              "id": "version-0.64-InstanceDestroyedEventArgs",
+              "path": "/react-native-windows/docs/0.64/version-0.64-InstanceDestroyedEventArgs"
+            },
+            {
+              "id": "version-0.64-InstanceLoadedEventArgs",
+              "path": "/react-native-windows/docs/0.64/version-0.64-InstanceLoadedEventArgs"
+            },
+            {
+              "id": "version-0.64-IReactContext",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactContext"
+            },
+            {
+              "id": "version-0.64-IReactDispatcher",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactDispatcher"
+            },
+            {
+              "id": "version-0.64-IReactModuleBuilder",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactModuleBuilder"
+            },
+            {
+              "id": "version-0.64-IReactNonAbiValue",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactNonAbiValue"
+            },
+            {
+              "id": "version-0.64-IReactNotificationArgs",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactNotificationArgs"
+            },
+            {
+              "id": "version-0.64-IReactNotificationService",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactNotificationService"
+            },
+            {
+              "id": "version-0.64-IReactNotificationSubscription",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactNotificationSubscription"
+            },
+            {
+              "id": "version-0.64-IReactPackageBuilder",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactPackageBuilder"
+            },
+            {
+              "id": "version-0.64-IReactPackageBuilderExperimental",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactPackageBuilderExperimental"
+            },
+            {
+              "id": "version-0.64-IReactPackageProvider",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactPackageProvider"
+            },
+            {
+              "id": "version-0.64-IReactPropertyBag",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactPropertyBag"
+            },
+            {
+              "id": "version-0.64-IReactPropertyName",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactPropertyName"
+            },
+            {
+              "id": "version-0.64-IReactPropertyNamespace",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactPropertyNamespace"
+            },
+            {
+              "id": "version-0.64-IReactSettingsSnapshot",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IReactSettingsSnapshot"
+            },
+            {
+              "id": "version-0.64-IRedBoxErrorFrameInfo",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IRedBoxErrorFrameInfo"
+            },
+            {
+              "id": "version-0.64-IRedBoxErrorInfo",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IRedBoxErrorInfo"
+            },
+            {
+              "id": "version-0.64-IRedBoxHandler",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IRedBoxHandler"
+            },
+            {
+              "id": "version-0.64-IViewManager",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IViewManager"
+            },
+            {
+              "id": "version-0.64-IViewManagerCreateWithProperties",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IViewManagerCreateWithProperties"
+            },
+            {
+              "id": "version-0.64-IViewManagerRequiresNativeLayout",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IViewManagerRequiresNativeLayout"
+            },
+            {
+              "id": "version-0.64-IViewManagerWithChildren",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IViewManagerWithChildren"
+            },
+            {
+              "id": "version-0.64-IViewManagerWithCommands",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IViewManagerWithCommands"
+            },
+            {
+              "id": "version-0.64-IViewManagerWithExportedEventTypeConstants",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IViewManagerWithExportedEventTypeConstants"
+            },
+            {
+              "id": "version-0.64-IViewManagerWithExportedViewConstants",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IViewManagerWithExportedViewConstants"
+            },
+            {
+              "id": "version-0.64-IViewManagerWithNativeProperties",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IViewManagerWithNativeProperties"
+            },
+            {
+              "id": "version-0.64-IViewManagerWithReactContext",
+              "path": "/react-native-windows/docs/0.64/version-0.64-IViewManagerWithReactContext"
+            },
+            {
+              "id": "version-0.64-iviewwindowsprops-api",
+              "path": "/react-native-windows/docs/0.64/version-0.64-iviewwindowsprops-api"
+            },
+            {
+              "id": "version-0.64-JsiByteArrayUser",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiByteArrayUser"
+            },
+            {
+              "id": "version-0.64-JSIEngine",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JSIEngine"
+            },
+            {
+              "id": "version-0.64-JsiError",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiError"
+            },
+            {
+              "id": "version-0.64-JsiErrorType",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiErrorType"
+            },
+            {
+              "id": "version-0.64-JsiHostFunction",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiHostFunction"
+            },
+            {
+              "id": "version-0.64-JsiObjectRef",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiObjectRef"
+            },
+            {
+              "id": "version-0.64-JsiPreparedJavaScript",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiPreparedJavaScript"
+            },
+            {
+              "id": "version-0.64-JsiPropertyIdRef",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiPropertyIdRef"
+            },
+            {
+              "id": "version-0.64-JsiRuntime",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiRuntime"
+            },
+            {
+              "id": "version-0.64-JsiScopeState",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiScopeState"
+            },
+            {
+              "id": "version-0.64-JsiStringRef",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiStringRef"
+            },
+            {
+              "id": "version-0.64-JsiSymbolRef",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiSymbolRef"
+            },
+            {
+              "id": "version-0.64-JsiValueKind",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiValueKind"
+            },
+            {
+              "id": "version-0.64-JsiValueRef",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiValueRef"
+            },
+            {
+              "id": "version-0.64-JsiWeakObjectRef",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JsiWeakObjectRef"
+            },
+            {
+              "id": "version-0.64-JSValueArgWriter",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JSValueArgWriter"
+            },
+            {
+              "id": "version-0.64-JSValueType",
+              "path": "/react-native-windows/docs/0.64/version-0.64-JSValueType"
+            },
+            {
+              "id": "version-0.64-MethodDelegate",
+              "path": "/react-native-windows/docs/0.64/version-0.64-MethodDelegate"
+            },
+            {
+              "id": "version-0.64-MethodResultCallback",
+              "path": "/react-native-windows/docs/0.64/version-0.64-MethodResultCallback"
+            },
+            {
+              "id": "version-0.64-MethodReturnType",
+              "path": "/react-native-windows/docs/0.64/version-0.64-MethodReturnType"
+            },
+            {
+              "id": "version-0.64-metro-config-out-tree-platforms",
+              "path": "/react-native-windows/docs/0.64/version-0.64-metro-config-out-tree-platforms"
+            },
+            {
+              "id": "version-0.64-Native-API-Reference",
+              "path": "/react-native-windows/docs/0.64/version-0.64-Native-API-Reference"
+            },
+            {
+              "id": "version-0.64-native-modules",
+              "path": "/react-native-windows/docs/0.64/version-0.64-native-modules"
+            },
+            {
+              "id": "version-0.64-native-modules-advanced",
+              "path": "/react-native-windows/docs/0.64/version-0.64-native-modules-advanced"
+            },
+            {
+              "id": "version-0.64-native-modules-autolinking",
+              "path": "/react-native-windows/docs/0.64/version-0.64-native-modules-autolinking"
+            },
+            {
+              "id": "version-0.64-native-modules-csharp-codegen",
+              "path": "/react-native-windows/docs/0.64/version-0.64-native-modules-csharp-codegen"
+            },
+            {
+              "id": "version-0.64-native-modules-jsvalue",
+              "path": "/react-native-windows/docs/0.64/version-0.64-native-modules-jsvalue"
+            },
+            {
+              "id": "version-0.64-native-modules-marshalling-data",
+              "path": "/react-native-windows/docs/0.64/version-0.64-native-modules-marshalling-data"
+            },
+            {
+              "id": "version-0.64-native-modules-setup",
+              "path": "/react-native-windows/docs/0.64/version-0.64-native-modules-setup"
+            },
+            {
+              "id": "version-0.64-native-modules-troubleshooting",
+              "path": "/react-native-windows/docs/0.64/version-0.64-native-modules-troubleshooting"
+            },
+            {
+              "id": "version-0.64-native-modules-using",
+              "path": "/react-native-windows/docs/0.64/version-0.64-native-modules-using"
+            },
+            {
+              "id": "version-0.64-NuGet",
+              "path": "/react-native-windows/docs/0.64/version-0.64-NuGet"
+            },
+            {
+              "id": "version-0.64-nuget-update",
+              "path": "/react-native-windows/docs/0.64/version-0.64-nuget-update"
+            },
+            {
+              "id": "version-0.64-parity-status",
+              "path": "/react-native-windows/docs/0.64/version-0.64-parity-status"
+            },
+            {
+              "id": "version-0.64-platform",
+              "path": "/react-native-windows/docs/0.64/version-0.64-platform"
+            },
+            {
+              "id": "version-0.64-popup-component",
+              "path": "/react-native-windows/docs/0.64/version-0.64-popup-component"
+            },
+            {
+              "id": "version-0.64-QuirkSettings",
+              "path": "/react-native-windows/docs/0.64/version-0.64-QuirkSettings"
+            },
+            {
+              "id": "version-0.64-ReactApplication",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ReactApplication"
+            },
+            {
+              "id": "version-0.64-ReactCreatePropertyValue",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ReactCreatePropertyValue"
+            },
+            {
+              "id": "version-0.64-ReactDispatcherCallback",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ReactDispatcherCallback"
+            },
+            {
+              "id": "version-0.64-ReactDispatcherHelper",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ReactDispatcherHelper"
+            },
+            {
+              "id": "version-0.64-ReactInstanceSettings",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ReactInstanceSettings"
+            },
+            {
+              "id": "version-0.64-ReactModuleProvider",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ReactModuleProvider"
+            },
+            {
+              "id": "version-0.64-ReactNativeHost",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ReactNativeHost"
+            },
+            {
+              "id": "version-0.64-ReactNotificationHandler",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ReactNotificationHandler"
+            },
+            {
+              "id": "version-0.64-ReactNotificationServiceHelper",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ReactNotificationServiceHelper"
+            },
+            {
+              "id": "version-0.64-ReactPropertyBagHelper",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ReactPropertyBagHelper"
+            },
+            {
+              "id": "version-0.64-ReactRootView",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ReactRootView"
+            },
+            {
+              "id": "version-0.64-ReactViewManagerProvider",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ReactViewManagerProvider"
+            },
+            {
+              "id": "version-0.64-RedBoxErrorType",
+              "path": "/react-native-windows/docs/0.64/version-0.64-RedBoxErrorType"
+            },
+            {
+              "id": "version-0.64-RedBoxHelper",
+              "path": "/react-native-windows/docs/0.64/version-0.64-RedBoxHelper"
+            },
+            {
+              "id": "version-0.64-releases",
+              "path": "/react-native-windows/docs/0.64/version-0.64-releases"
+            },
+            {
+              "id": "version-0.64-rnm-dependencies",
+              "path": "/react-native-windows/docs/0.64/version-0.64-rnm-dependencies"
+            },
+            {
+              "id": "version-0.64-rnm-getting-started",
+              "path": "/react-native-windows/docs/0.64/version-0.64-rnm-getting-started"
+            },
+            {
+              "id": "version-0.64-rnw-dependencies",
+              "path": "/react-native-windows/docs/0.64/version-0.64-rnw-dependencies"
+            },
+            {
+              "id": "version-0.64-supported-community-modules",
+              "path": "/react-native-windows/docs/0.64/version-0.64-supported-community-modules"
+            },
+            {
+              "id": "version-0.64-SyncMethodDelegate",
+              "path": "/react-native-windows/docs/0.64/version-0.64-SyncMethodDelegate"
+            },
+            {
+              "id": "version-0.64-view-managers",
+              "path": "/react-native-windows/docs/0.64/version-0.64-view-managers"
+            },
+            {
+              "id": "version-0.64-ViewControl",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ViewControl"
+            },
+            {
+              "id": "version-0.64-ViewManagerPropertyType",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ViewManagerPropertyType"
+            },
+            {
+              "id": "version-0.64-ViewPanel",
+              "path": "/react-native-windows/docs/0.64/version-0.64-ViewPanel"
+            },
+            {
+              "id": "version-0.64-win10-compat",
+              "path": "/react-native-windows/docs/0.64/version-0.64-win10-compat"
+            },
+            {
+              "id": "version-0.64-win10-vm",
+              "path": "/react-native-windows/docs/0.64/version-0.64-win10-vm"
+            },
+            {
+              "id": "version-0.64-windowsbrush-and-theme",
+              "path": "/react-native-windows/docs/0.64/version-0.64-windowsbrush-and-theme"
+            },
+            {
+              "id": "version-0.64-winui3",
+              "path": "/react-native-windows/docs/0.64/version-0.64-winui3"
+            },
+            {
+              "id": "version-0.64-XamlHelper",
+              "path": "/react-native-windows/docs/0.64/version-0.64-XamlHelper"
+            },
+            {
+              "id": "version-0.64-XamlMetaDataProvider",
+              "path": "/react-native-windows/docs/0.64/version-0.64-XamlMetaDataProvider"
+            },
+            {
+              "id": "version-0.64-XamlUIService",
+              "path": "/react-native-windows/docs/0.64/version-0.64-XamlUIService"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        },
+        {
+          "name": "0.63",
+          "label": "0.63",
+          "isLast": false,
+          "path": "/react-native-windows/docs/0.63",
+          "mainDocId": "version-0.63-AccessibilityAction",
+          "docs": [
+            {
+              "id": "version-0.63-AccessibilityAction",
+              "path": "/react-native-windows/docs/0.63/version-0.63-AccessibilityAction"
+            },
+            {
+              "id": "version-0.63-AccessibilityActionEventHandler",
+              "path": "/react-native-windows/docs/0.63/version-0.63-AccessibilityActionEventHandler"
+            },
+            {
+              "id": "version-0.63-AccessibilityInvokeEventHandler",
+              "path": "/react-native-windows/docs/0.63/version-0.63-AccessibilityInvokeEventHandler"
+            },
+            {
+              "id": "version-0.63-AccessibilityRoles",
+              "path": "/react-native-windows/docs/0.63/version-0.63-AccessibilityRoles"
+            },
+            {
+              "id": "version-0.63-AccessibilityStates",
+              "path": "/react-native-windows/docs/0.63/version-0.63-AccessibilityStates"
+            },
+            {
+              "id": "version-0.63-AccessibilityValue",
+              "path": "/react-native-windows/docs/0.63/version-0.63-AccessibilityValue"
+            },
+            {
+              "id": "version-0.63-BorderEffect",
+              "path": "/react-native-windows/docs/0.63/version-0.63-BorderEffect"
+            },
+            {
+              "id": "version-0.63-CanvasComposite",
+              "path": "/react-native-windows/docs/0.63/version-0.63-CanvasComposite"
+            },
+            {
+              "id": "version-0.63-CanvasEdgeBehavior",
+              "path": "/react-native-windows/docs/0.63/version-0.63-CanvasEdgeBehavior"
+            },
+            {
+              "id": "version-0.63-ColorSourceEffect",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ColorSourceEffect"
+            },
+            {
+              "id": "version-0.63-CompositeStepEffect",
+              "path": "/react-native-windows/docs/0.63/version-0.63-CompositeStepEffect"
+            },
+            {
+              "id": "version-0.63-config",
+              "path": "/react-native-windows/docs/0.63/version-0.63-config"
+            },
+            {
+              "id": "version-0.63-ConstantProviderDelegate",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ConstantProviderDelegate"
+            },
+            {
+              "id": "version-0.63-DynamicAutomationPeer",
+              "path": "/react-native-windows/docs/0.63/version-0.63-DynamicAutomationPeer"
+            },
+            {
+              "id": "version-0.63-DynamicAutomationProperties",
+              "path": "/react-native-windows/docs/0.63/version-0.63-DynamicAutomationProperties"
+            },
+            {
+              "id": "version-0.63-DynamicValueProvider",
+              "path": "/react-native-windows/docs/0.63/version-0.63-DynamicValueProvider"
+            },
+            {
+              "id": "version-0.63-EffectBorderMode",
+              "path": "/react-native-windows/docs/0.63/version-0.63-EffectBorderMode"
+            },
+            {
+              "id": "version-0.63-EffectOptimization",
+              "path": "/react-native-windows/docs/0.63/version-0.63-EffectOptimization"
+            },
+            {
+              "id": "version-0.63-GaussianBlurEffect",
+              "path": "/react-native-windows/docs/0.63/version-0.63-GaussianBlurEffect"
+            },
+            {
+              "id": "version-0.63-getting-started",
+              "path": "/react-native-windows/docs/0.63/version-0.63-getting-started"
+            },
+            {
+              "id": "version-0.63-hermes",
+              "path": "/react-native-windows/docs/0.63/version-0.63-hermes"
+            },
+            {
+              "id": "version-0.63-IJSValueReader",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IJSValueReader"
+            },
+            {
+              "id": "version-0.63-ijsvaluereader-api",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ijsvaluereader-api"
+            },
+            {
+              "id": "version-0.63-IJSValueWriter",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IJSValueWriter"
+            },
+            {
+              "id": "version-0.63-InitializerDelegate",
+              "path": "/react-native-windows/docs/0.63/version-0.63-InitializerDelegate"
+            },
+            {
+              "id": "version-0.63-IReactContext",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactContext"
+            },
+            {
+              "id": "version-0.63-IReactDispatcher",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactDispatcher"
+            },
+            {
+              "id": "version-0.63-ireactdispatcher-api",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ireactdispatcher-api"
+            },
+            {
+              "id": "version-0.63-IReactModuleBuilder",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactModuleBuilder"
+            },
+            {
+              "id": "version-0.63-ireactmodulebuilder-api",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ireactmodulebuilder-api"
+            },
+            {
+              "id": "version-0.63-IReactNonAbiValue",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactNonAbiValue"
+            },
+            {
+              "id": "version-0.63-IReactNotificationArgs",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactNotificationArgs"
+            },
+            {
+              "id": "version-0.63-IReactNotificationService",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactNotificationService"
+            },
+            {
+              "id": "version-0.63-IReactNotificationSubscription",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactNotificationSubscription"
+            },
+            {
+              "id": "version-0.63-IReactPackageBuilder",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactPackageBuilder"
+            },
+            {
+              "id": "version-0.63-ireactpackagebuilder-api",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ireactpackagebuilder-api"
+            },
+            {
+              "id": "version-0.63-IReactPackageBuilderExperimental",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactPackageBuilderExperimental"
+            },
+            {
+              "id": "version-0.63-IReactPackageProvider",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactPackageProvider"
+            },
+            {
+              "id": "version-0.63-ireactpackageprovider-api",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ireactpackageprovider-api"
+            },
+            {
+              "id": "version-0.63-IReactPropertyBag",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactPropertyBag"
+            },
+            {
+              "id": "version-0.63-IReactPropertyName",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactPropertyName"
+            },
+            {
+              "id": "version-0.63-IReactPropertyNamespace",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IReactPropertyNamespace"
+            },
+            {
+              "id": "version-0.63-IRedBoxErrorFrameInfo",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IRedBoxErrorFrameInfo"
+            },
+            {
+              "id": "version-0.63-IRedBoxErrorInfo",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IRedBoxErrorInfo"
+            },
+            {
+              "id": "version-0.63-IRedBoxHandler",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IRedBoxHandler"
+            },
+            {
+              "id": "version-0.63-iredboxhandler-api",
+              "path": "/react-native-windows/docs/0.63/version-0.63-iredboxhandler-api"
+            },
+            {
+              "id": "version-0.63-IViewManager",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IViewManager"
+            },
+            {
+              "id": "version-0.63-IViewManagerWithChildren",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IViewManagerWithChildren"
+            },
+            {
+              "id": "version-0.63-IViewManagerWithCommands",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IViewManagerWithCommands"
+            },
+            {
+              "id": "version-0.63-IViewManagerWithExportedEventTypeConstants",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IViewManagerWithExportedEventTypeConstants"
+            },
+            {
+              "id": "version-0.63-IViewManagerWithExportedViewConstants",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IViewManagerWithExportedViewConstants"
+            },
+            {
+              "id": "version-0.63-IViewManagerWithNativeProperties",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IViewManagerWithNativeProperties"
+            },
+            {
+              "id": "version-0.63-IViewManagerWithReactContext",
+              "path": "/react-native-windows/docs/0.63/version-0.63-IViewManagerWithReactContext"
+            },
+            {
+              "id": "version-0.63-JSIEngine",
+              "path": "/react-native-windows/docs/0.63/version-0.63-JSIEngine"
+            },
+            {
+              "id": "version-0.63-JSValueArgWriter",
+              "path": "/react-native-windows/docs/0.63/version-0.63-JSValueArgWriter"
+            },
+            {
+              "id": "version-0.63-JSValueType",
+              "path": "/react-native-windows/docs/0.63/version-0.63-JSValueType"
+            },
+            {
+              "id": "version-0.63-MethodDelegate",
+              "path": "/react-native-windows/docs/0.63/version-0.63-MethodDelegate"
+            },
+            {
+              "id": "version-0.63-MethodResultCallback",
+              "path": "/react-native-windows/docs/0.63/version-0.63-MethodResultCallback"
+            },
+            {
+              "id": "version-0.63-MethodReturnType",
+              "path": "/react-native-windows/docs/0.63/version-0.63-MethodReturnType"
+            },
+            {
+              "id": "version-0.63-Native-API-Reference",
+              "path": "/react-native-windows/docs/0.63/version-0.63-Native-API-Reference"
+            },
+            {
+              "id": "version-0.63-native-modules",
+              "path": "/react-native-windows/docs/0.63/version-0.63-native-modules"
+            },
+            {
+              "id": "version-0.63-native-modules-async",
+              "path": "/react-native-windows/docs/0.63/version-0.63-native-modules-async"
+            },
+            {
+              "id": "version-0.63-native-modules-autolinking",
+              "path": "/react-native-windows/docs/0.63/version-0.63-native-modules-autolinking"
+            },
+            {
+              "id": "version-0.63-native-modules-csharp-codegen",
+              "path": "/react-native-windows/docs/0.63/version-0.63-native-modules-csharp-codegen"
+            },
+            {
+              "id": "version-0.63-native-modules-jsvalue",
+              "path": "/react-native-windows/docs/0.63/version-0.63-native-modules-jsvalue"
+            },
+            {
+              "id": "version-0.63-native-modules-setup",
+              "path": "/react-native-windows/docs/0.63/version-0.63-native-modules-setup"
+            },
+            {
+              "id": "version-0.63-native-modules-using",
+              "path": "/react-native-windows/docs/0.63/version-0.63-native-modules-using"
+            },
+            {
+              "id": "version-0.63-nuget",
+              "path": "/react-native-windows/docs/0.63/version-0.63-nuget"
+            },
+            {
+              "id": "version-0.63-nuget-update",
+              "path": "/react-native-windows/docs/0.63/version-0.63-nuget-update"
+            },
+            {
+              "id": "version-0.63-OnResumeAction",
+              "path": "/react-native-windows/docs/0.63/version-0.63-OnResumeAction"
+            },
+            {
+              "id": "version-0.63-QuirkSettings",
+              "path": "/react-native-windows/docs/0.63/version-0.63-QuirkSettings"
+            },
+            {
+              "id": "version-0.63-ReactApplication",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ReactApplication"
+            },
+            {
+              "id": "version-0.63-ReactCreatePropertyValue",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ReactCreatePropertyValue"
+            },
+            {
+              "id": "version-0.63-ReactDispatcherCallback",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ReactDispatcherCallback"
+            },
+            {
+              "id": "version-0.63-ReactDispatcherHelper",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ReactDispatcherHelper"
+            },
+            {
+              "id": "version-0.63-ReactInstanceSettings",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ReactInstanceSettings"
+            },
+            {
+              "id": "version-0.63-reactinstancesettings-api",
+              "path": "/react-native-windows/docs/0.63/version-0.63-reactinstancesettings-api"
+            },
+            {
+              "id": "version-0.63-ReactModuleProvider",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ReactModuleProvider"
+            },
+            {
+              "id": "version-0.63-ReactNativeHost",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ReactNativeHost"
+            },
+            {
+              "id": "version-0.63-reactnativehost-api",
+              "path": "/react-native-windows/docs/0.63/version-0.63-reactnativehost-api"
+            },
+            {
+              "id": "version-0.63-ReactNotificationHandler",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ReactNotificationHandler"
+            },
+            {
+              "id": "version-0.63-ReactNotificationServiceHelper",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ReactNotificationServiceHelper"
+            },
+            {
+              "id": "version-0.63-ReactPropertyBagHelper",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ReactPropertyBagHelper"
+            },
+            {
+              "id": "version-0.63-ReactRootView",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ReactRootView"
+            },
+            {
+              "id": "version-0.63-ReactViewManagerProvider",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ReactViewManagerProvider"
+            },
+            {
+              "id": "version-0.63-RedBoxErrorType",
+              "path": "/react-native-windows/docs/0.63/version-0.63-RedBoxErrorType"
+            },
+            {
+              "id": "version-0.63-RedBoxHelper",
+              "path": "/react-native-windows/docs/0.63/version-0.63-RedBoxHelper"
+            },
+            {
+              "id": "version-0.63-releases",
+              "path": "/react-native-windows/docs/0.63/version-0.63-releases"
+            },
+            {
+              "id": "version-0.63-rnm-getting-started",
+              "path": "/react-native-windows/docs/0.63/version-0.63-rnm-getting-started"
+            },
+            {
+              "id": "version-0.63-rnw-dependencies",
+              "path": "/react-native-windows/docs/0.63/version-0.63-rnw-dependencies"
+            },
+            {
+              "id": "version-0.63-SyncMethodDelegate",
+              "path": "/react-native-windows/docs/0.63/version-0.63-SyncMethodDelegate"
+            },
+            {
+              "id": "version-0.63-view-managers",
+              "path": "/react-native-windows/docs/0.63/version-0.63-view-managers"
+            },
+            {
+              "id": "version-0.63-ViewControl",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ViewControl"
+            },
+            {
+              "id": "version-0.63-ViewManagerPropertyType",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ViewManagerPropertyType"
+            },
+            {
+              "id": "version-0.63-ViewPanel",
+              "path": "/react-native-windows/docs/0.63/version-0.63-ViewPanel"
+            },
+            {
+              "id": "version-0.63-win10-compat",
+              "path": "/react-native-windows/docs/0.63/version-0.63-win10-compat"
+            },
+            {
+              "id": "version-0.63-windowsbrush-and-theme",
+              "path": "/react-native-windows/docs/0.63/version-0.63-windowsbrush-and-theme"
+            },
+            {
+              "id": "version-0.63-winui3",
+              "path": "/react-native-windows/docs/0.63/version-0.63-winui3"
+            },
+            {
+              "id": "version-0.63-XamlHelper",
+              "path": "/react-native-windows/docs/0.63/version-0.63-XamlHelper"
+            },
+            {
+              "id": "version-0.63-XamlUIService",
+              "path": "/react-native-windows/docs/0.63/version-0.63-XamlUIService"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        },
+        {
+          "name": "0.62",
+          "label": "0.62",
+          "isLast": false,
+          "path": "/react-native-windows/docs/0.62",
+          "mainDocId": "version-0.62-apptheme-api",
+          "docs": [
+            {
+              "id": "version-0.62-apptheme-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-apptheme-api"
+            },
+            {
+              "id": "version-0.62-getting-started",
+              "path": "/react-native-windows/docs/0.62/version-0.62-getting-started"
+            },
+            {
+              "id": "version-0.62-ijsvaluereader-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-ijsvaluereader-api"
+            },
+            {
+              "id": "version-0.62-ijsvaluewriter-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-ijsvaluewriter-api"
+            },
+            {
+              "id": "version-0.62-ikeyboardprops-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-ikeyboardprops-api"
+            },
+            {
+              "id": "version-0.62-ireactcontext-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-ireactcontext-api"
+            },
+            {
+              "id": "version-0.62-ireactdispatcher-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-ireactdispatcher-api"
+            },
+            {
+              "id": "version-0.62-ireactmodulebuilder-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-ireactmodulebuilder-api"
+            },
+            {
+              "id": "version-0.62-ireactnonabivalue-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-ireactnonabivalue-api"
+            },
+            {
+              "id": "version-0.62-ireactnotificationservice-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-ireactnotificationservice-api"
+            },
+            {
+              "id": "version-0.62-ireactpackagebuilder-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-ireactpackagebuilder-api"
+            },
+            {
+              "id": "version-0.62-ireactpackageprovider-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-ireactpackageprovider-api"
+            },
+            {
+              "id": "version-0.62-ireactpropertybag-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-ireactpropertybag-api"
+            },
+            {
+              "id": "version-0.62-iredboxhandler-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-iredboxhandler-api"
+            },
+            {
+              "id": "version-0.62-iviewmanager-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-iviewmanager-api"
+            },
+            {
+              "id": "version-0.62-iviewwindowsprops-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-iviewwindowsprops-api"
+            },
+            {
+              "id": "version-0.62-native-code",
+              "path": "/react-native-windows/docs/0.62/version-0.62-native-code"
+            },
+            {
+              "id": "version-0.62-native-code-language-choice",
+              "path": "/react-native-windows/docs/0.62/version-0.62-native-code-language-choice"
+            },
+            {
+              "id": "version-0.62-native-modules",
+              "path": "/react-native-windows/docs/0.62/version-0.62-native-modules"
+            },
+            {
+              "id": "version-0.62-native-modules-advanced",
+              "path": "/react-native-windows/docs/0.62/version-0.62-native-modules-advanced"
+            },
+            {
+              "id": "version-0.62-native-modules-async",
+              "path": "/react-native-windows/docs/0.62/version-0.62-native-modules-async"
+            },
+            {
+              "id": "version-0.62-native-modules-setup",
+              "path": "/react-native-windows/docs/0.62/version-0.62-native-modules-setup"
+            },
+            {
+              "id": "version-0.62-native-modules-troubleshooting",
+              "path": "/react-native-windows/docs/0.62/version-0.62-native-modules-troubleshooting"
+            },
+            {
+              "id": "version-0.62-parity-status",
+              "path": "/react-native-windows/docs/0.62/version-0.62-parity-status"
+            },
+            {
+              "id": "version-0.62-reactapplication-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-reactapplication-api"
+            },
+            {
+              "id": "version-0.62-reactinstancesettings-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-reactinstancesettings-api"
+            },
+            {
+              "id": "version-0.62-reactnativehost-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-reactnativehost-api"
+            },
+            {
+              "id": "version-0.62-releases",
+              "path": "/react-native-windows/docs/0.62/version-0.62-releases"
+            },
+            {
+              "id": "version-0.62-rnm-getting-started",
+              "path": "/react-native-windows/docs/0.62/version-0.62-rnm-getting-started"
+            },
+            {
+              "id": "version-0.62-rnw-dependencies",
+              "path": "/react-native-windows/docs/0.62/version-0.62-rnw-dependencies"
+            },
+            {
+              "id": "version-0.62-supported-community-modules",
+              "path": "/react-native-windows/docs/0.62/version-0.62-supported-community-modules"
+            },
+            {
+              "id": "version-0.62-view-managers",
+              "path": "/react-native-windows/docs/0.62/version-0.62-view-managers"
+            },
+            {
+              "id": "version-0.62-win10-compat",
+              "path": "/react-native-windows/docs/0.62/version-0.62-win10-compat"
+            },
+            {
+              "id": "version-0.62-winui3",
+              "path": "/react-native-windows/docs/0.62/version-0.62-winui3"
+            },
+            {
+              "id": "version-0.62-xamluiservice-api",
+              "path": "/react-native-windows/docs/0.62/version-0.62-xamluiservice-api"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        },
+        {
+          "name": "0.61",
+          "label": "0.61",
+          "isLast": false,
+          "path": "/react-native-windows/docs/0.61",
+          "mainDocId": "version-0.61-building-rnw",
+          "docs": [
+            {
+              "id": "version-0.61-building-rnw",
+              "path": "/react-native-windows/docs/0.61/version-0.61-building-rnw"
+            },
+            {
+              "id": "version-0.61-flyout-component",
+              "path": "/react-native-windows/docs/0.61/version-0.61-flyout-component"
+            },
+            {
+              "id": "version-0.61-getting-started",
+              "path": "/react-native-windows/docs/0.61/version-0.61-getting-started"
+            },
+            {
+              "id": "version-0.61-glyph-component",
+              "path": "/react-native-windows/docs/0.61/version-0.61-glyph-component"
+            },
+            {
+              "id": "version-0.61-iviewwindowsprops-api",
+              "path": "/react-native-windows/docs/0.61/version-0.61-iviewwindowsprops-api"
+            },
+            {
+              "id": "version-0.61-native-modules",
+              "path": "/react-native-windows/docs/0.61/version-0.61-native-modules"
+            },
+            {
+              "id": "version-0.61-native-modules-async",
+              "path": "/react-native-windows/docs/0.61/version-0.61-native-modules-async"
+            },
+            {
+              "id": "version-0.61-native-modules-jsvalue",
+              "path": "/react-native-windows/docs/0.61/version-0.61-native-modules-jsvalue"
+            },
+            {
+              "id": "version-0.61-native-modules-marshalling-data",
+              "path": "/react-native-windows/docs/0.61/version-0.61-native-modules-marshalling-data"
+            },
+            {
+              "id": "version-0.61-native-modules-setup",
+              "path": "/react-native-windows/docs/0.61/version-0.61-native-modules-setup"
+            },
+            {
+              "id": "version-0.61-parity-status",
+              "path": "/react-native-windows/docs/0.61/version-0.61-parity-status"
+            },
+            {
+              "id": "version-0.61-popup-component",
+              "path": "/react-native-windows/docs/0.61/version-0.61-popup-component"
+            },
+            {
+              "id": "version-0.61-rnm-dependencies",
+              "path": "/react-native-windows/docs/0.61/version-0.61-rnm-dependencies"
+            },
+            {
+              "id": "version-0.61-rnm-getting-started",
+              "path": "/react-native-windows/docs/0.61/version-0.61-rnm-getting-started"
+            },
+            {
+              "id": "version-0.61-rnw-dependencies",
+              "path": "/react-native-windows/docs/0.61/version-0.61-rnw-dependencies"
+            },
+            {
+              "id": "version-0.61-view-managers",
+              "path": "/react-native-windows/docs/0.61/version-0.61-view-managers"
+            },
+            {
+              "id": "version-0.61-win10-compat",
+              "path": "/react-native-windows/docs/0.61/version-0.61-win10-compat"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        },
+        {
+          "name": "0.60",
+          "label": "0.60",
+          "isLast": false,
+          "path": "/react-native-windows/docs/0.60",
+          "mainDocId": "version-0.60-apptheme-api",
+          "docs": [
+            {
+              "id": "version-0.60-apptheme-api",
+              "path": "/react-native-windows/docs/0.60/version-0.60-apptheme-api"
+            },
+            {
+              "id": "version-0.60-branch-setup",
+              "path": "/react-native-windows/docs/0.60/version-0.60-branch-setup"
+            },
+            {
+              "id": "version-0.60-building-rnw",
+              "path": "/react-native-windows/docs/0.60/version-0.60-building-rnw"
+            },
+            {
+              "id": "version-0.60-contributing",
+              "path": "/react-native-windows/docs/0.60/version-0.60-contributing"
+            },
+            {
+              "id": "version-0.60-e2e-test",
+              "path": "/react-native-windows/docs/0.60/version-0.60-e2e-test"
+            },
+            {
+              "id": "version-0.60-e2e-test-more-about",
+              "path": "/react-native-windows/docs/0.60/version-0.60-e2e-test-more-about"
+            },
+            {
+              "id": "version-0.60-flyout-component",
+              "path": "/react-native-windows/docs/0.60/version-0.60-flyout-component"
+            },
+            {
+              "id": "version-0.60-getting-started",
+              "path": "/react-native-windows/docs/0.60/version-0.60-getting-started"
+            },
+            {
+              "id": "version-0.60-glyph-component",
+              "path": "/react-native-windows/docs/0.60/version-0.60-glyph-component"
+            },
+            {
+              "id": "version-0.60-ikeyboardprops-api",
+              "path": "/react-native-windows/docs/0.60/version-0.60-ikeyboardprops-api"
+            },
+            {
+              "id": "version-0.60-iviewwindowsprops-api",
+              "path": "/react-native-windows/docs/0.60/version-0.60-iviewwindowsprops-api"
+            },
+            {
+              "id": "version-0.60-native-modules",
+              "path": "/react-native-windows/docs/0.60/version-0.60-native-modules"
+            },
+            {
+              "id": "version-0.60-native-modules-advanced",
+              "path": "/react-native-windows/docs/0.60/version-0.60-native-modules-advanced"
+            },
+            {
+              "id": "version-0.60-native-modules-setup",
+              "path": "/react-native-windows/docs/0.60/version-0.60-native-modules-setup"
+            },
+            {
+              "id": "version-0.60-native-modules-using",
+              "path": "/react-native-windows/docs/0.60/version-0.60-native-modules-using"
+            },
+            {
+              "id": "version-0.60-parity-status",
+              "path": "/react-native-windows/docs/0.60/version-0.60-parity-status"
+            },
+            {
+              "id": "version-0.60-popup-component",
+              "path": "/react-native-windows/docs/0.60/version-0.60-popup-component"
+            },
+            {
+              "id": "version-0.60-project-structure",
+              "path": "/react-native-windows/docs/0.60/version-0.60-project-structure"
+            },
+            {
+              "id": "version-0.60-releases",
+              "path": "/react-native-windows/docs/0.60/version-0.60-releases"
+            },
+            {
+              "id": "version-0.60-rnw-dependencies",
+              "path": "/react-native-windows/docs/0.60/version-0.60-rnw-dependencies"
+            },
+            {
+              "id": "version-0.60-testing",
+              "path": "/react-native-windows/docs/0.60/version-0.60-testing"
+            },
+            {
+              "id": "version-0.60-view-managers",
+              "path": "/react-native-windows/docs/0.60/version-0.60-view-managers"
+            },
+            {
+              "id": "version-0.60-win10-compat",
+              "path": "/react-native-windows/docs/0.60/version-0.60-win10-compat"
+            },
+            {
+              "id": "version-0.60-windowsbrush-and-theme",
+              "path": "/react-native-windows/docs/0.60/version-0.60-windowsbrush-and-theme"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

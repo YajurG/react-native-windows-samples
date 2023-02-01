@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/ReactRootView",
+  "id": "native-api/ReactRootView",
+  "title": "ReactRootView",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/ReactRootView-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/ReactRootView",
+  "permalink": "/react-native-windows/docs/next/native-api/ReactRootView",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/ReactRootView-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "ReactRootView",
+    "title": "ReactRootView"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.64-hermes",
+  "id": "version-0.64/version-0.64-hermes",
+  "title": "Hermes on Windows + macOS",
+  "description": "The Hermes engine is an open source JavaScript engine created by Facebook to optimize building and running React Native applications.",
+  "source": "@site/versioned_docs/version-0.64/hermes.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.64-hermes",
+  "permalink": "/react-native-windows/docs/0.64/version-0.64-hermes",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.64/hermes.md",
+  "tags": [],
+  "version": "0.64",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.64-hermes",
+    "title": "Hermes on Windows + macOS",
+    "original_id": "hermes"
+  }
+}

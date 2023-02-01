@@ -1,7 +1,7 @@
 ---
 title: "Use Win32 features from a React Native for Windows application"
 author: Matteo Pagani
-authorURL: https://twitter.com/qmatteoq
+authorURL: "https://twitter.com/qmatteoq"
 description: "How to use Win32 features from a React Native for Windows application"
 is_blog: true
 published_date: August 30, 2021

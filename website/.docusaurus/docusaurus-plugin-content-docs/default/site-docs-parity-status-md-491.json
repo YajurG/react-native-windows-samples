@@ -1,0 +1,30 @@
+{
+  "unversionedId": "parity-status",
+  "id": "parity-status",
+  "title": "React Native Windows Components and APIs",
+  "description": "Core APIs and Components",
+  "source": "@site/../docs/parity-status.md",
+  "sourceDirName": ".",
+  "slug": "/parity-status",
+  "permalink": "/react-native-windows/docs/next/parity-status",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/parity-status.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "parity-status",
+    "title": "React Native Windows Components and APIs"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "React Native Windows CLI",
+    "permalink": "/react-native-windows/docs/next/run-windows-cli"
+  },
+  "next": {
+    "title": "React Native Config Schema",
+    "permalink": "/react-native-windows/docs/next/config"
+  }
+}

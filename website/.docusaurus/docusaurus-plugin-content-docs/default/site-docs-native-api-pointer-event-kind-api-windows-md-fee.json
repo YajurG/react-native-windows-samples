@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/PointerEventKind",
+  "id": "native-api/PointerEventKind",
+  "title": "PointerEventKind",
+  "description": "Kind: enum",
+  "source": "@site/../docs/native-api/PointerEventKind-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/PointerEventKind",
+  "permalink": "/react-native-windows/docs/next/native-api/PointerEventKind",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/PointerEventKind-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "PointerEventKind",
+    "title": "PointerEventKind"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "permalink": "/react-native-windows/blog/2021/03/16/64updates",
+  "source": "@site/blog/2021-03-16-64updates.md",
+  "title": "Gallery App, TurboModules, and more community modules",
+  "description": "More modules and tools released in React Native 0.64",
+  "date": "2021-03-16T00:00:00.000Z",
+  "formattedDate": "March 16, 2021",
+  "tags": [],
+  "readingTime": 9.445,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Kiki Saintonge, Harini Kannan, Steven Moyes",
+      "url": "https://twitter.com/ReactNativeMSFT"
+    }
+  ],
+  "frontMatter": {
+    "title": "Gallery App, TurboModules, and more community modules",
+    "author": "Kiki Saintonge, Harini Kannan, Steven Moyes",
+    "authorURL": "https://twitter.com/ReactNativeMSFT",
+    "description": "More modules and tools released in React Native 0.64",
+    "is_blog": true,
+    "published_date": "March 16, 2021"
+  },
+  "prevItem": {
+    "title": "Using CodePush in a React Native for Windows application",
+    "permalink": "/react-native-windows/blog/2021/05/17/codepush"
+  },
+  "nextItem": {
+    "title": "Windows & macOS version 0.63 updates, Hermes, and more",
+    "permalink": "/react-native-windows/blog/2020/09/02/63updates"
+  }
+}

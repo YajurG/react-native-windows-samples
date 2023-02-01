@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.64-rnw-dependencies",
+  "id": "version-0.64/version-0.64-rnw-dependencies",
+  "title": "System Requirements",
+  "description": "You can run React-Native for Windows apps only on Windows 10 devices with Windows version: 10.0.16299.0 (aka 1709, aka Redstone 3, aka Fall Creators Update) or higher. Some features may not work on all versions. See Windows 10 Compatibility for version support details.",
+  "source": "@site/versioned_docs/version-0.64/rnw-dependencies.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.64-rnw-dependencies",
+  "permalink": "/react-native-windows/docs/0.64/version-0.64-rnw-dependencies",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.64/rnw-dependencies.md",
+  "tags": [],
+  "version": "0.64",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.64-rnw-dependencies",
+    "title": "System Requirements",
+    "original_id": "rnw-dependencies"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.60-contributing",
+  "id": "version-0.60/version-0.60-contributing",
+  "title": "Contributing to microsoft/react-native-windows",
+  "description": "If this is your first time, below are some more detailed steps for getting your branch set up and submitting a PR. You can either do this with the command prompt or with a combination of the command prompt and SourceTree.",
+  "source": "@site/versioned_docs/version-0.60/contributing.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.60-contributing",
+  "permalink": "/react-native-windows/docs/0.60/version-0.60-contributing",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.60/contributing.md",
+  "tags": [],
+  "version": "0.60",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.60-contributing",
+    "title": "Contributing to microsoft/react-native-windows",
+    "original_id": "contributing"
+  }
+}

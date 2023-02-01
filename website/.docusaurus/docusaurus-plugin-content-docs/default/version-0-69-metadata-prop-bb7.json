@@ -1,0 +1,53 @@
+{
+  "pluginId": "default",
+  "version": "0.69",
+  "label": "0.69",
+  "banner": "unmaintained",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-0.69",
+  "isLast": false,
+  "docsSidebars": {},
+  "docs": {
+    "native-api/version-0.69-IReactContext": {
+      "id": "native-api/version-0.69-IReactContext",
+      "title": "IReactContext",
+      "description": "Kind: interface"
+    },
+    "native-api/version-0.69-IViewManagerWithDropViewInstance": {
+      "id": "native-api/version-0.69-IViewManagerWithDropViewInstance",
+      "title": "IViewManagerWithDropViewInstance",
+      "description": "Kind: interface"
+    },
+    "native-api/version-0.69-JsiRuntime": {
+      "id": "native-api/version-0.69-JsiRuntime",
+      "title": "JsiRuntime",
+      "description": "Kind: class"
+    },
+    "native-api/version-0.69-LoadingState": {
+      "id": "native-api/version-0.69-LoadingState",
+      "title": "LoadingState",
+      "description": "Kind: enum"
+    },
+    "native-api/version-0.69-Native-API-Reference": {
+      "id": "native-api/version-0.69-Native-API-Reference",
+      "title": "namespace Microsoft.ReactNative",
+      "description": "Enums"
+    },
+    "native-api/version-0.69-ReactInstanceSettings": {
+      "id": "native-api/version-0.69-ReactInstanceSettings",
+      "title": "ReactInstanceSettings",
+      "description": "Kind: class"
+    },
+    "version-0.69-getting-started": {
+      "id": "version-0.69-getting-started",
+      "title": "Get Started with Windows",
+      "description": "This guide will help you get started on setting up your very first React Native for Windows app."
+    },
+    "version-0.69-nuget-update": {
+      "id": "version-0.69-nuget-update",
+      "title": "Updating NuGet packages",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    }
+  }
+}

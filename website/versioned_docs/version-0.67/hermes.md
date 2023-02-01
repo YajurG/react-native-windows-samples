@@ -52,7 +52,7 @@ To learn how to upgrade to the latest version, check out the **Upgrading** secti
 After you have upgraded to the latest version of React Native for macOS, install and add the following:
 
 1. Install the npm package `yarn add 'hermes-engine-darwin@^0.4.3'`
-2. Add (or uncomment) the following pod dependencies to your macOS target in your `Podfile`:<br>
+2. Add (or uncomment) the following pod dependencies to your macOS target in your `Podfile`:<br></br>
 
 ```
 pod 'React-Core/Hermes', :path => '../node_modules/react-native-macos/'

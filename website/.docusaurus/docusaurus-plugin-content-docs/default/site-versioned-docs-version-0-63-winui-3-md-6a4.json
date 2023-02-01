@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.63-winui3",
+  "id": "version-0.63/version-0.63-winui3",
+  "title": "WinUI 3",
+  "description": "WinUI is the modern native UI platform of Windows. As of this writing, WinUI 3 has published Preview 2.",
+  "source": "@site/versioned_docs/version-0.63/winui3.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.63-winui3",
+  "permalink": "/react-native-windows/docs/0.63/version-0.63-winui3",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.63/winui3.md",
+  "tags": [],
+  "version": "0.63",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.63-winui3",
+    "title": "WinUI 3",
+    "original_id": "winui3"
+  }
+}

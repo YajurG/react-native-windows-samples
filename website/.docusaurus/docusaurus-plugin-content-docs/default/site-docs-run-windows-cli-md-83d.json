@@ -1,0 +1,30 @@
+{
+  "unversionedId": "run-windows-cli",
+  "id": "run-windows-cli",
+  "title": "React Native Windows CLI",
+  "description": "This guide will give you more information on the React Native Windows CLI.",
+  "source": "@site/../docs/run-windows-cli.md",
+  "sourceDirName": ".",
+  "slug": "/run-windows-cli",
+  "permalink": "/react-native-windows/docs/next/run-windows-cli",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/run-windows-cli.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "run-windows-cli",
+    "title": "React Native Windows CLI"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "System Requirements",
+    "permalink": "/react-native-windows/docs/next/rnw-dependencies"
+  },
+  "next": {
+    "title": "React Native Windows Components and APIs",
+    "permalink": "/react-native-windows/docs/next/parity-status"
+  }
+}

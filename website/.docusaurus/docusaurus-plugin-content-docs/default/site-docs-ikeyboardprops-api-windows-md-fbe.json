@@ -1,0 +1,30 @@
+{
+  "unversionedId": "ikeyboardprops-api",
+  "id": "ikeyboardprops-api",
+  "title": "IKeyboardProps",
+  "description": "When developing for a Windows device, the likelihood of you needing to support a rich keyboarding experience in your app is very high - this API allows you to customize and control how keyboarding works on your custom or native components.",
+  "source": "@site/../docs/ikeyboardprops-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/ikeyboardprops-api",
+  "permalink": "/react-native-windows/docs/next/ikeyboardprops-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/ikeyboardprops-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "ikeyboardprops-api",
+    "title": "IKeyboardProps"
+  },
+  "sidebar": "apis",
+  "previous": {
+    "title": "Popup",
+    "permalink": "/react-native-windows/docs/next/popup-component"
+  },
+  "next": {
+    "title": "IViewWindowsProps",
+    "permalink": "/react-native-windows/docs/next/iviewwindowsprops-api"
+  }
+}

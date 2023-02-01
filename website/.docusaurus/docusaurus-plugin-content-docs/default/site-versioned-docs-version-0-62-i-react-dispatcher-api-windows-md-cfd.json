@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.62-ireactdispatcher-api",
+  "id": "version-0.62/version-0.62-ireactdispatcher-api",
+  "title": "IReactDispatcher",
+  "description": "IReactDispatcher provides the core threading / task management interface for ensuring code happens in the right order on the right thread.  One primary dispatcher that applications may require is the UIDispatcher which provides NativeModules access to the UI thread accociated with this react instance.   Another one is the JSDispatcher which allows apps to post tasks to the JS engine thread.",
+  "source": "@site/versioned_docs/version-0.62/IReactDispatcher-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.62-ireactdispatcher-api",
+  "permalink": "/react-native-windows/docs/0.62/version-0.62-ireactdispatcher-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.62/IReactDispatcher-api-windows.md",
+  "tags": [],
+  "version": "0.62",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.62-ireactdispatcher-api",
+    "title": "IReactDispatcher",
+    "original_id": "ireactdispatcher-api"
+  }
+}

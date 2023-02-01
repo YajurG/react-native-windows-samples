@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.62-reactapplication-api",
+  "id": "version-0.62/version-0.62-reactapplication-api",
+  "title": "ReactApplication",
+  "description": "ReactApplication provides a BaseApplication class for use in applications that are entirely written in react-native.  ReactApplication will load the react instance on launch of your app for you and provide accessors to your application's ReactInstanceSettings and ReactNativeHost to customize your react instance.",
+  "source": "@site/versioned_docs/version-0.62/ReactApplication-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.62-reactapplication-api",
+  "permalink": "/react-native-windows/docs/0.62/version-0.62-reactapplication-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.62/ReactApplication-api-windows.md",
+  "tags": [],
+  "version": "0.62",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.62-reactapplication-api",
+    "title": "ReactApplication",
+    "original_id": "reactapplication-api"
+  }
+}

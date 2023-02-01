@@ -2,18 +2,24 @@
   "license": "MIT",
   "scripts": {
     "examples": "docusaurus-examples",
-    "start": "docusaurus-start",
-    "build": "docusaurus-build",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
     "publish-gh-pages": "docusaurus-publish",
     "write-translations": "docusaurus-write-translations",
     "version": "docusaurus-version",
     "rename-version": "docusaurus-rename-version",
-    "fix-unbroken": "node fix-unbroken.js"
+    "fix-unbroken": "node fix-unbroken.js",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "docusaurus": "docusaurus"
   },
-  "devDependencies": {
-    "docusaurus": "^1.14.0"
-  },
+  "devDependencies": {},
   "dependencies": {
-    "docusaurus-init": "^1.14.1"
+    "docusaurus-init": "^1.14.1",
+    "@docusaurus/core": "2.2.0",
+    "@docusaurus/preset-classic": "2.2.0",
+    "clsx": "^1.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/JsiBigIntRef",
+  "id": "native-api/JsiBigIntRef",
+  "title": "JsiBigIntRef",
+  "description": "Kind: struct",
+  "source": "@site/../docs/native-api/JsiBigIntRef-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/JsiBigIntRef",
+  "permalink": "/react-native-windows/docs/next/native-api/JsiBigIntRef",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/JsiBigIntRef-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "JsiBigIntRef",
+    "title": "JsiBigIntRef"
+  }
+}

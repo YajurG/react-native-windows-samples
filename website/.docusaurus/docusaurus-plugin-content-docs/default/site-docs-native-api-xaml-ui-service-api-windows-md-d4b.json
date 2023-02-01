@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-api/XamlUIService",
+  "id": "native-api/XamlUIService",
+  "title": "XamlUIService",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/XamlUIService-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/XamlUIService",
+  "permalink": "/react-native-windows/docs/next/native-api/XamlUIService",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/XamlUIService-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "XamlUIService",
+    "title": "XamlUIService"
+  },
+  "sidebar": "apis",
+  "previous": {
+    "title": "ReactNativeHost",
+    "permalink": "/react-native-windows/docs/next/native-api/ReactNativeHost"
+  },
+  "next": {
+    "title": "Full reference",
+    "permalink": "/react-native-windows/docs/next/native-api/Native-API-Reference"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.63-ireactpackageprovider-api",
+  "id": "version-0.63/version-0.63-ireactpackageprovider-api",
+  "title": "IReactPackageProvider",
+  "description": "This interface is to be implemented by package creators.",
+  "source": "@site/versioned_docs/version-0.63/IReactPackageProvider-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.63-ireactpackageprovider-api",
+  "permalink": "/react-native-windows/docs/0.63/version-0.63-ireactpackageprovider-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.63/IReactPackageProvider-api-windows.md",
+  "tags": [],
+  "version": "0.63",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.63-ireactpackageprovider-api",
+    "title": "IReactPackageProvider",
+    "original_id": "ireactpackageprovider-api"
+  }
+}

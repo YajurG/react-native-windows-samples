@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.71-native-modules-vs-turbo-modules",
+  "id": "version-0.71/version-0.71-native-modules-vs-turbo-modules",
+  "title": "Native Modules vs Turbo Modules",
+  "description": "If you've worked with React Native, you may be familiar with the concept of Native Modules, which allow JavaScript and platform-native code to communicate over the React Native \"bridge\", which handles cross-platform serialization via JSON.",
+  "source": "@site/versioned_docs/version-0.71/native-modules-vs-turbo-modules.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.71-native-modules-vs-turbo-modules",
+  "permalink": "/react-native-windows/docs/version-0.71-native-modules-vs-turbo-modules",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.71/native-modules-vs-turbo-modules.md",
+  "tags": [],
+  "version": "0.71",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.71-native-modules-vs-turbo-modules",
+    "title": "Native Modules vs Turbo Modules",
+    "original_id": "native-modules-vs-turbo-modules"
+  }
+}

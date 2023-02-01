@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/IReactNotificationArgs",
+  "id": "native-api/IReactNotificationArgs",
+  "title": "IReactNotificationArgs",
+  "description": "Kind: interface",
+  "source": "@site/../docs/native-api/IReactNotificationArgs-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/IReactNotificationArgs",
+  "permalink": "/react-native-windows/docs/next/native-api/IReactNotificationArgs",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/IReactNotificationArgs-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "IReactNotificationArgs",
+    "title": "IReactNotificationArgs"
+  }
+}

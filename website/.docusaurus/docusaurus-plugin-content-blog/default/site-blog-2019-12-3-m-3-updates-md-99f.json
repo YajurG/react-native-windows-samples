@@ -1,0 +1,33 @@
+{
+  "permalink": "/react-native-windows/blog/2019/12/3/m3updates",
+  "source": "@site/blog/2019-12-3-m3updates.md",
+  "title": "Upgrading with Hermes Support and Automated Tests",
+  "description": "New features and other updates upon Milestone 3 completion",
+  "date": "2019-12-03T00:00:00.000Z",
+  "formattedDate": "December 3, 2019",
+  "tags": [],
+  "readingTime": 3.775,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "React Native at Microsoft",
+      "url": "http://twitter.com/reactnativemsft"
+    }
+  ],
+  "frontMatter": {
+    "title": "Upgrading with Hermes Support and Automated Tests",
+    "author": "React Native at Microsoft",
+    "authorURL": "http://twitter.com/reactnativemsft",
+    "description": "New features and other updates upon Milestone 3 completion",
+    "is_blog": true,
+    "published_date": "December 3, 2019"
+  },
+  "prevItem": {
+    "title": "Keeping Up with React Native Core",
+    "permalink": "/react-native-windows/blog/2020/02/01/0-m4updates"
+  },
+  "nextItem": {
+    "title": "Roadmap for vnext",
+    "permalink": "/react-native-windows/blog/2019/07/22/roadmap"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.60-branch-setup",
+  "id": "version-0.60/version-0.60-branch-setup",
+  "title": "Git branch setup",
+  "description": "This document describes how to set up your development environment and contribute changes to the microsoft/react-native-windows project. This document assumes basic working knowledge with Git and related tools. We are providing instructions specific to this project.",
+  "source": "@site/versioned_docs/version-0.60/branch-setup.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.60-branch-setup",
+  "permalink": "/react-native-windows/docs/0.60/version-0.60-branch-setup",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.60/branch-setup.md",
+  "tags": [],
+  "version": "0.60",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.60-branch-setup",
+    "title": "Git branch setup",
+    "original_id": "branch-setup"
+  }
+}

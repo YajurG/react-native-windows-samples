@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.60-windowsbrush-and-theme",
+  "id": "version-0.60/version-0.60-windowsbrush-and-theme",
+  "title": "Using Windows Brushes and Responding to Themes",
+  "description": "Overview",
+  "source": "@site/versioned_docs/version-0.60/windowsbrush-and-theme.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.60-windowsbrush-and-theme",
+  "permalink": "/react-native-windows/docs/0.60/version-0.60-windowsbrush-and-theme",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.60/windowsbrush-and-theme.md",
+  "tags": [],
+  "version": "0.60",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.60-windowsbrush-and-theme",
+    "title": "Using Windows Brushes and Responding to Themes",
+    "original_id": "windowsbrush-and-theme"
+  }
+}

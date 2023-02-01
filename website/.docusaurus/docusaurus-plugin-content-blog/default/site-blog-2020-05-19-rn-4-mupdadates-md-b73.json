@@ -1,0 +1,33 @@
+{
+  "permalink": "/react-native-windows/blog/2020/05/19/rn4mupdadates",
+  "source": "@site/blog/2020-05-19-rn4mupdadates.md",
+  "title": "Announcing React Native for macOS and more",
+  "description": "We're on React Native core version 0.62 with new community modules, native module support across multiple platforms, and of course our official public release of React Native for macOS.",
+  "date": "2020-05-19T00:00:00.000Z",
+  "formattedDate": "May 19, 2020",
+  "tags": [],
+  "readingTime": 3.335,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Kiki Saintonge",
+      "url": "http://twitter.com/KikiSaintonge"
+    }
+  ],
+  "frontMatter": {
+    "title": "Announcing React Native for macOS and more",
+    "author": "Kiki Saintonge",
+    "authorURL": "http://twitter.com/KikiSaintonge",
+    "description": "We're on React Native core version 0.62 with new community modules, native module support across multiple platforms, and of course our official public release of React Native for macOS.",
+    "is_blog": true,
+    "published_date": "May 19, 2020"
+  },
+  "prevItem": {
+    "title": "Build 2020 Recap",
+    "permalink": "/react-native-windows/blog/2020/06/01/build2020recap"
+  },
+  "nextItem": {
+    "title": "Keeping Up with React Native Core",
+    "permalink": "/react-native-windows/blog/2020/02/01/0-m4updates"
+  }
+}

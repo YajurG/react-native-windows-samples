@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.62-apptheme-api",
+  "id": "version-0.62/version-0.62-apptheme-api",
+  "title": "AppTheme",
+  "description": "This API name is deprecated.  Use react-native's `Appearance` API instead.",
+  "source": "@site/versioned_docs/version-0.62/apptheme-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.62-apptheme-api",
+  "permalink": "/react-native-windows/docs/0.62/version-0.62-apptheme-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.62/apptheme-api-windows.md",
+  "tags": [],
+  "version": "0.62",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.62-apptheme-api",
+    "title": "AppTheme",
+    "original_id": "apptheme-api"
+  }
+}

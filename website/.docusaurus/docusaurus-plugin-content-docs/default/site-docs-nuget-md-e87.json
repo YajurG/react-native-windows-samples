@@ -1,0 +1,30 @@
+{
+  "unversionedId": "NuGet",
+  "id": "NuGet",
+  "title": "Using react-native-windows NuGet packages",
+  "description": "This documentation and the underlying platform code is a work in progress.",
+  "source": "@site/../docs/nuget.md",
+  "sourceDirName": ".",
+  "slug": "/NuGet",
+  "permalink": "/react-native-windows/docs/next/NuGet",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/nuget.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "NuGet",
+    "title": "Using react-native-windows NuGet packages"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Hermes on Windows + macOS",
+    "permalink": "/react-native-windows/docs/next/hermes"
+  },
+  "next": {
+    "title": "Updating NuGet packages",
+    "permalink": "/react-native-windows/docs/next/nuget-update"
+  }
+}

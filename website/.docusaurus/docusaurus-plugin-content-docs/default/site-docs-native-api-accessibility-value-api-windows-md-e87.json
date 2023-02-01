@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/AccessibilityValue",
+  "id": "native-api/AccessibilityValue",
+  "title": "AccessibilityValue",
+  "description": "Kind: enum",
+  "source": "@site/../docs/native-api/AccessibilityValue-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/AccessibilityValue",
+  "permalink": "/react-native-windows/docs/next/native-api/AccessibilityValue",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/AccessibilityValue-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "AccessibilityValue",
+    "title": "AccessibilityValue"
+  }
+}

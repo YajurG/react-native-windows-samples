@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-api/version-0.68-IViewManagerWithDropViewInstance",
+  "id": "version-0.68/native-api/version-0.68-IViewManagerWithDropViewInstance",
+  "title": "IViewManagerWithDropViewInstance",
+  "description": "Kind: interface",
+  "source": "@site/versioned_docs/version-0.68/native-api/IViewManagerWithDropViewInstance-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/version-0.68-IViewManagerWithDropViewInstance",
+  "permalink": "/react-native-windows/docs/0.68/native-api/version-0.68-IViewManagerWithDropViewInstance",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.68/native-api/IViewManagerWithDropViewInstance-api-windows.md",
+  "tags": [],
+  "version": "0.68",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.68-IViewManagerWithDropViewInstance",
+    "title": "IViewManagerWithDropViewInstance",
+    "original_id": "IViewManagerWithDropViewInstance"
+  }
+}

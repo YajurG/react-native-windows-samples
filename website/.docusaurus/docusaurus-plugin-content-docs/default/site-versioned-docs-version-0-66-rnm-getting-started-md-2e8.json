@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.66-rnm-getting-started",
+  "id": "version-0.66/version-0.66-rnm-getting-started",
+  "title": "Get Started with macOS",
+  "description": "This guide will help you get started on setting up your very first React Native for macOS app.",
+  "source": "@site/versioned_docs/version-0.66/rnm-getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.66-rnm-getting-started",
+  "permalink": "/react-native-windows/docs/0.66/version-0.66-rnm-getting-started",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.66/rnm-getting-started.md",
+  "tags": [],
+  "version": "0.66",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.66-rnm-getting-started",
+    "title": "Get Started with macOS",
+    "original_id": "rnm-getting-started"
+  }
+}

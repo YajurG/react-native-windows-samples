@@ -141,7 +141,7 @@ Sources provided as part of the `react-native` Node dependency. Not part of this
 
 ### Microsoft.ReactNative
 
-_Windows Runtime Component_</br>
+<br>_Windows Runtime Component_</br>
 The primary Windows Universal entry point and public API surface for React Native Windows. Currently depends on the implementation details in [ReactUWP](#ReactUWP).<br/>
 **Main artifact to use in Windows Universal applications.**
 

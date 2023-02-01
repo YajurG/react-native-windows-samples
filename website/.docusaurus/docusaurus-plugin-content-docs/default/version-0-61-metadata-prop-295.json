@@ -1,0 +1,98 @@
+{
+  "pluginId": "default",
+  "version": "0.61",
+  "label": "0.61",
+  "banner": "unmaintained",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-0.61",
+  "isLast": false,
+  "docsSidebars": {},
+  "docs": {
+    "version-0.61-building-rnw": {
+      "id": "version-0.61-building-rnw",
+      "title": "Building React-Native-Windows",
+      "description": "- Make sure you have installed all of the development dependencies"
+    },
+    "version-0.61-flyout-component": {
+      "id": "version-0.61-flyout-component",
+      "title": "Flyout",
+      "description": "Props"
+    },
+    "version-0.61-getting-started": {
+      "id": "version-0.61-getting-started",
+      "title": "Get Started with Windows",
+      "description": "This guide will help you get started on setting up your very first React Native for Windows app."
+    },
+    "version-0.61-glyph-component": {
+      "id": "version-0.61-glyph-component",
+      "title": "Glyph",
+      "description": "Props"
+    },
+    "version-0.61-iviewwindowsprops-api": {
+      "id": "version-0.61-iviewwindowsprops-api",
+      "title": "IViewWindowsProps",
+      "description": "This extends the View Props and IKeyboardProps APIs."
+    },
+    "version-0.61-native-modules": {
+      "id": "version-0.61-native-modules",
+      "title": "Native Modules",
+      "description": "This documentation and the underlying platform code is a work in progress. >Examples (C# and C++/WinRT):"
+    },
+    "version-0.61-native-modules-async": {
+      "id": "version-0.61-native-modules-async",
+      "title": "Using Asynchronous Windows APIs",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.61-native-modules-jsvalue": {
+      "id": "version-0.61-native-modules-jsvalue",
+      "title": "Using JSValue",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.61-native-modules-marshalling-data": {
+      "id": "version-0.61-native-modules-marshalling-data",
+      "title": "Marshalling Data",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.61-native-modules-setup": {
+      "id": "version-0.61-native-modules-setup",
+      "title": "Native Module Setup",
+      "description": "This documentation is a work in progress and version-specific. Please check that the version of this document (top of page) matches the version of RN/RNW you're targeting."
+    },
+    "version-0.61-parity-status": {
+      "id": "version-0.61-parity-status",
+      "title": "API Parity",
+      "description": "React Native Components and APIs that are a part of the React Native Lean Core effort are now all supported in React Native for Windows."
+    },
+    "version-0.61-popup-component": {
+      "id": "version-0.61-popup-component",
+      "title": "Popup",
+      "description": "Props"
+    },
+    "version-0.61-rnm-dependencies": {
+      "id": "version-0.61-rnm-dependencies",
+      "title": "System Requirements",
+      "description": "You can run React Native for macOS apps on Mac devices with versions High Sierra (10.13) or newer."
+    },
+    "version-0.61-rnm-getting-started": {
+      "id": "version-0.61-rnm-getting-started",
+      "title": "Get Started with macOS",
+      "description": "This guide will help you get started on setting up your very first React Native for macOS app."
+    },
+    "version-0.61-rnw-dependencies": {
+      "id": "version-0.61-rnw-dependencies",
+      "title": "System Requirements",
+      "description": "You can run React-Native for Windows apps only on Windows 10 devices with Windows version: 10.0.16299.0 or higher (aka 1709, aka Redstone 3, aka Fall Creators Update). Some features may not work on all versions. See Windows 10 Compatibility for version support details."
+    },
+    "version-0.61-view-managers": {
+      "id": "version-0.61-view-managers",
+      "title": "Native UI Components",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.61-win10-compat": {
+      "id": "version-0.61-win10-compat",
+      "title": "Backward compatibility with Windows versions",
+      "description": "React Native for Windows supports Windows 10 devices. React Native for Windows layers cleanly on top of the native Windows UI platform which means there are some APIs that may not be supported in all versions of Windows since the corresponding native capabilities were not backward compatible with older OS versions. The following table captures these deltas. If you are using any of the APIs below, they will gracefully fail (no-op) when the app is running on Windows 10 devices of corresponding OS versions."
+    }
+  }
+}

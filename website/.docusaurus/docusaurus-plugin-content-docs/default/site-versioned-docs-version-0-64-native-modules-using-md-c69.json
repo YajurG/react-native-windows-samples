@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.64-native-modules-using",
+  "id": "version-0.64/version-0.64-native-modules-using",
+  "title": "Using Community Native Modules",
+  "description": "Community native modules are usually distributed as npm packages. To understand more about npm packages you may find this guide useful.",
+  "source": "@site/versioned_docs/version-0.64/native-modules-using.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.64-native-modules-using",
+  "permalink": "/react-native-windows/docs/0.64/version-0.64-native-modules-using",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.64/native-modules-using.md",
+  "tags": [],
+  "version": "0.64",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.64-native-modules-using",
+    "title": "Using Community Native Modules",
+    "original_id": "native-modules-using"
+  }
+}

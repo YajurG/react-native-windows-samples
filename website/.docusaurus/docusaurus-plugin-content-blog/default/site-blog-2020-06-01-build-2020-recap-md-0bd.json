@@ -1,0 +1,33 @@
+{
+  "permalink": "/react-native-windows/blog/2020/06/01/build2020recap",
+  "source": "@site/blog/2020-06-01-build2020recap.md",
+  "title": "Build 2020 Recap",
+  "description": "React Native for Desktop was a major topic at this year's Microsoft Build 2020 conference. Learn more about the sessions, takeaways, and key partnerships.",
+  "date": "2020-06-01T00:00:00.000Z",
+  "formattedDate": "June 1, 2020",
+  "tags": [],
+  "readingTime": 3.19,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Steven Moyes",
+      "url": "http://twitter.com/moyessa"
+    }
+  ],
+  "frontMatter": {
+    "title": "Build 2020 Recap",
+    "author": "Steven Moyes",
+    "authorURL": "http://twitter.com/moyessa",
+    "description": "React Native for Desktop was a major topic at this year's Microsoft Build 2020 conference. Learn more about the sessions, takeaways, and key partnerships.",
+    "is_blog": true,
+    "published_date": "June 10, 2020"
+  },
+  "prevItem": {
+    "title": "Fast refresh and more on Windows with 0.62 release",
+    "permalink": "/react-native-windows/blog/2020/07/22/62updates"
+  },
+  "nextItem": {
+    "title": "Announcing React Native for macOS and more",
+    "permalink": "/react-native-windows/blog/2020/05/19/rn4mupdadates"
+  }
+}

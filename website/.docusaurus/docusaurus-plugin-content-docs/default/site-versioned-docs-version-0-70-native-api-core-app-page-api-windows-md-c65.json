@@ -1,0 +1,22 @@
+{
+  "unversionedId": "native-api/version-0.70-CoreAppPage",
+  "id": "version-0.70/native-api/version-0.70-CoreAppPage",
+  "title": "CoreAppPage",
+  "description": "Kind: class",
+  "source": "@site/versioned_docs/version-0.70/native-api/CoreAppPage-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/version-0.70-CoreAppPage",
+  "permalink": "/react-native-windows/docs/0.70/native-api/version-0.70-CoreAppPage",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.70/native-api/CoreAppPage-api-windows.md",
+  "tags": [],
+  "version": "0.70",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.70-CoreAppPage",
+    "title": "CoreAppPage",
+    "original_id": "CoreAppPage"
+  }
+}

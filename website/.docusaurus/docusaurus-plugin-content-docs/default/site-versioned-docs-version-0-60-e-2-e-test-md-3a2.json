@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.60-e2e-test",
+  "id": "version-0.60/version-0.60-e2e-test",
+  "title": "Author and Run E2E Test for React Native Windows",
+  "description": "E2E project structure",
+  "source": "@site/versioned_docs/version-0.60/e2e-test.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.60-e2e-test",
+  "permalink": "/react-native-windows/docs/0.60/version-0.60-e2e-test",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.60/e2e-test.md",
+  "tags": [],
+  "version": "0.60",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.60-e2e-test",
+    "title": "Author and Run E2E Test for React Native Windows",
+    "original_id": "e2e-test"
+  }
+}

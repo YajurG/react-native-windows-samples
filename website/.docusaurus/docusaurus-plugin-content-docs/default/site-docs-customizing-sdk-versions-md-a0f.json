@@ -1,0 +1,30 @@
+{
+  "unversionedId": "customizing-sdk-versions",
+  "id": "customizing-sdk-versions",
+  "title": "Customizing SDK versions",
+  "description": "It is easy for an app to customize which versions of the Windows SDK and WinUI 2.x to use.",
+  "source": "@site/../docs/customizing-SDK-versions.md",
+  "sourceDirName": ".",
+  "slug": "/customizing-sdk-versions",
+  "permalink": "/react-native-windows/docs/next/customizing-sdk-versions",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/customizing-SDK-versions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "customizing-sdk-versions",
+    "title": "Customizing SDK versions"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Developing Windows apps on a non-Windows PC",
+    "permalink": "/react-native-windows/docs/next/win10-vm"
+  },
+  "next": {
+    "title": "Managing C++ dependencies",
+    "permalink": "/react-native-windows/docs/next/managing-cpp-deps"
+  }
+}

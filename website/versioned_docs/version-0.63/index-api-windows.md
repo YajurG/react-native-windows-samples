@@ -1,8 +1,8 @@
 ---
-id: version-0.63-Native-API-Reference
-title: namespace Microsoft.ReactNative
-original_id: Native-API-Reference
-sidebar_label: Full reference
+id: "version-0.63-Native-API-Reference"
+title: "namespace Microsoft.ReactNative"
+original_id: "Native-API-Reference"
+sidebar_label: "Full reference"
 ---
 
 ## Enums

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.66-JsiByteArrayUser",
+  "id": "version-0.66/version-0.66-JsiByteArrayUser",
+  "title": "JsiByteArrayUser",
+  "description": "Kind: delegate",
+  "source": "@site/versioned_docs/version-0.66/JsiByteArrayUser-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.66-JsiByteArrayUser",
+  "permalink": "/react-native-windows/docs/0.66/version-0.66-JsiByteArrayUser",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.66/JsiByteArrayUser-api-windows.md",
+  "tags": [],
+  "version": "0.66",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.66-JsiByteArrayUser",
+    "title": "JsiByteArrayUser",
+    "original_id": "JsiByteArrayUser"
+  }
+}

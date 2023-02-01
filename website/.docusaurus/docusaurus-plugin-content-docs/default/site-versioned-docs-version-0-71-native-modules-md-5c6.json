@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.71-native-modules",
+  "id": "version-0.71/version-0.71-native-modules",
+  "title": "Native Modules",
+  "description": "This documentation and the underlying platform code is a work in progress.",
+  "source": "@site/versioned_docs/version-0.71/native-modules.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.71-native-modules",
+  "permalink": "/react-native-windows/docs/version-0.71-native-modules",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.71/native-modules.md",
+  "tags": [],
+  "version": "0.71",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.71-native-modules",
+    "title": "Native Modules",
+    "original_id": "native-modules"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.64-supported-community-modules",
+  "id": "version-0.64/version-0.64-supported-community-modules",
+  "title": "Supported Community Modules",
+  "description": "ReactNative.Directory",
+  "source": "@site/versioned_docs/version-0.64/supported-community-modules.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.64-supported-community-modules",
+  "permalink": "/react-native-windows/docs/0.64/version-0.64-supported-community-modules",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.64/supported-community-modules.md",
+  "tags": [],
+  "version": "0.64",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.64-supported-community-modules",
+    "title": "Supported Community Modules",
+    "original_id": "supported-community-modules"
+  }
+}

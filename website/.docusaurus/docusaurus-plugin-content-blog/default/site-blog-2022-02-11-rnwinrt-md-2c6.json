@@ -1,0 +1,33 @@
+{
+  "permalink": "/react-native-windows/blog/2022/02/11/rnwinrt",
+  "source": "@site/blog/2022-02-11-rnwinrt.md",
+  "title": "Calling Windows APIs from React Native just got easier",
+  "description": "Calling Windows APIs from React Native just got easier",
+  "date": "2022-02-11T00:00:00.000Z",
+  "formattedDate": "February 11, 2022",
+  "tags": [],
+  "readingTime": 6.595,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Angela Zhang",
+      "url": "https://twitter.com/angelazhangg"
+    }
+  ],
+  "frontMatter": {
+    "title": "Calling Windows APIs from React Native just got easier",
+    "author": "Angela Zhang",
+    "authorURL": "https://twitter.com/angelazhangg",
+    "description": "Calling Windows APIs from React Native just got easier",
+    "is_blog": true,
+    "published_date": "February 11, 2022"
+  },
+  "prevItem": {
+    "title": "Streamlining app creation with React Native for Windows CoreApp",
+    "permalink": "/react-native-windows/blog/2022/07/29/coreapp"
+  },
+  "nextItem": {
+    "title": "React Native for Windows is helping Settings improve more quickly",
+    "permalink": "/react-native-windows/blog/2022/02/11/settings"
+  }
+}

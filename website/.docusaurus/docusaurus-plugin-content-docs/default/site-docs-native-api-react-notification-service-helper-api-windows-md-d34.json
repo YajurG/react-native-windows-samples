@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/ReactNotificationServiceHelper",
+  "id": "native-api/ReactNotificationServiceHelper",
+  "title": "ReactNotificationServiceHelper",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/ReactNotificationServiceHelper-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/ReactNotificationServiceHelper",
+  "permalink": "/react-native-windows/docs/next/native-api/ReactNotificationServiceHelper",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/ReactNotificationServiceHelper-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "ReactNotificationServiceHelper",
+    "title": "ReactNotificationServiceHelper"
+  }
+}

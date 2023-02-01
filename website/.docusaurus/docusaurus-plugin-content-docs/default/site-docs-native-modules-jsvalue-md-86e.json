@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-modules-jsvalue",
+  "id": "native-modules-jsvalue",
+  "title": "Using JSValue",
+  "description": "This documentation and the underlying platform code is a work in progress.",
+  "source": "@site/../docs/native-modules-jsvalue.md",
+  "sourceDirName": ".",
+  "slug": "/native-modules-jsvalue",
+  "permalink": "/react-native-windows/docs/next/native-modules-jsvalue",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-modules-jsvalue.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "native-modules-jsvalue",
+    "title": "Using JSValue"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using Asynchronous Windows APIs",
+    "permalink": "/react-native-windows/docs/next/native-modules-async"
+  },
+  "next": {
+    "title": "Compile time code generation for C#",
+    "permalink": "/react-native-windows/docs/next/native-modules-csharp-codegen"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "managing-cpp-deps",
+  "id": "managing-cpp-deps",
+  "title": "Managing C++ dependencies",
+  "description": "Details to consider when consuming community modules or other Visual C++ projects.",
+  "source": "@site/../docs/managing-cpp-deps.md",
+  "sourceDirName": ".",
+  "slug": "/managing-cpp-deps",
+  "permalink": "/react-native-windows/docs/next/managing-cpp-deps",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/managing-cpp-deps.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "managing-cpp-deps",
+    "title": "Managing C++ dependencies"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Customizing SDK versions",
+    "permalink": "/react-native-windows/docs/next/customizing-sdk-versions"
+  },
+  "next": {
+    "title": "Get Started with macOS",
+    "permalink": "/react-native-windows/docs/next/rnm-getting-started"
+  }
+}

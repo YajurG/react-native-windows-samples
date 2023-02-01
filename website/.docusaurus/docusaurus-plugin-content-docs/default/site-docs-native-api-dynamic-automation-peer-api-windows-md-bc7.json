@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/DynamicAutomationPeer",
+  "id": "native-api/DynamicAutomationPeer",
+  "title": "DynamicAutomationPeer",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/DynamicAutomationPeer-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/DynamicAutomationPeer",
+  "permalink": "/react-native-windows/docs/next/native-api/DynamicAutomationPeer",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/DynamicAutomationPeer-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "DynamicAutomationPeer",
+    "title": "DynamicAutomationPeer"
+  }
+}

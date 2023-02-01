@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/JsiValueKind",
+  "id": "native-api/JsiValueKind",
+  "title": "JsiValueKind",
+  "description": "Kind: enum",
+  "source": "@site/../docs/native-api/JsiValueKind-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/JsiValueKind",
+  "permalink": "/react-native-windows/docs/next/native-api/JsiValueKind",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/JsiValueKind-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "JsiValueKind",
+    "title": "JsiValueKind"
+  }
+}

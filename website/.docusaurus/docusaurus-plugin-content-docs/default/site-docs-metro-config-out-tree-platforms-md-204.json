@@ -1,0 +1,30 @@
+{
+  "unversionedId": "metro-config-out-tree-platforms",
+  "id": "metro-config-out-tree-platforms",
+  "title": "Metro config for out of tree platforms",
+  "description": "How to setup and diagnose issues with metro config for react-native-macos and react-native-windows.  Many of the instructions within this document may refer just to react-native-windows, but the steps apply to react-native-macos in the same way.",
+  "source": "@site/../docs/metro-config-out-tree-platforms.md",
+  "sourceDirName": ".",
+  "slug": "/metro-config-out-tree-platforms",
+  "permalink": "/react-native-windows/docs/next/metro-config-out-tree-platforms",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/metro-config-out-tree-platforms.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "metro-config-out-tree-platforms",
+    "title": "Metro config for out of tree platforms"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Troubleshooting Native Modules",
+    "permalink": "/react-native-windows/docs/next/native-modules-troubleshooting"
+  },
+  "next": {
+    "title": "Hermes on Windows + macOS",
+    "permalink": "/react-native-windows/docs/next/hermes"
+  }
+}

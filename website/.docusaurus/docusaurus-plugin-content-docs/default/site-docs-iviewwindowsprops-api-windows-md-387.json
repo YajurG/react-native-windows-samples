@@ -1,0 +1,30 @@
+{
+  "unversionedId": "iviewwindowsprops-api",
+  "id": "iviewwindowsprops-api",
+  "title": "IViewWindowsProps",
+  "description": "This extends the View Props and IKeyboardProps APIs.",
+  "source": "@site/../docs/iviewwindowsprops-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/iviewwindowsprops-api",
+  "permalink": "/react-native-windows/docs/next/iviewwindowsprops-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/iviewwindowsprops-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "iviewwindowsprops-api",
+    "title": "IViewWindowsProps"
+  },
+  "sidebar": "apis",
+  "previous": {
+    "title": "IKeyboardProps",
+    "permalink": "/react-native-windows/docs/next/ikeyboardprops-api"
+  },
+  "next": {
+    "title": "IJSValueReader",
+    "permalink": "/react-native-windows/docs/next/native-api/IJSValueReader"
+  }
+}

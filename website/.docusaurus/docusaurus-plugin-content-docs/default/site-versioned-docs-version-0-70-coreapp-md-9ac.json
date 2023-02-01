@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.70-coreapp",
+  "id": "version-0.70/version-0.70-coreapp",
+  "title": "CoreApp",
+  "description": "EXPERIMENTAL",
+  "source": "@site/versioned_docs/version-0.70/coreapp.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.70-coreapp",
+  "permalink": "/react-native-windows/docs/0.70/version-0.70-coreapp",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.70/coreapp.md",
+  "tags": [],
+  "version": "0.70",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.70-coreapp",
+    "title": "CoreApp",
+    "original_id": "coreapp"
+  }
+}

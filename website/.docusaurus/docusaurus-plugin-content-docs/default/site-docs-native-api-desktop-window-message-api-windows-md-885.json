@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/DesktopWindowMessage",
+  "id": "native-api/DesktopWindowMessage",
+  "title": "DesktopWindowMessage",
+  "description": "Kind: struct",
+  "source": "@site/../docs/native-api/DesktopWindowMessage-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/DesktopWindowMessage",
+  "permalink": "/react-native-windows/docs/next/native-api/DesktopWindowMessage",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/DesktopWindowMessage-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "DesktopWindowMessage",
+    "title": "DesktopWindowMessage"
+  }
+}

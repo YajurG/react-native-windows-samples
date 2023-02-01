@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.62-reactinstancesettings-api",
+  "id": "version-0.62/version-0.62-reactinstancesettings-api",
+  "title": "ReactInstanceSettings",
+  "description": "Provides configuration of the react instance.",
+  "source": "@site/versioned_docs/version-0.62/ReactInstanceSettings-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.62-reactinstancesettings-api",
+  "permalink": "/react-native-windows/docs/0.62/version-0.62-reactinstancesettings-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.62/ReactInstanceSettings-api-windows.md",
+  "tags": [],
+  "version": "0.62",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.62-reactinstancesettings-api",
+    "title": "ReactInstanceSettings",
+    "original_id": "reactinstancesettings-api"
+  }
+}

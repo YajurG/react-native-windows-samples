@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-modules-async",
+  "id": "native-modules-async",
+  "title": "Using Asynchronous Windows APIs",
+  "description": "This documentation and the underlying platform code is a work in progress.",
+  "source": "@site/../docs/native-modules-async.md",
+  "sourceDirName": ".",
+  "slug": "/native-modules-async",
+  "permalink": "/react-native-windows/docs/next/native-modules-async",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-modules-async.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "native-modules-async",
+    "title": "Using Asynchronous Windows APIs"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Marshaling Data",
+    "permalink": "/react-native-windows/docs/next/native-modules-marshalling-data"
+  },
+  "next": {
+    "title": "Using JSValue",
+    "permalink": "/react-native-windows/docs/next/native-modules-jsvalue"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/InitializerDelegate",
+  "id": "native-api/InitializerDelegate",
+  "title": "InitializerDelegate",
+  "description": "Kind: delegate",
+  "source": "@site/../docs/native-api/InitializerDelegate-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/InitializerDelegate",
+  "permalink": "/react-native-windows/docs/next/native-api/InitializerDelegate",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/InitializerDelegate-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "InitializerDelegate",
+    "title": "InitializerDelegate"
+  }
+}

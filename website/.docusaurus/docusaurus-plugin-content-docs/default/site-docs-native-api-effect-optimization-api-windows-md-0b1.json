@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/EffectOptimization",
+  "id": "native-api/EffectOptimization",
+  "title": "EffectOptimization",
+  "description": "Kind: enum",
+  "source": "@site/../docs/native-api/EffectOptimization-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/EffectOptimization",
+  "permalink": "/react-native-windows/docs/next/native-api/EffectOptimization",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/EffectOptimization-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "EffectOptimization",
+    "title": "EffectOptimization"
+  }
+}

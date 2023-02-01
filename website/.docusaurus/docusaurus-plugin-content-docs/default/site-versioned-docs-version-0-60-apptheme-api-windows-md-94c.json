@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.60-apptheme-api",
+  "id": "version-0.60/version-0.60-apptheme-api",
+  "title": "AppTheme",
+  "description": "This API name will be deprecated and merged with Facebook's `Appearance` API when we update to version 0.62 of React Native.",
+  "source": "@site/versioned_docs/version-0.60/apptheme-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.60-apptheme-api",
+  "permalink": "/react-native-windows/docs/0.60/version-0.60-apptheme-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.60/apptheme-api-windows.md",
+  "tags": [],
+  "version": "0.60",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.60-apptheme-api",
+    "title": "AppTheme",
+    "original_id": "apptheme-api"
+  }
+}

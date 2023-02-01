@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.64-DynamicAutomationProperties",
+  "id": "version-0.64/version-0.64-DynamicAutomationProperties",
+  "title": "DynamicAutomationProperties",
+  "description": "Kind: class",
+  "source": "@site/versioned_docs/version-0.64/DynamicAutomationProperties-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.64-DynamicAutomationProperties",
+  "permalink": "/react-native-windows/docs/0.64/version-0.64-DynamicAutomationProperties",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.64/DynamicAutomationProperties-api-windows.md",
+  "tags": [],
+  "version": "0.64",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.64-DynamicAutomationProperties",
+    "title": "DynamicAutomationProperties",
+    "original_id": "DynamicAutomationProperties"
+  }
+}

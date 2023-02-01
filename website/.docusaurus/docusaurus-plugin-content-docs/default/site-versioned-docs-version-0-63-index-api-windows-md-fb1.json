@@ -1,0 +1,23 @@
+{
+  "unversionedId": "version-0.63-Native-API-Reference",
+  "id": "version-0.63/version-0.63-Native-API-Reference",
+  "title": "namespace Microsoft.ReactNative",
+  "description": "Enums",
+  "source": "@site/versioned_docs/version-0.63/index-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.63-Native-API-Reference",
+  "permalink": "/react-native-windows/docs/0.63/version-0.63-Native-API-Reference",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.63/index-api-windows.md",
+  "tags": [],
+  "version": "0.63",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.63-Native-API-Reference",
+    "title": "namespace Microsoft.ReactNative",
+    "original_id": "Native-API-Reference",
+    "sidebar_label": "Full reference"
+  }
+}

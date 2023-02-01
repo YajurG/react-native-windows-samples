@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/JSValueType",
+  "id": "native-api/JSValueType",
+  "title": "JSValueType",
+  "description": "Kind: enum",
+  "source": "@site/../docs/native-api/JSValueType-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/JSValueType",
+  "permalink": "/react-native-windows/docs/next/native-api/JSValueType",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/JSValueType-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "JSValueType",
+    "title": "JSValueType"
+  }
+}

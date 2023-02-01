@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/ReactCreatePropertyValue",
+  "id": "native-api/ReactCreatePropertyValue",
+  "title": "ReactCreatePropertyValue",
+  "description": "Kind: delegate",
+  "source": "@site/../docs/native-api/ReactCreatePropertyValue-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/ReactCreatePropertyValue",
+  "permalink": "/react-native-windows/docs/next/native-api/ReactCreatePropertyValue",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/ReactCreatePropertyValue-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "ReactCreatePropertyValue",
+    "title": "ReactCreatePropertyValue"
+  }
+}

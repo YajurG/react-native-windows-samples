@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.71-win10-vm",
+  "id": "version-0.71/version-0.71-win10-vm",
+  "title": "Developing Windows apps on a non-Windows PC",
+  "description": "It is possible to develop Windows apps on a non-Windows PC by using a virtual machine. The virtual machine can run either locally or on Azure.",
+  "source": "@site/versioned_docs/version-0.71/win10-vm.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.71-win10-vm",
+  "permalink": "/react-native-windows/docs/version-0.71-win10-vm",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.71/win10-vm.md",
+  "tags": [],
+  "version": "0.71",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.71-win10-vm",
+    "title": "Developing Windows apps on a non-Windows PC",
+    "original_id": "win10-vm"
+  }
+}

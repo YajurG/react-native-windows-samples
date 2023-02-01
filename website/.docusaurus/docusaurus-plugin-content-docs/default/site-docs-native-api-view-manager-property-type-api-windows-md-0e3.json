@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/ViewManagerPropertyType",
+  "id": "native-api/ViewManagerPropertyType",
+  "title": "ViewManagerPropertyType",
+  "description": "Kind: enum",
+  "source": "@site/../docs/native-api/ViewManagerPropertyType-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/ViewManagerPropertyType",
+  "permalink": "/react-native-windows/docs/next/native-api/ViewManagerPropertyType",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/ViewManagerPropertyType-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "ViewManagerPropertyType",
+    "title": "ViewManagerPropertyType"
+  }
+}

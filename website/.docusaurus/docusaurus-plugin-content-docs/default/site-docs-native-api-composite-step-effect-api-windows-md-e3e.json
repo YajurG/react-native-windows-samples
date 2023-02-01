@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/CompositeStepEffect",
+  "id": "native-api/CompositeStepEffect",
+  "title": "CompositeStepEffect",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/CompositeStepEffect-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/CompositeStepEffect",
+  "permalink": "/react-native-windows/docs/next/native-api/CompositeStepEffect",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/CompositeStepEffect-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "CompositeStepEffect",
+    "title": "CompositeStepEffect"
+  }
+}

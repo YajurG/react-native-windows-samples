@@ -1,0 +1,33 @@
+{
+  "permalink": "/react-native-windows/blog/2019/07/22/roadmap",
+  "source": "@site/blog/2019-07-22-roadmap.md",
+  "title": "Roadmap for vnext",
+  "description": "A prospective roadmap for React Native for Windows vnext project (2019 through early 2020)",
+  "date": "2019-07-22T00:00:00.000Z",
+  "formattedDate": "July 22, 2019",
+  "tags": [],
+  "readingTime": 1.41,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "React Native at Microsoft",
+      "url": "http://twitter.com/reactnativemsft"
+    }
+  ],
+  "frontMatter": {
+    "title": "Roadmap for vnext",
+    "author": "React Native at Microsoft",
+    "authorURL": "http://twitter.com/reactnativemsft",
+    "description": "A prospective roadmap for React Native for Windows vnext project (2019 through early 2020)",
+    "is_blog": true,
+    "published_date": "July 22, 2019"
+  },
+  "prevItem": {
+    "title": "Upgrading with Hermes Support and Automated Tests",
+    "permalink": "/react-native-windows/blog/2019/12/3/m3updates"
+  },
+  "nextItem": {
+    "title": "July 2019 Updates",
+    "permalink": "/react-native-windows/blog/2019/07/21/updates"
+  }
+}

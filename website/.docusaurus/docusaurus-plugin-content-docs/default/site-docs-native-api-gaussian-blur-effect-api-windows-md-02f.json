@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/GaussianBlurEffect",
+  "id": "native-api/GaussianBlurEffect",
+  "title": "GaussianBlurEffect",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/GaussianBlurEffect-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/GaussianBlurEffect",
+  "permalink": "/react-native-windows/docs/next/native-api/GaussianBlurEffect",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/GaussianBlurEffect-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "GaussianBlurEffect",
+    "title": "GaussianBlurEffect"
+  }
+}

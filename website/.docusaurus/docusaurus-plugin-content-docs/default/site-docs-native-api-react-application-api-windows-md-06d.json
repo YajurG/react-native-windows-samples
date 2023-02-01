@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-api/ReactApplication",
+  "id": "native-api/ReactApplication",
+  "title": "ReactApplication",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/ReactApplication-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/ReactApplication",
+  "permalink": "/react-native-windows/docs/next/native-api/ReactApplication",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/ReactApplication-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "ReactApplication",
+    "title": "ReactApplication"
+  },
+  "sidebar": "apis",
+  "previous": {
+    "title": "IViewManager",
+    "permalink": "/react-native-windows/docs/next/native-api/IViewManager"
+  },
+  "next": {
+    "title": "ReactInstanceSettings",
+    "permalink": "/react-native-windows/docs/next/native-api/ReactInstanceSettings"
+  }
+}

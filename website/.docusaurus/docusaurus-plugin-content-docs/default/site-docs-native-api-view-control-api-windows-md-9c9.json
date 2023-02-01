@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/ViewControl",
+  "id": "native-api/ViewControl",
+  "title": "ViewControl",
+  "description": "Kind: class",
+  "source": "@site/../docs/native-api/ViewControl-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/ViewControl",
+  "permalink": "/react-native-windows/docs/next/native-api/ViewControl",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/ViewControl-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "ViewControl",
+    "title": "ViewControl"
+  }
+}

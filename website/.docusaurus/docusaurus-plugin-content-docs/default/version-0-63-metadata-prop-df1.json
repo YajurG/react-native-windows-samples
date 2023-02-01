@@ -1,0 +1,513 @@
+{
+  "pluginId": "default",
+  "version": "0.63",
+  "label": "0.63",
+  "banner": "unmaintained",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-0.63",
+  "isLast": false,
+  "docsSidebars": {},
+  "docs": {
+    "version-0.63-AccessibilityAction": {
+      "id": "version-0.63-AccessibilityAction",
+      "title": "AccessibilityAction",
+      "description": "Kind: struct"
+    },
+    "version-0.63-AccessibilityActionEventHandler": {
+      "id": "version-0.63-AccessibilityActionEventHandler",
+      "title": "AccessibilityActionEventHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-AccessibilityInvokeEventHandler": {
+      "id": "version-0.63-AccessibilityInvokeEventHandler",
+      "title": "AccessibilityInvokeEventHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-AccessibilityRoles": {
+      "id": "version-0.63-AccessibilityRoles",
+      "title": "AccessibilityRoles",
+      "description": "Kind: enum"
+    },
+    "version-0.63-AccessibilityStates": {
+      "id": "version-0.63-AccessibilityStates",
+      "title": "AccessibilityStates",
+      "description": "Kind: enum"
+    },
+    "version-0.63-AccessibilityValue": {
+      "id": "version-0.63-AccessibilityValue",
+      "title": "AccessibilityValue",
+      "description": "Kind: enum"
+    },
+    "version-0.63-BorderEffect": {
+      "id": "version-0.63-BorderEffect",
+      "title": "BorderEffect",
+      "description": "Kind: class"
+    },
+    "version-0.63-CanvasComposite": {
+      "id": "version-0.63-CanvasComposite",
+      "title": "CanvasComposite",
+      "description": "Kind: enum"
+    },
+    "version-0.63-CanvasEdgeBehavior": {
+      "id": "version-0.63-CanvasEdgeBehavior",
+      "title": "CanvasEdgeBehavior",
+      "description": "Kind: enum"
+    },
+    "version-0.63-ColorSourceEffect": {
+      "id": "version-0.63-ColorSourceEffect",
+      "title": "ColorSourceEffect",
+      "description": "Kind: class"
+    },
+    "version-0.63-CompositeStepEffect": {
+      "id": "version-0.63-CompositeStepEffect",
+      "title": "CompositeStepEffect",
+      "description": "Kind: class"
+    },
+    "version-0.63-config": {
+      "id": "version-0.63-config",
+      "title": "React Native Config Schema",
+      "description": "The CLI command npx react-native config outputs project and dependencies configuration in JSON format to stdout."
+    },
+    "version-0.63-ConstantProviderDelegate": {
+      "id": "version-0.63-ConstantProviderDelegate",
+      "title": "ConstantProviderDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-DynamicAutomationPeer": {
+      "id": "version-0.63-DynamicAutomationPeer",
+      "title": "DynamicAutomationPeer",
+      "description": "Kind: class"
+    },
+    "version-0.63-DynamicAutomationProperties": {
+      "id": "version-0.63-DynamicAutomationProperties",
+      "title": "DynamicAutomationProperties",
+      "description": "Kind: class"
+    },
+    "version-0.63-DynamicValueProvider": {
+      "id": "version-0.63-DynamicValueProvider",
+      "title": "DynamicValueProvider",
+      "description": "Kind: class"
+    },
+    "version-0.63-EffectBorderMode": {
+      "id": "version-0.63-EffectBorderMode",
+      "title": "EffectBorderMode",
+      "description": "Kind: enum"
+    },
+    "version-0.63-EffectOptimization": {
+      "id": "version-0.63-EffectOptimization",
+      "title": "EffectOptimization",
+      "description": "Kind: enum"
+    },
+    "version-0.63-GaussianBlurEffect": {
+      "id": "version-0.63-GaussianBlurEffect",
+      "title": "GaussianBlurEffect",
+      "description": "Kind: class"
+    },
+    "version-0.63-getting-started": {
+      "id": "version-0.63-getting-started",
+      "title": "Get Started with Windows",
+      "description": "This guide will help you get started on setting up your very first React Native for Windows app."
+    },
+    "version-0.63-hermes": {
+      "id": "version-0.63-hermes",
+      "title": "Hermes on Windows + macOS",
+      "description": "The Hermes engine is an open source JavaScript engine created by Facebook to optimize building and running React Native applications."
+    },
+    "version-0.63-IJSValueReader": {
+      "id": "version-0.63-IJSValueReader",
+      "title": "IJSValueReader",
+      "description": "Kind: interface"
+    },
+    "version-0.63-ijsvaluereader-api": {
+      "id": "version-0.63-ijsvaluereader-api",
+      "title": "IJSValueReader",
+      "description": "`IJSIValueReader` is used to read data from JavaScript in custom NativeModules.  It acts as a stream."
+    },
+    "version-0.63-IJSValueWriter": {
+      "id": "version-0.63-IJSValueWriter",
+      "title": "IJSValueWriter",
+      "description": "Kind: interface"
+    },
+    "version-0.63-InitializerDelegate": {
+      "id": "version-0.63-InitializerDelegate",
+      "title": "InitializerDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-IReactContext": {
+      "id": "version-0.63-IReactContext",
+      "title": "IReactContext",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IReactDispatcher": {
+      "id": "version-0.63-IReactDispatcher",
+      "title": "IReactDispatcher",
+      "description": "Kind: interface"
+    },
+    "version-0.63-ireactdispatcher-api": {
+      "id": "version-0.63-ireactdispatcher-api",
+      "title": "IReactDispatcher",
+      "description": "IReactDispatcher provides the core threading / task management interface for ensuring code happens in the right order on the right thread.  One primary dispatcher that applications may require is the UIDispatcher which provides NativeModules access to the UI thread associated with this react instance.   Another one is the JSDispatcher which allows apps to post tasks to the JS engine thread."
+    },
+    "version-0.63-IReactModuleBuilder": {
+      "id": "version-0.63-IReactModuleBuilder",
+      "title": "IReactModuleBuilder",
+      "description": "Kind: interface"
+    },
+    "version-0.63-ireactmodulebuilder-api": {
+      "id": "version-0.63-ireactmodulebuilder-api",
+      "title": "IReactModuleBuilder",
+      "description": "Builds native modules inside of React native code based on the provided meta-data.  See Native Modules for more usage information."
+    },
+    "version-0.63-IReactNonAbiValue": {
+      "id": "version-0.63-IReactNonAbiValue",
+      "title": "IReactNonAbiValue",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IReactNotificationArgs": {
+      "id": "version-0.63-IReactNotificationArgs",
+      "title": "IReactNotificationArgs",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IReactNotificationService": {
+      "id": "version-0.63-IReactNotificationService",
+      "title": "IReactNotificationService",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IReactNotificationSubscription": {
+      "id": "version-0.63-IReactNotificationSubscription",
+      "title": "IReactNotificationSubscription",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IReactPackageBuilder": {
+      "id": "version-0.63-IReactPackageBuilder",
+      "title": "IReactPackageBuilder",
+      "description": "Kind: interface"
+    },
+    "version-0.63-ireactpackagebuilder-api": {
+      "id": "version-0.63-ireactpackagebuilder-api",
+      "title": "IReactPackageBuilder",
+      "description": "A ReactPackageBuilder provides the react instance with all the NativeModules and ViewManagers that will be available in the react instance."
+    },
+    "version-0.63-IReactPackageBuilderExperimental": {
+      "id": "version-0.63-IReactPackageBuilderExperimental",
+      "title": "IReactPackageBuilderExperimental",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IReactPackageProvider": {
+      "id": "version-0.63-IReactPackageProvider",
+      "title": "IReactPackageProvider",
+      "description": "Kind: interface"
+    },
+    "version-0.63-ireactpackageprovider-api": {
+      "id": "version-0.63-ireactpackageprovider-api",
+      "title": "IReactPackageProvider",
+      "description": "This interface is to be implemented by package creators."
+    },
+    "version-0.63-IReactPropertyBag": {
+      "id": "version-0.63-IReactPropertyBag",
+      "title": "IReactPropertyBag",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IReactPropertyName": {
+      "id": "version-0.63-IReactPropertyName",
+      "title": "IReactPropertyName",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IReactPropertyNamespace": {
+      "id": "version-0.63-IReactPropertyNamespace",
+      "title": "IReactPropertyNamespace",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IRedBoxErrorFrameInfo": {
+      "id": "version-0.63-IRedBoxErrorFrameInfo",
+      "title": "IRedBoxErrorFrameInfo",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IRedBoxErrorInfo": {
+      "id": "version-0.63-IRedBoxErrorInfo",
+      "title": "IRedBoxErrorInfo",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IRedBoxHandler": {
+      "id": "version-0.63-IRedBoxHandler",
+      "title": "IRedBoxHandler",
+      "description": "Kind: interface"
+    },
+    "version-0.63-iredboxhandler-api": {
+      "id": "version-0.63-iredboxhandler-api",
+      "title": "IRedBoxHandler",
+      "description": "RedBoxHandler provides an extension point to allow custom error handling within the react instance.  This can be useful if you have an existing error reporting system that you want react errors to be reported to.  The default implementation of RedBoxHandler shows error messages in a full screen error screen within the application."
+    },
+    "version-0.63-IViewManager": {
+      "id": "version-0.63-IViewManager",
+      "title": "IViewManager",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IViewManagerWithChildren": {
+      "id": "version-0.63-IViewManagerWithChildren",
+      "title": "IViewManagerWithChildren",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IViewManagerWithCommands": {
+      "id": "version-0.63-IViewManagerWithCommands",
+      "title": "IViewManagerWithCommands",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IViewManagerWithExportedEventTypeConstants": {
+      "id": "version-0.63-IViewManagerWithExportedEventTypeConstants",
+      "title": "IViewManagerWithExportedEventTypeConstants",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IViewManagerWithExportedViewConstants": {
+      "id": "version-0.63-IViewManagerWithExportedViewConstants",
+      "title": "IViewManagerWithExportedViewConstants",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IViewManagerWithNativeProperties": {
+      "id": "version-0.63-IViewManagerWithNativeProperties",
+      "title": "IViewManagerWithNativeProperties",
+      "description": "Kind: interface"
+    },
+    "version-0.63-IViewManagerWithReactContext": {
+      "id": "version-0.63-IViewManagerWithReactContext",
+      "title": "IViewManagerWithReactContext",
+      "description": "Kind: interface"
+    },
+    "version-0.63-JSIEngine": {
+      "id": "version-0.63-JSIEngine",
+      "title": "JSIEngine",
+      "description": "Kind: enum"
+    },
+    "version-0.63-JSValueArgWriter": {
+      "id": "version-0.63-JSValueArgWriter",
+      "title": "JSValueArgWriter",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-JSValueType": {
+      "id": "version-0.63-JSValueType",
+      "title": "JSValueType",
+      "description": "Kind: enum"
+    },
+    "version-0.63-MethodDelegate": {
+      "id": "version-0.63-MethodDelegate",
+      "title": "MethodDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-MethodResultCallback": {
+      "id": "version-0.63-MethodResultCallback",
+      "title": "MethodResultCallback",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-MethodReturnType": {
+      "id": "version-0.63-MethodReturnType",
+      "title": "MethodReturnType",
+      "description": "Kind: enum"
+    },
+    "version-0.63-Native-API-Reference": {
+      "id": "version-0.63-Native-API-Reference",
+      "title": "namespace Microsoft.ReactNative",
+      "description": "Enums"
+    },
+    "version-0.63-native-modules": {
+      "id": "version-0.63-native-modules",
+      "title": "Native Modules",
+      "description": "This documentation and the underlying platform code is a work in progress. >Examples (C# and C++/WinRT):"
+    },
+    "version-0.63-native-modules-async": {
+      "id": "version-0.63-native-modules-async",
+      "title": "Using Asynchronous Windows APIs",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.63-native-modules-autolinking": {
+      "id": "version-0.63-native-modules-autolinking",
+      "title": "Autolinking Native Modules",
+      "description": "Autolinking is a mechanism that allows your React Native app project to discover and use native modules and view managers provided by React Native libraries."
+    },
+    "version-0.63-native-modules-csharp-codegen": {
+      "id": "version-0.63-native-modules-csharp-codegen",
+      "title": "Compile time code generation for C#",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.63-native-modules-jsvalue": {
+      "id": "version-0.63-native-modules-jsvalue",
+      "title": "Using JSValue",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.63-native-modules-setup": {
+      "id": "version-0.63-native-modules-setup",
+      "title": "Native Module Setup",
+      "description": "This documentation is a work in progress and version-specific. Please check that the version of this document (top of page) matches the version of RN/RNW you're targeting."
+    },
+    "version-0.63-native-modules-using": {
+      "id": "version-0.63-native-modules-using",
+      "title": "Using Community Native Modules",
+      "description": "Community native modules are usually distributed as npm packages. To understand more about npm packages you may find this guide useful."
+    },
+    "version-0.63-nuget": {
+      "id": "version-0.63-nuget",
+      "title": "Using react-native-windows NuGet packages",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.63-nuget-update": {
+      "id": "version-0.63-nuget-update",
+      "title": "Updating NuGet packages",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.63-OnResumeAction": {
+      "id": "version-0.63-OnResumeAction",
+      "title": "OnResumeAction",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-QuirkSettings": {
+      "id": "version-0.63-QuirkSettings",
+      "title": "QuirkSettings",
+      "description": "Kind: class"
+    },
+    "version-0.63-ReactApplication": {
+      "id": "version-0.63-ReactApplication",
+      "title": "ReactApplication",
+      "description": "Kind: class"
+    },
+    "version-0.63-ReactCreatePropertyValue": {
+      "id": "version-0.63-ReactCreatePropertyValue",
+      "title": "ReactCreatePropertyValue",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-ReactDispatcherCallback": {
+      "id": "version-0.63-ReactDispatcherCallback",
+      "title": "ReactDispatcherCallback",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-ReactDispatcherHelper": {
+      "id": "version-0.63-ReactDispatcherHelper",
+      "title": "ReactDispatcherHelper",
+      "description": "Kind: class"
+    },
+    "version-0.63-ReactInstanceSettings": {
+      "id": "version-0.63-ReactInstanceSettings",
+      "title": "ReactInstanceSettings",
+      "description": "Kind: class"
+    },
+    "version-0.63-reactinstancesettings-api": {
+      "id": "version-0.63-reactinstancesettings-api",
+      "title": "ReactInstanceSettings",
+      "description": "Provides configuration of the react instance."
+    },
+    "version-0.63-ReactModuleProvider": {
+      "id": "version-0.63-ReactModuleProvider",
+      "title": "ReactModuleProvider",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-ReactNativeHost": {
+      "id": "version-0.63-ReactNativeHost",
+      "title": "ReactNativeHost",
+      "description": "Kind: class"
+    },
+    "version-0.63-reactnativehost-api": {
+      "id": "version-0.63-reactnativehost-api",
+      "title": "ReactNativeHost",
+      "description": "This is the main entry-point to create a react-native instance.  The ReactNativeHost object exists to configure the instance using ReactInstanceSettings before its loaded, as well as enabling control of when to load the instance."
+    },
+    "version-0.63-ReactNotificationHandler": {
+      "id": "version-0.63-ReactNotificationHandler",
+      "title": "ReactNotificationHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-ReactNotificationServiceHelper": {
+      "id": "version-0.63-ReactNotificationServiceHelper",
+      "title": "ReactNotificationServiceHelper",
+      "description": "Kind: class"
+    },
+    "version-0.63-ReactPropertyBagHelper": {
+      "id": "version-0.63-ReactPropertyBagHelper",
+      "title": "ReactPropertyBagHelper",
+      "description": "Kind: class"
+    },
+    "version-0.63-ReactRootView": {
+      "id": "version-0.63-ReactRootView",
+      "title": "ReactRootView",
+      "description": "Kind: class"
+    },
+    "version-0.63-ReactViewManagerProvider": {
+      "id": "version-0.63-ReactViewManagerProvider",
+      "title": "ReactViewManagerProvider",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-RedBoxErrorType": {
+      "id": "version-0.63-RedBoxErrorType",
+      "title": "RedBoxErrorType",
+      "description": "Kind: enum"
+    },
+    "version-0.63-RedBoxHelper": {
+      "id": "version-0.63-RedBoxHelper",
+      "title": "RedBoxHelper",
+      "description": "Kind: class"
+    },
+    "version-0.63-releases": {
+      "id": "version-0.63-releases",
+      "title": "Release Strategy",
+      "description": "For every major version update of react-native, React Native for Windows releases a matching version. In addition, there are three release distributions with corresponding npm package distribution tags:"
+    },
+    "version-0.63-rnm-getting-started": {
+      "id": "version-0.63-rnm-getting-started",
+      "title": "Get Started with macOS",
+      "description": "This guide will help you get started on setting up your very first React Native for macOS app."
+    },
+    "version-0.63-rnw-dependencies": {
+      "id": "version-0.63-rnw-dependencies",
+      "title": "System Requirements",
+      "description": "You can run React-Native for Windows apps only on Windows 10 devices with Windows version: 10.0.16299.0 (aka 1709, aka Redstone 3, aka Fall Creators Update) or higher. Some features may not work on all versions. See Windows 10 Compatibility for version support details."
+    },
+    "version-0.63-SyncMethodDelegate": {
+      "id": "version-0.63-SyncMethodDelegate",
+      "title": "SyncMethodDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.63-view-managers": {
+      "id": "version-0.63-view-managers",
+      "title": "Native UI Components",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.63-ViewControl": {
+      "id": "version-0.63-ViewControl",
+      "title": "ViewControl",
+      "description": "Kind: class"
+    },
+    "version-0.63-ViewManagerPropertyType": {
+      "id": "version-0.63-ViewManagerPropertyType",
+      "title": "ViewManagerPropertyType",
+      "description": "Kind: enum"
+    },
+    "version-0.63-ViewPanel": {
+      "id": "version-0.63-ViewPanel",
+      "title": "ViewPanel",
+      "description": "Kind: class"
+    },
+    "version-0.63-win10-compat": {
+      "id": "version-0.63-win10-compat",
+      "title": "Backward compatibility with Windows versions",
+      "description": "React Native for Windows supports Windows 10 devices. React Native for Windows layers cleanly on top of the native Windows UI platform which means there are some APIs that may not be supported in all versions of Windows since the corresponding native capabilities were not backward compatible with older OS versions. The following table captures these deltas. If you are using any of the APIs below, they will gracefully fail (no-op) when the app is running on Windows 10 devices of corresponding OS versions."
+    },
+    "version-0.63-windowsbrush-and-theme": {
+      "id": "version-0.63-windowsbrush-and-theme",
+      "title": "Using PlatformColor and Responding to Themes",
+      "description": "Overview"
+    },
+    "version-0.63-winui3": {
+      "id": "version-0.63-winui3",
+      "title": "WinUI 3",
+      "description": "WinUI is the modern native UI platform of Windows. As of this writing, WinUI 3 has published Preview 2."
+    },
+    "version-0.63-XamlHelper": {
+      "id": "version-0.63-XamlHelper",
+      "title": "XamlHelper",
+      "description": "Kind: class"
+    },
+    "version-0.63-XamlUIService": {
+      "id": "version-0.63-XamlUIService",
+      "title": "XamlUIService",
+      "description": "Kind: class"
+    }
+  }
+}

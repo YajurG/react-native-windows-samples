@@ -1,0 +1,30 @@
+{
+  "unversionedId": "win10-vm",
+  "id": "win10-vm",
+  "title": "Developing Windows apps on a non-Windows PC",
+  "description": "It is possible to develop Windows apps on a non-Windows PC by using a virtual machine. The virtual machine can run either locally or on Azure.",
+  "source": "@site/../docs/win10-vm.md",
+  "sourceDirName": ".",
+  "slug": "/win10-vm",
+  "permalink": "/react-native-windows/docs/next/win10-vm",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/win10-vm.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "win10-vm",
+    "title": "Developing Windows apps on a non-Windows PC"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Compile time code generation for C#",
+    "permalink": "/react-native-windows/docs/next/native-modules-csharp-codegen"
+  },
+  "next": {
+    "title": "Customizing SDK versions",
+    "permalink": "/react-native-windows/docs/next/customizing-sdk-versions"
+  }
+}

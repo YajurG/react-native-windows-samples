@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.64-IReactSettingsSnapshot",
+  "id": "version-0.64/version-0.64-IReactSettingsSnapshot",
+  "title": "IReactSettingsSnapshot",
+  "description": "Kind: interface",
+  "source": "@site/versioned_docs/version-0.64/IReactSettingsSnapshot-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.64-IReactSettingsSnapshot",
+  "permalink": "/react-native-windows/docs/0.64/version-0.64-IReactSettingsSnapshot",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.64/IReactSettingsSnapshot-api-windows.md",
+  "tags": [],
+  "version": "0.64",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.64-IReactSettingsSnapshot",
+    "title": "IReactSettingsSnapshot",
+    "original_id": "IReactSettingsSnapshot"
+  }
+}

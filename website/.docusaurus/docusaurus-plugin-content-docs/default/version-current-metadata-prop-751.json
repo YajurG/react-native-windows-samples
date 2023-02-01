@@ -1,0 +1,1291 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": "unreleased",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": false,
+  "docsSidebars": {
+    "docs": [
+      {
+        "type": "category",
+        "label": "The Basics (Windows)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Get Started with Windows",
+            "href": "/react-native-windows/docs/next/getting-started",
+            "docId": "getting-started"
+          },
+          {
+            "type": "link",
+            "label": "System Requirements",
+            "href": "/react-native-windows/docs/next/rnw-dependencies",
+            "docId": "rnw-dependencies"
+          },
+          {
+            "type": "link",
+            "label": "React Native Windows CLI",
+            "href": "/react-native-windows/docs/next/run-windows-cli",
+            "docId": "run-windows-cli"
+          },
+          {
+            "type": "link",
+            "label": "React Native Windows Components and APIs",
+            "href": "/react-native-windows/docs/next/parity-status",
+            "docId": "parity-status"
+          },
+          {
+            "type": "link",
+            "label": "React Native Config Schema",
+            "href": "/react-native-windows/docs/next/config",
+            "docId": "config"
+          },
+          {
+            "type": "link",
+            "label": "Using PlatformColor and Responding to Themes",
+            "href": "/react-native-windows/docs/next/windowsbrush-and-theme",
+            "docId": "windowsbrush-and-theme"
+          },
+          {
+            "type": "link",
+            "label": "Release Strategy",
+            "href": "/react-native-windows/docs/next/releases",
+            "docId": "releases"
+          },
+          {
+            "type": "link",
+            "label": "Platform Detection",
+            "href": "/react-native-windows/docs/next/platform",
+            "docId": "platform"
+          },
+          {
+            "type": "link",
+            "label": "Upgrading App to Latest Version of React Native Windows",
+            "href": "/react-native-windows/docs/next/upgrade-app",
+            "docId": "upgrade-app"
+          },
+          {
+            "type": "link",
+            "label": "Setup Continuous Integration Pipeline for an RNW App",
+            "href": "/react-native-windows/docs/next/setup-ci",
+            "docId": "setup-ci"
+          },
+          {
+            "type": "link",
+            "label": "Publishing a React Native Windows App to the Microsoft Store",
+            "href": "/react-native-windows/docs/next/app-publishing",
+            "docId": "app-publishing"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Native Modules (Windows)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Native Modules",
+            "href": "/react-native-windows/docs/next/native-modules",
+            "docId": "native-modules"
+          },
+          {
+            "type": "link",
+            "label": "Native UI Components",
+            "href": "/react-native-windows/docs/next/view-managers",
+            "docId": "view-managers"
+          },
+          {
+            "type": "link",
+            "label": "Native Module Setup",
+            "href": "/react-native-windows/docs/next/native-modules-setup",
+            "docId": "native-modules-setup"
+          },
+          {
+            "type": "link",
+            "label": "Native Modules vs Turbo Modules",
+            "href": "/react-native-windows/docs/next/native-modules-vs-turbo-modules",
+            "docId": "native-modules-vs-turbo-modules"
+          },
+          {
+            "type": "link",
+            "label": "Using Community Native Modules",
+            "href": "/react-native-windows/docs/next/native-modules-using",
+            "docId": "native-modules-using"
+          },
+          {
+            "type": "link",
+            "label": "Autolinking Native Modules",
+            "href": "/react-native-windows/docs/next/native-modules-autolinking",
+            "docId": "native-modules-autolinking"
+          },
+          {
+            "type": "link",
+            "label": "Native Modules (Advanced)",
+            "href": "/react-native-windows/docs/next/native-modules-advanced",
+            "docId": "native-modules-advanced"
+          },
+          {
+            "type": "link",
+            "label": "Supported Community Modules",
+            "href": "/react-native-windows/docs/next/supported-community-modules",
+            "docId": "supported-community-modules"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Native Development (Windows)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Working with native code on Windows",
+            "href": "/react-native-windows/docs/next/native-code",
+            "docId": "native-code"
+          },
+          {
+            "type": "link",
+            "label": "Choosing C++ or C# for native code",
+            "href": "/react-native-windows/docs/next/native-code-language-choice",
+            "docId": "native-code-language-choice"
+          },
+          {
+            "type": "link",
+            "label": "Marshaling Data",
+            "href": "/react-native-windows/docs/next/native-modules-marshalling-data",
+            "docId": "native-modules-marshalling-data"
+          },
+          {
+            "type": "link",
+            "label": "Using Asynchronous Windows APIs",
+            "href": "/react-native-windows/docs/next/native-modules-async",
+            "docId": "native-modules-async"
+          },
+          {
+            "type": "link",
+            "label": "Using JSValue",
+            "href": "/react-native-windows/docs/next/native-modules-jsvalue",
+            "docId": "native-modules-jsvalue"
+          },
+          {
+            "type": "link",
+            "label": "Compile time code generation for C#",
+            "href": "/react-native-windows/docs/next/native-modules-csharp-codegen",
+            "docId": "native-modules-csharp-codegen"
+          },
+          {
+            "type": "link",
+            "label": "Developing Windows apps on a non-Windows PC",
+            "href": "/react-native-windows/docs/next/win10-vm",
+            "docId": "win10-vm"
+          },
+          {
+            "type": "link",
+            "label": "Customizing SDK versions",
+            "href": "/react-native-windows/docs/next/customizing-sdk-versions",
+            "docId": "customizing-sdk-versions"
+          },
+          {
+            "type": "link",
+            "label": "Managing C++ dependencies",
+            "href": "/react-native-windows/docs/next/managing-cpp-deps",
+            "docId": "managing-cpp-deps"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "The Basics (MacOS)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Get Started with macOS",
+            "href": "/react-native-windows/docs/next/rnm-getting-started",
+            "docId": "rnm-getting-started"
+          },
+          {
+            "type": "link",
+            "label": "System Requirements",
+            "href": "/react-native-windows/docs/next/rnm-dependencies",
+            "docId": "rnm-dependencies"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Troubleshooting",
+        "items": [
+          {
+            "type": "link",
+            "label": "Troubleshooting Native Modules",
+            "href": "/react-native-windows/docs/next/native-modules-troubleshooting",
+            "docId": "native-modules-troubleshooting"
+          },
+          {
+            "type": "link",
+            "label": "Metro config for out of tree platforms",
+            "href": "/react-native-windows/docs/next/metro-config-out-tree-platforms",
+            "docId": "metro-config-out-tree-platforms"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Experimental",
+        "items": [
+          {
+            "type": "link",
+            "label": "Hermes on Windows + macOS",
+            "href": "/react-native-windows/docs/next/hermes",
+            "docId": "hermes"
+          },
+          {
+            "type": "link",
+            "label": "Using react-native-windows NuGet packages",
+            "href": "/react-native-windows/docs/next/NuGet",
+            "docId": "NuGet"
+          },
+          {
+            "type": "link",
+            "label": "Updating NuGet packages",
+            "href": "/react-native-windows/docs/next/nuget-update",
+            "docId": "nuget-update"
+          },
+          {
+            "type": "link",
+            "label": "WinUI 3",
+            "href": "/react-native-windows/docs/next/winui3",
+            "docId": "winui3"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ],
+    "apis": [
+      {
+        "type": "category",
+        "label": "Components (Windows)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Flyout",
+            "href": "/react-native-windows/docs/next/flyout-component",
+            "docId": "flyout-component"
+          },
+          {
+            "type": "link",
+            "label": "Glyph",
+            "href": "/react-native-windows/docs/next/glyph-component",
+            "docId": "glyph-component"
+          },
+          {
+            "type": "link",
+            "label": "Popup",
+            "href": "/react-native-windows/docs/next/popup-component",
+            "docId": "popup-component"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "JavaScript API (Windows)",
+        "items": [
+          {
+            "type": "link",
+            "label": "IKeyboardProps",
+            "href": "/react-native-windows/docs/next/ikeyboardprops-api",
+            "docId": "ikeyboardprops-api"
+          },
+          {
+            "type": "link",
+            "label": "IViewWindowsProps",
+            "href": "/react-native-windows/docs/next/iviewwindowsprops-api",
+            "docId": "iviewwindowsprops-api"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Native API (Windows)",
+        "items": [
+          {
+            "type": "link",
+            "label": "IJSValueReader",
+            "href": "/react-native-windows/docs/next/native-api/IJSValueReader",
+            "docId": "native-api/IJSValueReader"
+          },
+          {
+            "type": "link",
+            "label": "IJSValueWriter",
+            "href": "/react-native-windows/docs/next/native-api/IJSValueWriter",
+            "docId": "native-api/IJSValueWriter"
+          },
+          {
+            "type": "link",
+            "label": "IReactContext",
+            "href": "/react-native-windows/docs/next/native-api/IReactContext",
+            "docId": "native-api/IReactContext"
+          },
+          {
+            "type": "link",
+            "label": "IReactDispatcher",
+            "href": "/react-native-windows/docs/next/native-api/IReactDispatcher",
+            "docId": "native-api/IReactDispatcher"
+          },
+          {
+            "type": "link",
+            "label": "IReactModuleBuilder",
+            "href": "/react-native-windows/docs/next/native-api/IReactModuleBuilder",
+            "docId": "native-api/IReactModuleBuilder"
+          },
+          {
+            "type": "link",
+            "label": "IReactNonAbiValue",
+            "href": "/react-native-windows/docs/next/native-api/IReactNonAbiValue",
+            "docId": "native-api/IReactNonAbiValue"
+          },
+          {
+            "type": "link",
+            "label": "IReactPackageBuilder",
+            "href": "/react-native-windows/docs/next/native-api/IReactPackageBuilder",
+            "docId": "native-api/IReactPackageBuilder"
+          },
+          {
+            "type": "link",
+            "label": "IReactPackageProvider",
+            "href": "/react-native-windows/docs/next/native-api/IReactPackageProvider",
+            "docId": "native-api/IReactPackageProvider"
+          },
+          {
+            "type": "link",
+            "label": "IReactPropertyBag",
+            "href": "/react-native-windows/docs/next/native-api/IReactPropertyBag",
+            "docId": "native-api/IReactPropertyBag"
+          },
+          {
+            "type": "link",
+            "label": "IRedBoxHandler",
+            "href": "/react-native-windows/docs/next/native-api/IRedBoxHandler",
+            "docId": "native-api/IRedBoxHandler"
+          },
+          {
+            "type": "link",
+            "label": "IViewManager",
+            "href": "/react-native-windows/docs/next/native-api/IViewManager",
+            "docId": "native-api/IViewManager"
+          },
+          {
+            "type": "link",
+            "label": "ReactApplication",
+            "href": "/react-native-windows/docs/next/native-api/ReactApplication",
+            "docId": "native-api/ReactApplication"
+          },
+          {
+            "type": "link",
+            "label": "ReactInstanceSettings",
+            "href": "/react-native-windows/docs/next/native-api/ReactInstanceSettings",
+            "docId": "native-api/ReactInstanceSettings"
+          },
+          {
+            "type": "link",
+            "label": "ReactNativeHost",
+            "href": "/react-native-windows/docs/next/native-api/ReactNativeHost",
+            "docId": "native-api/ReactNativeHost"
+          },
+          {
+            "type": "link",
+            "label": "XamlUIService",
+            "href": "/react-native-windows/docs/next/native-api/XamlUIService",
+            "docId": "native-api/XamlUIService"
+          },
+          {
+            "type": "link",
+            "label": "Full reference",
+            "href": "/react-native-windows/docs/next/native-api/Native-API-Reference",
+            "docId": "native-api/Native-API-Reference"
+          },
+          {
+            "type": "link",
+            "label": "CoreApp",
+            "href": "/react-native-windows/docs/next/coreapp",
+            "docId": "coreapp"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "app-publishing": {
+      "id": "app-publishing",
+      "title": "Publishing a React Native Windows App to the Microsoft Store",
+      "description": "Steps to Publish a React Native Windows App to the Microsoft Store",
+      "sidebar": "docs"
+    },
+    "config": {
+      "id": "config",
+      "title": "React Native Config Schema",
+      "description": "The CLI command npx react-native config outputs project and dependencies configuration in JSON format to stdout.",
+      "sidebar": "docs"
+    },
+    "coreapp": {
+      "id": "coreapp",
+      "title": "CoreApp",
+      "description": "EXPERIMENTAL",
+      "sidebar": "apis"
+    },
+    "customizing-sdk-versions": {
+      "id": "customizing-sdk-versions",
+      "title": "Customizing SDK versions",
+      "description": "It is easy for an app to customize which versions of the Windows SDK and WinUI 2.x to use.",
+      "sidebar": "docs"
+    },
+    "flyout-component": {
+      "id": "flyout-component",
+      "title": "Flyout",
+      "description": "Props",
+      "sidebar": "apis"
+    },
+    "getting-started": {
+      "id": "getting-started",
+      "title": "Get Started with Windows",
+      "description": "This guide will help you get started on setting up your very first React Native for Windows app.",
+      "sidebar": "docs"
+    },
+    "glyph-component": {
+      "id": "glyph-component",
+      "title": "Glyph",
+      "description": "Props",
+      "sidebar": "apis"
+    },
+    "hermes": {
+      "id": "hermes",
+      "title": "Hermes on Windows + macOS",
+      "description": "The Hermes engine is an open source JavaScript engine created by Facebook to optimize building and running React Native applications.",
+      "sidebar": "docs"
+    },
+    "ikeyboardprops-api": {
+      "id": "ikeyboardprops-api",
+      "title": "IKeyboardProps",
+      "description": "When developing for a Windows device, the likelihood of you needing to support a rich keyboarding experience in your app is very high - this API allows you to customize and control how keyboarding works on your custom or native components.",
+      "sidebar": "apis"
+    },
+    "iviewwindowsprops-api": {
+      "id": "iviewwindowsprops-api",
+      "title": "IViewWindowsProps",
+      "description": "This extends the View Props and IKeyboardProps APIs.",
+      "sidebar": "apis"
+    },
+    "managing-cpp-deps": {
+      "id": "managing-cpp-deps",
+      "title": "Managing C++ dependencies",
+      "description": "Details to consider when consuming community modules or other Visual C++ projects.",
+      "sidebar": "docs"
+    },
+    "metro-config-out-tree-platforms": {
+      "id": "metro-config-out-tree-platforms",
+      "title": "Metro config for out of tree platforms",
+      "description": "How to setup and diagnose issues with metro config for react-native-macos and react-native-windows.  Many of the instructions within this document may refer just to react-native-windows, but the steps apply to react-native-macos in the same way.",
+      "sidebar": "docs"
+    },
+    "native-api/AccessibilityAction": {
+      "id": "native-api/AccessibilityAction",
+      "title": "AccessibilityAction",
+      "description": "Kind: struct"
+    },
+    "native-api/AccessibilityActionEventHandler": {
+      "id": "native-api/AccessibilityActionEventHandler",
+      "title": "AccessibilityActionEventHandler",
+      "description": "Kind: delegate"
+    },
+    "native-api/AccessibilityInvokeEventHandler": {
+      "id": "native-api/AccessibilityInvokeEventHandler",
+      "title": "AccessibilityInvokeEventHandler",
+      "description": "Kind: delegate"
+    },
+    "native-api/AccessibilityRoles": {
+      "id": "native-api/AccessibilityRoles",
+      "title": "AccessibilityRoles",
+      "description": "Kind: enum"
+    },
+    "native-api/AccessibilityStates": {
+      "id": "native-api/AccessibilityStates",
+      "title": "AccessibilityStates",
+      "description": "Kind: enum"
+    },
+    "native-api/AccessibilityValue": {
+      "id": "native-api/AccessibilityValue",
+      "title": "AccessibilityValue",
+      "description": "Kind: enum"
+    },
+    "native-api/apptheme-api": {
+      "id": "native-api/apptheme-api",
+      "title": "AppTheme",
+      "description": "This API previously allowed responding to light/dark mode, but this functionality was removed in favor of react-native's"
+    },
+    "native-api/BackNavigationHandlerKind": {
+      "id": "native-api/BackNavigationHandlerKind",
+      "title": "BackNavigationHandlerKind",
+      "description": "Kind: enum"
+    },
+    "native-api/BorderEffect": {
+      "id": "native-api/BorderEffect",
+      "title": "BorderEffect",
+      "description": "Kind: class"
+    },
+    "native-api/CanvasComposite": {
+      "id": "native-api/CanvasComposite",
+      "title": "CanvasComposite",
+      "description": "Kind: enum"
+    },
+    "native-api/CanvasEdgeBehavior": {
+      "id": "native-api/CanvasEdgeBehavior",
+      "title": "CanvasEdgeBehavior",
+      "description": "Kind: enum"
+    },
+    "native-api/ColorSourceEffect": {
+      "id": "native-api/ColorSourceEffect",
+      "title": "ColorSourceEffect",
+      "description": "Kind: class"
+    },
+    "native-api/CompositeStepEffect": {
+      "id": "native-api/CompositeStepEffect",
+      "title": "CompositeStepEffect",
+      "description": "Kind: class"
+    },
+    "native-api/ConstantProviderDelegate": {
+      "id": "native-api/ConstantProviderDelegate",
+      "title": "ConstantProviderDelegate",
+      "description": "Kind: delegate"
+    },
+    "native-api/CoreAppPage": {
+      "id": "native-api/CoreAppPage",
+      "title": "CoreAppPage",
+      "description": "Kind: class"
+    },
+    "native-api/DesktopWindowMessage": {
+      "id": "native-api/DesktopWindowMessage",
+      "title": "DesktopWindowMessage",
+      "description": "Kind: struct"
+    },
+    "native-api/DevMenuControl": {
+      "id": "native-api/DevMenuControl",
+      "title": "DevMenuControl",
+      "description": "Kind: class"
+    },
+    "native-api/DynamicAutomationPeer": {
+      "id": "native-api/DynamicAutomationPeer",
+      "title": "DynamicAutomationPeer",
+      "description": "Kind: class"
+    },
+    "native-api/DynamicAutomationProperties": {
+      "id": "native-api/DynamicAutomationProperties",
+      "title": "DynamicAutomationProperties",
+      "description": "Kind: class"
+    },
+    "native-api/DynamicValueProvider": {
+      "id": "native-api/DynamicValueProvider",
+      "title": "DynamicValueProvider",
+      "description": "Kind: class"
+    },
+    "native-api/EffectBorderMode": {
+      "id": "native-api/EffectBorderMode",
+      "title": "EffectBorderMode",
+      "description": "Kind: enum"
+    },
+    "native-api/EffectOptimization": {
+      "id": "native-api/EffectOptimization",
+      "title": "EffectOptimization",
+      "description": "Kind: enum"
+    },
+    "native-api/GaussianBlurEffect": {
+      "id": "native-api/GaussianBlurEffect",
+      "title": "GaussianBlurEffect",
+      "description": "Kind: class"
+    },
+    "native-api/IJsiByteBuffer": {
+      "id": "native-api/IJsiByteBuffer",
+      "title": "IJsiByteBuffer",
+      "description": "Kind: interface"
+    },
+    "native-api/IJsiHostObject": {
+      "id": "native-api/IJsiHostObject",
+      "title": "IJsiHostObject",
+      "description": "Kind: interface"
+    },
+    "native-api/IJSValueReader": {
+      "id": "native-api/IJSValueReader",
+      "title": "IJSValueReader",
+      "description": "Kind: interface",
+      "sidebar": "apis"
+    },
+    "native-api/IJSValueWriter": {
+      "id": "native-api/IJSValueWriter",
+      "title": "IJSValueWriter",
+      "description": "Kind: interface",
+      "sidebar": "apis"
+    },
+    "native-api/InitializerDelegate": {
+      "id": "native-api/InitializerDelegate",
+      "title": "InitializerDelegate",
+      "description": "Kind: delegate"
+    },
+    "native-api/InstanceCreatedEventArgs": {
+      "id": "native-api/InstanceCreatedEventArgs",
+      "title": "InstanceCreatedEventArgs",
+      "description": "Kind: class"
+    },
+    "native-api/InstanceDestroyedEventArgs": {
+      "id": "native-api/InstanceDestroyedEventArgs",
+      "title": "InstanceDestroyedEventArgs",
+      "description": "Kind: class"
+    },
+    "native-api/InstanceLoadedEventArgs": {
+      "id": "native-api/InstanceLoadedEventArgs",
+      "title": "InstanceLoadedEventArgs",
+      "description": "Kind: class"
+    },
+    "native-api/IReactContext": {
+      "id": "native-api/IReactContext",
+      "title": "IReactContext",
+      "description": "Kind: interface",
+      "sidebar": "apis"
+    },
+    "native-api/IReactDispatcher": {
+      "id": "native-api/IReactDispatcher",
+      "title": "IReactDispatcher",
+      "description": "Kind: interface",
+      "sidebar": "apis"
+    },
+    "native-api/IReactModuleBuilder": {
+      "id": "native-api/IReactModuleBuilder",
+      "title": "IReactModuleBuilder",
+      "description": "Kind: interface",
+      "sidebar": "apis"
+    },
+    "native-api/IReactNonAbiValue": {
+      "id": "native-api/IReactNonAbiValue",
+      "title": "IReactNonAbiValue",
+      "description": "Kind: interface",
+      "sidebar": "apis"
+    },
+    "native-api/IReactNotificationArgs": {
+      "id": "native-api/IReactNotificationArgs",
+      "title": "IReactNotificationArgs",
+      "description": "Kind: interface"
+    },
+    "native-api/IReactNotificationService": {
+      "id": "native-api/IReactNotificationService",
+      "title": "IReactNotificationService",
+      "description": "Kind: interface"
+    },
+    "native-api/IReactNotificationSubscription": {
+      "id": "native-api/IReactNotificationSubscription",
+      "title": "IReactNotificationSubscription",
+      "description": "Kind: interface"
+    },
+    "native-api/IReactPackageBuilder": {
+      "id": "native-api/IReactPackageBuilder",
+      "title": "IReactPackageBuilder",
+      "description": "Kind: interface",
+      "sidebar": "apis"
+    },
+    "native-api/IReactPackageBuilderExperimental": {
+      "id": "native-api/IReactPackageBuilderExperimental",
+      "title": "IReactPackageBuilderExperimental",
+      "description": "Kind: interface"
+    },
+    "native-api/IReactPackageProvider": {
+      "id": "native-api/IReactPackageProvider",
+      "title": "IReactPackageProvider",
+      "description": "Kind: interface",
+      "sidebar": "apis"
+    },
+    "native-api/IReactPropertyBag": {
+      "id": "native-api/IReactPropertyBag",
+      "title": "IReactPropertyBag",
+      "description": "Kind: interface",
+      "sidebar": "apis"
+    },
+    "native-api/IReactPropertyName": {
+      "id": "native-api/IReactPropertyName",
+      "title": "IReactPropertyName",
+      "description": "Kind: interface"
+    },
+    "native-api/IReactPropertyNamespace": {
+      "id": "native-api/IReactPropertyNamespace",
+      "title": "IReactPropertyNamespace",
+      "description": "Kind: interface"
+    },
+    "native-api/IReactRootViewExperimental": {
+      "id": "native-api/IReactRootViewExperimental",
+      "title": "IReactRootViewExperimental",
+      "description": "Kind: interface"
+    },
+    "native-api/IReactSettingsSnapshot": {
+      "id": "native-api/IReactSettingsSnapshot",
+      "title": "IReactSettingsSnapshot",
+      "description": "Kind: interface"
+    },
+    "native-api/IReactViewHost": {
+      "id": "native-api/IReactViewHost",
+      "title": "IReactViewHost",
+      "description": "Kind: interface"
+    },
+    "native-api/IReactViewInstance": {
+      "id": "native-api/IReactViewInstance",
+      "title": "IReactViewInstance",
+      "description": "Kind: interface"
+    },
+    "native-api/IRedBoxErrorFrameInfo": {
+      "id": "native-api/IRedBoxErrorFrameInfo",
+      "title": "IRedBoxErrorFrameInfo",
+      "description": "Kind: interface"
+    },
+    "native-api/IRedBoxErrorInfo": {
+      "id": "native-api/IRedBoxErrorInfo",
+      "title": "IRedBoxErrorInfo",
+      "description": "Kind: interface"
+    },
+    "native-api/IRedBoxHandler": {
+      "id": "native-api/IRedBoxHandler",
+      "title": "IRedBoxHandler",
+      "description": "Kind: interface",
+      "sidebar": "apis"
+    },
+    "native-api/IViewManager": {
+      "id": "native-api/IViewManager",
+      "title": "IViewManager",
+      "description": "Kind: interface",
+      "sidebar": "apis"
+    },
+    "native-api/IViewManagerCreateWithProperties": {
+      "id": "native-api/IViewManagerCreateWithProperties",
+      "title": "IViewManagerCreateWithProperties",
+      "description": "Kind: interface"
+    },
+    "native-api/IViewManagerRequiresNativeLayout": {
+      "id": "native-api/IViewManagerRequiresNativeLayout",
+      "title": "IViewManagerRequiresNativeLayout",
+      "description": "Kind: interface"
+    },
+    "native-api/IViewManagerWithChildren": {
+      "id": "native-api/IViewManagerWithChildren",
+      "title": "IViewManagerWithChildren",
+      "description": "Kind: interface"
+    },
+    "native-api/IViewManagerWithCommands": {
+      "id": "native-api/IViewManagerWithCommands",
+      "title": "IViewManagerWithCommands",
+      "description": "Kind: interface"
+    },
+    "native-api/IViewManagerWithDropViewInstance": {
+      "id": "native-api/IViewManagerWithDropViewInstance",
+      "title": "IViewManagerWithDropViewInstance",
+      "description": "Kind: interface"
+    },
+    "native-api/IViewManagerWithExportedEventTypeConstants": {
+      "id": "native-api/IViewManagerWithExportedEventTypeConstants",
+      "title": "IViewManagerWithExportedEventTypeConstants",
+      "description": "Kind: interface"
+    },
+    "native-api/IViewManagerWithExportedViewConstants": {
+      "id": "native-api/IViewManagerWithExportedViewConstants",
+      "title": "IViewManagerWithExportedViewConstants",
+      "description": "Kind: interface"
+    },
+    "native-api/IViewManagerWithNativeProperties": {
+      "id": "native-api/IViewManagerWithNativeProperties",
+      "title": "IViewManagerWithNativeProperties",
+      "description": "Kind: interface"
+    },
+    "native-api/IViewManagerWithOnLayout": {
+      "id": "native-api/IViewManagerWithOnLayout",
+      "title": "IViewManagerWithOnLayout",
+      "description": "Kind: interface"
+    },
+    "native-api/IViewManagerWithPointerEvents": {
+      "id": "native-api/IViewManagerWithPointerEvents",
+      "title": "IViewManagerWithPointerEvents",
+      "description": "Kind: interface"
+    },
+    "native-api/IViewManagerWithReactContext": {
+      "id": "native-api/IViewManagerWithReactContext",
+      "title": "IViewManagerWithReactContext",
+      "description": "Kind: interface"
+    },
+    "native-api/JsiBigIntRef": {
+      "id": "native-api/JsiBigIntRef",
+      "title": "JsiBigIntRef",
+      "description": "Kind: struct"
+    },
+    "native-api/JsiByteArrayUser": {
+      "id": "native-api/JsiByteArrayUser",
+      "title": "JsiByteArrayUser",
+      "description": "Kind: delegate"
+    },
+    "native-api/JSIEngine": {
+      "id": "native-api/JSIEngine",
+      "title": "JSIEngine",
+      "description": "Kind: enum"
+    },
+    "native-api/JsiError": {
+      "id": "native-api/JsiError",
+      "title": "JsiError",
+      "description": "Kind: class"
+    },
+    "native-api/JsiErrorType": {
+      "id": "native-api/JsiErrorType",
+      "title": "JsiErrorType",
+      "description": "Kind: enum"
+    },
+    "native-api/JsiHostFunction": {
+      "id": "native-api/JsiHostFunction",
+      "title": "JsiHostFunction",
+      "description": "Kind: delegate"
+    },
+    "native-api/JsiObjectRef": {
+      "id": "native-api/JsiObjectRef",
+      "title": "JsiObjectRef",
+      "description": "Kind: struct"
+    },
+    "native-api/JsiPreparedJavaScript": {
+      "id": "native-api/JsiPreparedJavaScript",
+      "title": "JsiPreparedJavaScript",
+      "description": "Kind: class"
+    },
+    "native-api/JsiPropertyIdRef": {
+      "id": "native-api/JsiPropertyIdRef",
+      "title": "JsiPropertyIdRef",
+      "description": "Kind: struct"
+    },
+    "native-api/JsiRuntime": {
+      "id": "native-api/JsiRuntime",
+      "title": "JsiRuntime",
+      "description": "Kind: class"
+    },
+    "native-api/JsiScopeState": {
+      "id": "native-api/JsiScopeState",
+      "title": "JsiScopeState",
+      "description": "Kind: struct"
+    },
+    "native-api/JsiStringRef": {
+      "id": "native-api/JsiStringRef",
+      "title": "JsiStringRef",
+      "description": "Kind: struct"
+    },
+    "native-api/JsiSymbolRef": {
+      "id": "native-api/JsiSymbolRef",
+      "title": "JsiSymbolRef",
+      "description": "Kind: struct"
+    },
+    "native-api/JsiValueKind": {
+      "id": "native-api/JsiValueKind",
+      "title": "JsiValueKind",
+      "description": "Kind: enum"
+    },
+    "native-api/JsiValueRef": {
+      "id": "native-api/JsiValueRef",
+      "title": "JsiValueRef",
+      "description": "Kind: struct"
+    },
+    "native-api/JsiWeakObjectRef": {
+      "id": "native-api/JsiWeakObjectRef",
+      "title": "JsiWeakObjectRef",
+      "description": "Kind: struct"
+    },
+    "native-api/JSValueArgWriter": {
+      "id": "native-api/JSValueArgWriter",
+      "title": "JSValueArgWriter",
+      "description": "Kind: delegate"
+    },
+    "native-api/JSValueType": {
+      "id": "native-api/JSValueType",
+      "title": "JSValueType",
+      "description": "Kind: enum"
+    },
+    "native-api/LayoutService": {
+      "id": "native-api/LayoutService",
+      "title": "LayoutService",
+      "description": "Kind: class"
+    },
+    "native-api/LoadingState": {
+      "id": "native-api/LoadingState",
+      "title": "LoadingState",
+      "description": "Kind: enum"
+    },
+    "native-api/LogHandler": {
+      "id": "native-api/LogHandler",
+      "title": "LogHandler",
+      "description": "Kind: delegate"
+    },
+    "native-api/LogLevel": {
+      "id": "native-api/LogLevel",
+      "title": "LogLevel",
+      "description": "Kind: enum"
+    },
+    "native-api/MethodDelegate": {
+      "id": "native-api/MethodDelegate",
+      "title": "MethodDelegate",
+      "description": "Kind: delegate"
+    },
+    "native-api/MethodResultCallback": {
+      "id": "native-api/MethodResultCallback",
+      "title": "MethodResultCallback",
+      "description": "Kind: delegate"
+    },
+    "native-api/MethodReturnType": {
+      "id": "native-api/MethodReturnType",
+      "title": "MethodReturnType",
+      "description": "Kind: enum"
+    },
+    "native-api/Native-API-Reference": {
+      "id": "native-api/Native-API-Reference",
+      "title": "namespace Microsoft.ReactNative",
+      "description": "Enums",
+      "sidebar": "apis"
+    },
+    "native-api/PointerEventKind": {
+      "id": "native-api/PointerEventKind",
+      "title": "PointerEventKind",
+      "description": "Kind: enum"
+    },
+    "native-api/QuirkSettings": {
+      "id": "native-api/QuirkSettings",
+      "title": "QuirkSettings",
+      "description": "Kind: class"
+    },
+    "native-api/ReactApplication": {
+      "id": "native-api/ReactApplication",
+      "title": "ReactApplication",
+      "description": "Kind: class",
+      "sidebar": "apis"
+    },
+    "native-api/ReactCoreInjection": {
+      "id": "native-api/ReactCoreInjection",
+      "title": "ReactCoreInjection",
+      "description": "Kind: class"
+    },
+    "native-api/ReactCreatePropertyValue": {
+      "id": "native-api/ReactCreatePropertyValue",
+      "title": "ReactCreatePropertyValue",
+      "description": "Kind: delegate"
+    },
+    "native-api/ReactDispatcherCallback": {
+      "id": "native-api/ReactDispatcherCallback",
+      "title": "ReactDispatcherCallback",
+      "description": "Kind: delegate"
+    },
+    "native-api/ReactDispatcherHelper": {
+      "id": "native-api/ReactDispatcherHelper",
+      "title": "ReactDispatcherHelper",
+      "description": "Kind: class"
+    },
+    "native-api/ReactInstanceSettings": {
+      "id": "native-api/ReactInstanceSettings",
+      "title": "ReactInstanceSettings",
+      "description": "Kind: class",
+      "sidebar": "apis"
+    },
+    "native-api/ReactModuleProvider": {
+      "id": "native-api/ReactModuleProvider",
+      "title": "ReactModuleProvider",
+      "description": "Kind: delegate"
+    },
+    "native-api/ReactNativeHost": {
+      "id": "native-api/ReactNativeHost",
+      "title": "ReactNativeHost",
+      "description": "Kind: class",
+      "sidebar": "apis"
+    },
+    "native-api/ReactNotificationHandler": {
+      "id": "native-api/ReactNotificationHandler",
+      "title": "ReactNotificationHandler",
+      "description": "Kind: delegate"
+    },
+    "native-api/ReactNotificationServiceHelper": {
+      "id": "native-api/ReactNotificationServiceHelper",
+      "title": "ReactNotificationServiceHelper",
+      "description": "Kind: class"
+    },
+    "native-api/ReactPointerEventArgs": {
+      "id": "native-api/ReactPointerEventArgs",
+      "title": "ReactPointerEventArgs",
+      "description": "Kind: class"
+    },
+    "native-api/ReactPropertyBagHelper": {
+      "id": "native-api/ReactPropertyBagHelper",
+      "title": "ReactPropertyBagHelper",
+      "description": "Kind: class"
+    },
+    "native-api/ReactRootView": {
+      "id": "native-api/ReactRootView",
+      "title": "ReactRootView",
+      "description": "Kind: class"
+    },
+    "native-api/ReactViewManagerProvider": {
+      "id": "native-api/ReactViewManagerProvider",
+      "title": "ReactViewManagerProvider",
+      "description": "Kind: delegate"
+    },
+    "native-api/ReactViewOptions": {
+      "id": "native-api/ReactViewOptions",
+      "title": "ReactViewOptions",
+      "description": "Kind: class"
+    },
+    "native-api/RedBoxErrorType": {
+      "id": "native-api/RedBoxErrorType",
+      "title": "RedBoxErrorType",
+      "description": "Kind: enum"
+    },
+    "native-api/RedBoxHelper": {
+      "id": "native-api/RedBoxHelper",
+      "title": "RedBoxHelper",
+      "description": "Kind: class"
+    },
+    "native-api/SyncMethodDelegate": {
+      "id": "native-api/SyncMethodDelegate",
+      "title": "SyncMethodDelegate",
+      "description": "Kind: delegate"
+    },
+    "native-api/UIBatchCompleteCallback": {
+      "id": "native-api/UIBatchCompleteCallback",
+      "title": "UIBatchCompleteCallback",
+      "description": "Kind: delegate"
+    },
+    "native-api/ViewControl": {
+      "id": "native-api/ViewControl",
+      "title": "ViewControl",
+      "description": "Kind: class"
+    },
+    "native-api/ViewManagerPropertyType": {
+      "id": "native-api/ViewManagerPropertyType",
+      "title": "ViewManagerPropertyType",
+      "description": "Kind: enum"
+    },
+    "native-api/ViewPanel": {
+      "id": "native-api/ViewPanel",
+      "title": "ViewPanel",
+      "description": "Kind: class"
+    },
+    "native-api/XamlHelper": {
+      "id": "native-api/XamlHelper",
+      "title": "XamlHelper",
+      "description": "Kind: class"
+    },
+    "native-api/XamlMetaDataProvider": {
+      "id": "native-api/XamlMetaDataProvider",
+      "title": "XamlMetaDataProvider",
+      "description": "Kind: class"
+    },
+    "native-api/XamlUIService": {
+      "id": "native-api/XamlUIService",
+      "title": "XamlUIService",
+      "description": "Kind: class",
+      "sidebar": "apis"
+    },
+    "native-code": {
+      "id": "native-code",
+      "title": "Working with native code on Windows",
+      "description": "What is a React Native for Windows app?",
+      "sidebar": "docs"
+    },
+    "native-code-language-choice": {
+      "id": "native-code-language-choice",
+      "title": "Choosing C++ or C# for native code",
+      "description": "React Native for Windows supports writing native code in both C++ and C#, but there are trade-offs with each language. The choice of language can impact the compatibility, developer experience, and performance of your project. So whether you're building an app or native module, you should choose the native language that best meets your requirements.",
+      "sidebar": "docs"
+    },
+    "native-modules": {
+      "id": "native-modules",
+      "title": "Native Modules",
+      "description": "This documentation and the underlying platform code is a work in progress.",
+      "sidebar": "docs"
+    },
+    "native-modules-advanced": {
+      "id": "native-modules-advanced",
+      "title": "Native Modules (Advanced)",
+      "description": "This documentation and the underlying platform code is a work in progress.",
+      "sidebar": "docs"
+    },
+    "native-modules-async": {
+      "id": "native-modules-async",
+      "title": "Using Asynchronous Windows APIs",
+      "description": "This documentation and the underlying platform code is a work in progress.",
+      "sidebar": "docs"
+    },
+    "native-modules-autolinking": {
+      "id": "native-modules-autolinking",
+      "title": "Autolinking Native Modules",
+      "description": "Autolinking is a mechanism that allows your React Native app project to discover and use native modules and view managers provided by React Native libraries.",
+      "sidebar": "docs"
+    },
+    "native-modules-csharp-codegen": {
+      "id": "native-modules-csharp-codegen",
+      "title": "Compile time code generation for C#",
+      "description": "This documentation and the underlying platform code is a work in progress.",
+      "sidebar": "docs"
+    },
+    "native-modules-jsvalue": {
+      "id": "native-modules-jsvalue",
+      "title": "Using JSValue",
+      "description": "This documentation and the underlying platform code is a work in progress.",
+      "sidebar": "docs"
+    },
+    "native-modules-marshalling-data": {
+      "id": "native-modules-marshalling-data",
+      "title": "Marshaling Data",
+      "description": "This documentation and the underlying platform code is a work in progress.",
+      "sidebar": "docs"
+    },
+    "native-modules-setup": {
+      "id": "native-modules-setup",
+      "title": "Native Module Setup",
+      "description": "This documentation is a work in progress and version-specific. Please check that the version of this document (top of page) matches the version of RN/RNW you're targeting.",
+      "sidebar": "docs"
+    },
+    "native-modules-troubleshooting": {
+      "id": "native-modules-troubleshooting",
+      "title": "Troubleshooting Native Modules",
+      "description": "So you added a new native module or a new method to a module but it isn't working, now what?!",
+      "sidebar": "docs"
+    },
+    "native-modules-using": {
+      "id": "native-modules-using",
+      "title": "Using Community Native Modules",
+      "description": "Community native modules are usually distributed as npm packages. To understand more about npm packages you may find this guide useful.",
+      "sidebar": "docs"
+    },
+    "native-modules-vs-turbo-modules": {
+      "id": "native-modules-vs-turbo-modules",
+      "title": "Native Modules vs Turbo Modules",
+      "description": "If you've worked with React Native, you may be familiar with the concept of Native Modules, which allow JavaScript and platform-native code to communicate over the React Native \"bridge\", which handles cross-platform serialization via JSON.",
+      "sidebar": "docs"
+    },
+    "NuGet": {
+      "id": "NuGet",
+      "title": "Using react-native-windows NuGet packages",
+      "description": "This documentation and the underlying platform code is a work in progress.",
+      "sidebar": "docs"
+    },
+    "nuget-update": {
+      "id": "nuget-update",
+      "title": "Updating NuGet packages",
+      "description": "This documentation and the underlying platform code is a work in progress.",
+      "sidebar": "docs"
+    },
+    "parity-status": {
+      "id": "parity-status",
+      "title": "React Native Windows Components and APIs",
+      "description": "Core APIs and Components",
+      "sidebar": "docs"
+    },
+    "platform": {
+      "id": "platform",
+      "title": "Platform Detection",
+      "description": "When building cross-platform applications, you will sometimes need to dynamically detect the platform your code is running on. React Native for Windows supports the same platform detection mechanisms as Android and iOS. React Native for Windows reports a Platform.OS of windows, and uses the .windows platform-specific extension.",
+      "sidebar": "docs"
+    },
+    "popup-component": {
+      "id": "popup-component",
+      "title": "Popup",
+      "description": "Props",
+      "sidebar": "apis"
+    },
+    "releases": {
+      "id": "releases",
+      "title": "Release Strategy",
+      "description": "For every major version update of react-native, React Native for Windows releases a matching version. In addition, there are three release distributions with corresponding npm package distribution tags:",
+      "sidebar": "docs"
+    },
+    "rnm-dependencies": {
+      "id": "rnm-dependencies",
+      "title": "System Requirements",
+      "description": "You can run React Native for macOS apps on Mac devices with versions High Sierra (10.13) or newer.",
+      "sidebar": "docs"
+    },
+    "rnm-getting-started": {
+      "id": "rnm-getting-started",
+      "title": "Get Started with macOS",
+      "description": "This guide will help you get started on setting up your very first React Native for macOS app.",
+      "sidebar": "docs"
+    },
+    "rnw-dependencies": {
+      "id": "rnw-dependencies",
+      "title": "System Requirements",
+      "description": "You can run React Native for Windows apps only on:",
+      "sidebar": "docs"
+    },
+    "run-windows-cli": {
+      "id": "run-windows-cli",
+      "title": "React Native Windows CLI",
+      "description": "This guide will give you more information on the React Native Windows CLI.",
+      "sidebar": "docs"
+    },
+    "setup-ci": {
+      "id": "setup-ci",
+      "title": "Setup Continuous Integration Pipeline for an RNW App",
+      "description": "This guide will help you get started on setting up your very first continuous integration pipeline for a React Native for Windows app.",
+      "sidebar": "docs"
+    },
+    "supported-community-modules": {
+      "id": "supported-community-modules",
+      "title": "Supported Community Modules",
+      "description": "ReactNative.Directory",
+      "sidebar": "docs"
+    },
+    "upgrade-app": {
+      "id": "upgrade-app",
+      "title": "Upgrading App to Latest Version of React Native Windows",
+      "description": "Upgrading A React Native Windows App",
+      "sidebar": "docs"
+    },
+    "view-managers": {
+      "id": "view-managers",
+      "title": "Native UI Components",
+      "description": "This documentation and the underlying platform code is a work in progress.",
+      "sidebar": "docs"
+    },
+    "win10-compat": {
+      "id": "win10-compat",
+      "title": "Backward compatibility with Windows versions",
+      "description": "React Native for Windows supports devices running on Windows 10 and higher."
+    },
+    "win10-vm": {
+      "id": "win10-vm",
+      "title": "Developing Windows apps on a non-Windows PC",
+      "description": "It is possible to develop Windows apps on a non-Windows PC by using a virtual machine. The virtual machine can run either locally or on Azure.",
+      "sidebar": "docs"
+    },
+    "windowsbrush-and-theme": {
+      "id": "windowsbrush-and-theme",
+      "title": "Using PlatformColor and Responding to Themes",
+      "description": "Overview",
+      "sidebar": "docs"
+    },
+    "winui3": {
+      "id": "winui3",
+      "title": "WinUI 3",
+      "description": "WinUI is the modern native UI platform of Windows. For more information about WinUI 3 see this link.",
+      "sidebar": "docs"
+    }
+  }
+}

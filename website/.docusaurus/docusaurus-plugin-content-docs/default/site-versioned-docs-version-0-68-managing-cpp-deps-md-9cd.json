@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.68-managing-cpp-deps",
+  "id": "version-0.68/version-0.68-managing-cpp-deps",
+  "title": "Managing C++ dependencies",
+  "description": "Details to consider when consuming community modules or other Visual C++ projects.",
+  "source": "@site/versioned_docs/version-0.68/managing-cpp-deps.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.68-managing-cpp-deps",
+  "permalink": "/react-native-windows/docs/0.68/version-0.68-managing-cpp-deps",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.68/managing-cpp-deps.md",
+  "tags": [],
+  "version": "0.68",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.68-managing-cpp-deps",
+    "title": "Managing C++ dependencies",
+    "original_id": "managing-cpp-deps"
+  }
+}

@@ -1,0 +1,668 @@
+{
+  "pluginId": "default",
+  "version": "0.64",
+  "label": "0.64",
+  "banner": "unmaintained",
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-0.64",
+  "isLast": false,
+  "docsSidebars": {},
+  "docs": {
+    "version-0.64-AccessibilityAction": {
+      "id": "version-0.64-AccessibilityAction",
+      "title": "AccessibilityAction",
+      "description": "Kind: struct"
+    },
+    "version-0.64-AccessibilityActionEventHandler": {
+      "id": "version-0.64-AccessibilityActionEventHandler",
+      "title": "AccessibilityActionEventHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-AccessibilityInvokeEventHandler": {
+      "id": "version-0.64-AccessibilityInvokeEventHandler",
+      "title": "AccessibilityInvokeEventHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-AccessibilityRoles": {
+      "id": "version-0.64-AccessibilityRoles",
+      "title": "AccessibilityRoles",
+      "description": "Kind: enum"
+    },
+    "version-0.64-AccessibilityStates": {
+      "id": "version-0.64-AccessibilityStates",
+      "title": "AccessibilityStates",
+      "description": "Kind: enum"
+    },
+    "version-0.64-AccessibilityValue": {
+      "id": "version-0.64-AccessibilityValue",
+      "title": "AccessibilityValue",
+      "description": "Kind: enum"
+    },
+    "version-0.64-apptheme-api": {
+      "id": "version-0.64-apptheme-api",
+      "title": "AppTheme",
+      "description": "This API name is deprecated.  Use react-native's `Appearance` API instead."
+    },
+    "version-0.64-BorderEffect": {
+      "id": "version-0.64-BorderEffect",
+      "title": "BorderEffect",
+      "description": "Kind: class"
+    },
+    "version-0.64-building-rnw": {
+      "id": "version-0.64-building-rnw",
+      "title": "Building React-Native-Windows",
+      "description": "- Make sure you have installed all of the development dependencies"
+    },
+    "version-0.64-CanvasComposite": {
+      "id": "version-0.64-CanvasComposite",
+      "title": "CanvasComposite",
+      "description": "Kind: enum"
+    },
+    "version-0.64-CanvasEdgeBehavior": {
+      "id": "version-0.64-CanvasEdgeBehavior",
+      "title": "CanvasEdgeBehavior",
+      "description": "Kind: enum"
+    },
+    "version-0.64-ColorSourceEffect": {
+      "id": "version-0.64-ColorSourceEffect",
+      "title": "ColorSourceEffect",
+      "description": "Kind: class"
+    },
+    "version-0.64-CompositeStepEffect": {
+      "id": "version-0.64-CompositeStepEffect",
+      "title": "CompositeStepEffect",
+      "description": "Kind: class"
+    },
+    "version-0.64-config": {
+      "id": "version-0.64-config",
+      "title": "React Native Config Schema",
+      "description": "The CLI command npx react-native config outputs project and dependencies configuration in JSON format to stdout."
+    },
+    "version-0.64-ConstantProviderDelegate": {
+      "id": "version-0.64-ConstantProviderDelegate",
+      "title": "ConstantProviderDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-customizing-sdk-versions": {
+      "id": "version-0.64-customizing-sdk-versions",
+      "title": "Customizing SDK versions",
+      "description": "In React Native for Windows 0.64.3, we have made it easier for an app to customize which versions of the Windows SDK and WinUI 2.x to use."
+    },
+    "version-0.64-DevMenuControl": {
+      "id": "version-0.64-DevMenuControl",
+      "title": "DevMenuControl",
+      "description": "Kind: class"
+    },
+    "version-0.64-DynamicAutomationPeer": {
+      "id": "version-0.64-DynamicAutomationPeer",
+      "title": "DynamicAutomationPeer",
+      "description": "Kind: class"
+    },
+    "version-0.64-DynamicAutomationProperties": {
+      "id": "version-0.64-DynamicAutomationProperties",
+      "title": "DynamicAutomationProperties",
+      "description": "Kind: class"
+    },
+    "version-0.64-DynamicValueProvider": {
+      "id": "version-0.64-DynamicValueProvider",
+      "title": "DynamicValueProvider",
+      "description": "Kind: class"
+    },
+    "version-0.64-EffectBorderMode": {
+      "id": "version-0.64-EffectBorderMode",
+      "title": "EffectBorderMode",
+      "description": "Kind: enum"
+    },
+    "version-0.64-EffectOptimization": {
+      "id": "version-0.64-EffectOptimization",
+      "title": "EffectOptimization",
+      "description": "Kind: enum"
+    },
+    "version-0.64-flyout-component": {
+      "id": "version-0.64-flyout-component",
+      "title": "Flyout",
+      "description": "Props"
+    },
+    "version-0.64-GaussianBlurEffect": {
+      "id": "version-0.64-GaussianBlurEffect",
+      "title": "GaussianBlurEffect",
+      "description": "Kind: class"
+    },
+    "version-0.64-getting-started": {
+      "id": "version-0.64-getting-started",
+      "title": "Get Started with Windows",
+      "description": "This guide will help you get started on setting up your very first React Native for Windows app."
+    },
+    "version-0.64-glyph-component": {
+      "id": "version-0.64-glyph-component",
+      "title": "Glyph",
+      "description": "Props"
+    },
+    "version-0.64-hermes": {
+      "id": "version-0.64-hermes",
+      "title": "Hermes on Windows + macOS",
+      "description": "The Hermes engine is an open source JavaScript engine created by Facebook to optimize building and running React Native applications."
+    },
+    "version-0.64-IJsiByteBuffer": {
+      "id": "version-0.64-IJsiByteBuffer",
+      "title": "IJsiByteBuffer",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IJsiHostObject": {
+      "id": "version-0.64-IJsiHostObject",
+      "title": "IJsiHostObject",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IJSValueReader": {
+      "id": "version-0.64-IJSValueReader",
+      "title": "IJSValueReader",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IJSValueWriter": {
+      "id": "version-0.64-IJSValueWriter",
+      "title": "IJSValueWriter",
+      "description": "Kind: interface"
+    },
+    "version-0.64-ikeyboardprops-api": {
+      "id": "version-0.64-ikeyboardprops-api",
+      "title": "IKeyboardProps",
+      "description": "When developing for a Windows device, the likelihood of you needing to support a rich keyboarding experience in your app is very high - this API allows you to customize and control how keyboarding works on your custom or native components."
+    },
+    "version-0.64-InitializerDelegate": {
+      "id": "version-0.64-InitializerDelegate",
+      "title": "InitializerDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-InstanceCreatedEventArgs": {
+      "id": "version-0.64-InstanceCreatedEventArgs",
+      "title": "InstanceCreatedEventArgs",
+      "description": "Kind: class"
+    },
+    "version-0.64-InstanceDestroyedEventArgs": {
+      "id": "version-0.64-InstanceDestroyedEventArgs",
+      "title": "InstanceDestroyedEventArgs",
+      "description": "Kind: class"
+    },
+    "version-0.64-InstanceLoadedEventArgs": {
+      "id": "version-0.64-InstanceLoadedEventArgs",
+      "title": "InstanceLoadedEventArgs",
+      "description": "Kind: class"
+    },
+    "version-0.64-IReactContext": {
+      "id": "version-0.64-IReactContext",
+      "title": "IReactContext",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactDispatcher": {
+      "id": "version-0.64-IReactDispatcher",
+      "title": "IReactDispatcher",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactModuleBuilder": {
+      "id": "version-0.64-IReactModuleBuilder",
+      "title": "IReactModuleBuilder",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactNonAbiValue": {
+      "id": "version-0.64-IReactNonAbiValue",
+      "title": "IReactNonAbiValue",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactNotificationArgs": {
+      "id": "version-0.64-IReactNotificationArgs",
+      "title": "IReactNotificationArgs",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactNotificationService": {
+      "id": "version-0.64-IReactNotificationService",
+      "title": "IReactNotificationService",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactNotificationSubscription": {
+      "id": "version-0.64-IReactNotificationSubscription",
+      "title": "IReactNotificationSubscription",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactPackageBuilder": {
+      "id": "version-0.64-IReactPackageBuilder",
+      "title": "IReactPackageBuilder",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactPackageBuilderExperimental": {
+      "id": "version-0.64-IReactPackageBuilderExperimental",
+      "title": "IReactPackageBuilderExperimental",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactPackageProvider": {
+      "id": "version-0.64-IReactPackageProvider",
+      "title": "IReactPackageProvider",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactPropertyBag": {
+      "id": "version-0.64-IReactPropertyBag",
+      "title": "IReactPropertyBag",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactPropertyName": {
+      "id": "version-0.64-IReactPropertyName",
+      "title": "IReactPropertyName",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactPropertyNamespace": {
+      "id": "version-0.64-IReactPropertyNamespace",
+      "title": "IReactPropertyNamespace",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IReactSettingsSnapshot": {
+      "id": "version-0.64-IReactSettingsSnapshot",
+      "title": "IReactSettingsSnapshot",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IRedBoxErrorFrameInfo": {
+      "id": "version-0.64-IRedBoxErrorFrameInfo",
+      "title": "IRedBoxErrorFrameInfo",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IRedBoxErrorInfo": {
+      "id": "version-0.64-IRedBoxErrorInfo",
+      "title": "IRedBoxErrorInfo",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IRedBoxHandler": {
+      "id": "version-0.64-IRedBoxHandler",
+      "title": "IRedBoxHandler",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IViewManager": {
+      "id": "version-0.64-IViewManager",
+      "title": "IViewManager",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IViewManagerCreateWithProperties": {
+      "id": "version-0.64-IViewManagerCreateWithProperties",
+      "title": "IViewManagerCreateWithProperties",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IViewManagerRequiresNativeLayout": {
+      "id": "version-0.64-IViewManagerRequiresNativeLayout",
+      "title": "IViewManagerRequiresNativeLayout",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IViewManagerWithChildren": {
+      "id": "version-0.64-IViewManagerWithChildren",
+      "title": "IViewManagerWithChildren",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IViewManagerWithCommands": {
+      "id": "version-0.64-IViewManagerWithCommands",
+      "title": "IViewManagerWithCommands",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IViewManagerWithExportedEventTypeConstants": {
+      "id": "version-0.64-IViewManagerWithExportedEventTypeConstants",
+      "title": "IViewManagerWithExportedEventTypeConstants",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IViewManagerWithExportedViewConstants": {
+      "id": "version-0.64-IViewManagerWithExportedViewConstants",
+      "title": "IViewManagerWithExportedViewConstants",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IViewManagerWithNativeProperties": {
+      "id": "version-0.64-IViewManagerWithNativeProperties",
+      "title": "IViewManagerWithNativeProperties",
+      "description": "Kind: interface"
+    },
+    "version-0.64-IViewManagerWithReactContext": {
+      "id": "version-0.64-IViewManagerWithReactContext",
+      "title": "IViewManagerWithReactContext",
+      "description": "Kind: interface"
+    },
+    "version-0.64-iviewwindowsprops-api": {
+      "id": "version-0.64-iviewwindowsprops-api",
+      "title": "IViewWindowsProps",
+      "description": "This extends the View Props and IKeyboardProps APIs."
+    },
+    "version-0.64-JsiByteArrayUser": {
+      "id": "version-0.64-JsiByteArrayUser",
+      "title": "JsiByteArrayUser",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-JSIEngine": {
+      "id": "version-0.64-JSIEngine",
+      "title": "JSIEngine",
+      "description": "Kind: enum"
+    },
+    "version-0.64-JsiError": {
+      "id": "version-0.64-JsiError",
+      "title": "JsiError",
+      "description": "Kind: class"
+    },
+    "version-0.64-JsiErrorType": {
+      "id": "version-0.64-JsiErrorType",
+      "title": "JsiErrorType",
+      "description": "Kind: enum"
+    },
+    "version-0.64-JsiHostFunction": {
+      "id": "version-0.64-JsiHostFunction",
+      "title": "JsiHostFunction",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-JsiObjectRef": {
+      "id": "version-0.64-JsiObjectRef",
+      "title": "JsiObjectRef",
+      "description": "Kind: struct"
+    },
+    "version-0.64-JsiPreparedJavaScript": {
+      "id": "version-0.64-JsiPreparedJavaScript",
+      "title": "JsiPreparedJavaScript",
+      "description": "Kind: class"
+    },
+    "version-0.64-JsiPropertyIdRef": {
+      "id": "version-0.64-JsiPropertyIdRef",
+      "title": "JsiPropertyIdRef",
+      "description": "Kind: struct"
+    },
+    "version-0.64-JsiRuntime": {
+      "id": "version-0.64-JsiRuntime",
+      "title": "JsiRuntime",
+      "description": "Kind: class"
+    },
+    "version-0.64-JsiScopeState": {
+      "id": "version-0.64-JsiScopeState",
+      "title": "JsiScopeState",
+      "description": "Kind: struct"
+    },
+    "version-0.64-JsiStringRef": {
+      "id": "version-0.64-JsiStringRef",
+      "title": "JsiStringRef",
+      "description": "Kind: struct"
+    },
+    "version-0.64-JsiSymbolRef": {
+      "id": "version-0.64-JsiSymbolRef",
+      "title": "JsiSymbolRef",
+      "description": "Kind: struct"
+    },
+    "version-0.64-JsiValueKind": {
+      "id": "version-0.64-JsiValueKind",
+      "title": "JsiValueKind",
+      "description": "Kind: enum"
+    },
+    "version-0.64-JsiValueRef": {
+      "id": "version-0.64-JsiValueRef",
+      "title": "JsiValueRef",
+      "description": "Kind: struct"
+    },
+    "version-0.64-JsiWeakObjectRef": {
+      "id": "version-0.64-JsiWeakObjectRef",
+      "title": "JsiWeakObjectRef",
+      "description": "Kind: struct"
+    },
+    "version-0.64-JSValueArgWriter": {
+      "id": "version-0.64-JSValueArgWriter",
+      "title": "JSValueArgWriter",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-JSValueType": {
+      "id": "version-0.64-JSValueType",
+      "title": "JSValueType",
+      "description": "Kind: enum"
+    },
+    "version-0.64-MethodDelegate": {
+      "id": "version-0.64-MethodDelegate",
+      "title": "MethodDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-MethodResultCallback": {
+      "id": "version-0.64-MethodResultCallback",
+      "title": "MethodResultCallback",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-MethodReturnType": {
+      "id": "version-0.64-MethodReturnType",
+      "title": "MethodReturnType",
+      "description": "Kind: enum"
+    },
+    "version-0.64-metro-config-out-tree-platforms": {
+      "id": "version-0.64-metro-config-out-tree-platforms",
+      "title": "Metro config for out of tree platforms",
+      "description": "How to setup and diagnose issues with metro config for react-native-macos and react-native-windows.  Many of the instructions within this document may refer just to react-native-windows, but the steps apply to react-native-macos in the same way."
+    },
+    "version-0.64-Native-API-Reference": {
+      "id": "version-0.64-Native-API-Reference",
+      "title": "namespace Microsoft.ReactNative",
+      "description": "Enums"
+    },
+    "version-0.64-native-modules": {
+      "id": "version-0.64-native-modules",
+      "title": "Native Modules",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.64-native-modules-advanced": {
+      "id": "version-0.64-native-modules-advanced",
+      "title": "Native Modules (Advanced)",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.64-native-modules-autolinking": {
+      "id": "version-0.64-native-modules-autolinking",
+      "title": "Autolinking Native Modules",
+      "description": "Autolinking is a mechanism that allows your React Native app project to discover and use native modules and view managers provided by React Native libraries."
+    },
+    "version-0.64-native-modules-csharp-codegen": {
+      "id": "version-0.64-native-modules-csharp-codegen",
+      "title": "Compile time code generation for C#",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.64-native-modules-jsvalue": {
+      "id": "version-0.64-native-modules-jsvalue",
+      "title": "Using JSValue",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.64-native-modules-marshalling-data": {
+      "id": "version-0.64-native-modules-marshalling-data",
+      "title": "Marshaling Data",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.64-native-modules-setup": {
+      "id": "version-0.64-native-modules-setup",
+      "title": "Native Module Setup",
+      "description": "This documentation is a work in progress and version-specific. Please check that the version of this document (top of page) matches the version of RN/RNW you're targeting."
+    },
+    "version-0.64-native-modules-troubleshooting": {
+      "id": "version-0.64-native-modules-troubleshooting",
+      "title": "Troubleshooting Native Modules",
+      "description": "So you added a new native module or a new method to a module but it isn't working, now what?!"
+    },
+    "version-0.64-native-modules-using": {
+      "id": "version-0.64-native-modules-using",
+      "title": "Using Community Native Modules",
+      "description": "Community native modules are usually distributed as npm packages. To understand more about npm packages you may find this guide useful."
+    },
+    "version-0.64-NuGet": {
+      "id": "version-0.64-NuGet",
+      "title": "Using react-native-windows NuGet packages",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.64-nuget-update": {
+      "id": "version-0.64-nuget-update",
+      "title": "Updating NuGet packages",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.64-parity-status": {
+      "id": "version-0.64-parity-status",
+      "title": "API Parity",
+      "description": "Core APIs and Components"
+    },
+    "version-0.64-platform": {
+      "id": "version-0.64-platform",
+      "title": "Platform Detection",
+      "description": "When building cross-platform applications, you will sometimes need to dynamically detect the platform your code is running on. React Native for Windows supports the same platform detection mechanisms as Android and iOS. React Native for Windows reports a Platform.OS of windows, and uses the .windows platform-specific extension."
+    },
+    "version-0.64-popup-component": {
+      "id": "version-0.64-popup-component",
+      "title": "Popup",
+      "description": "Props"
+    },
+    "version-0.64-QuirkSettings": {
+      "id": "version-0.64-QuirkSettings",
+      "title": "QuirkSettings",
+      "description": "Kind: class"
+    },
+    "version-0.64-ReactApplication": {
+      "id": "version-0.64-ReactApplication",
+      "title": "ReactApplication",
+      "description": "Kind: class"
+    },
+    "version-0.64-ReactCreatePropertyValue": {
+      "id": "version-0.64-ReactCreatePropertyValue",
+      "title": "ReactCreatePropertyValue",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-ReactDispatcherCallback": {
+      "id": "version-0.64-ReactDispatcherCallback",
+      "title": "ReactDispatcherCallback",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-ReactDispatcherHelper": {
+      "id": "version-0.64-ReactDispatcherHelper",
+      "title": "ReactDispatcherHelper",
+      "description": "Kind: class"
+    },
+    "version-0.64-ReactInstanceSettings": {
+      "id": "version-0.64-ReactInstanceSettings",
+      "title": "ReactInstanceSettings",
+      "description": "Kind: class"
+    },
+    "version-0.64-ReactModuleProvider": {
+      "id": "version-0.64-ReactModuleProvider",
+      "title": "ReactModuleProvider",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-ReactNativeHost": {
+      "id": "version-0.64-ReactNativeHost",
+      "title": "ReactNativeHost",
+      "description": "Kind: class"
+    },
+    "version-0.64-ReactNotificationHandler": {
+      "id": "version-0.64-ReactNotificationHandler",
+      "title": "ReactNotificationHandler",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-ReactNotificationServiceHelper": {
+      "id": "version-0.64-ReactNotificationServiceHelper",
+      "title": "ReactNotificationServiceHelper",
+      "description": "Kind: class"
+    },
+    "version-0.64-ReactPropertyBagHelper": {
+      "id": "version-0.64-ReactPropertyBagHelper",
+      "title": "ReactPropertyBagHelper",
+      "description": "Kind: class"
+    },
+    "version-0.64-ReactRootView": {
+      "id": "version-0.64-ReactRootView",
+      "title": "ReactRootView",
+      "description": "Kind: class"
+    },
+    "version-0.64-ReactViewManagerProvider": {
+      "id": "version-0.64-ReactViewManagerProvider",
+      "title": "ReactViewManagerProvider",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-RedBoxErrorType": {
+      "id": "version-0.64-RedBoxErrorType",
+      "title": "RedBoxErrorType",
+      "description": "Kind: enum"
+    },
+    "version-0.64-RedBoxHelper": {
+      "id": "version-0.64-RedBoxHelper",
+      "title": "RedBoxHelper",
+      "description": "Kind: class"
+    },
+    "version-0.64-releases": {
+      "id": "version-0.64-releases",
+      "title": "Release Strategy",
+      "description": "For every major version update of react-native, React Native for Windows releases a matching version. In addition, there are three release distributions with corresponding npm package distribution tags:"
+    },
+    "version-0.64-rnm-dependencies": {
+      "id": "version-0.64-rnm-dependencies",
+      "title": "System Requirements",
+      "description": "You can run React Native for macOS apps on Mac devices with versions High Sierra (10.13) or newer."
+    },
+    "version-0.64-rnm-getting-started": {
+      "id": "version-0.64-rnm-getting-started",
+      "title": "Get Started with macOS",
+      "description": "This guide will help you get started on setting up your very first React Native for macOS app."
+    },
+    "version-0.64-rnw-dependencies": {
+      "id": "version-0.64-rnw-dependencies",
+      "title": "System Requirements",
+      "description": "You can run React-Native for Windows apps only on Windows 10 devices with Windows version: 10.0.16299.0 (aka 1709, aka Redstone 3, aka Fall Creators Update) or higher. Some features may not work on all versions. See Windows 10 Compatibility for version support details."
+    },
+    "version-0.64-supported-community-modules": {
+      "id": "version-0.64-supported-community-modules",
+      "title": "Supported Community Modules",
+      "description": "ReactNative.Directory"
+    },
+    "version-0.64-SyncMethodDelegate": {
+      "id": "version-0.64-SyncMethodDelegate",
+      "title": "SyncMethodDelegate",
+      "description": "Kind: delegate"
+    },
+    "version-0.64-view-managers": {
+      "id": "version-0.64-view-managers",
+      "title": "Native UI Components",
+      "description": "This documentation and the underlying platform code is a work in progress."
+    },
+    "version-0.64-ViewControl": {
+      "id": "version-0.64-ViewControl",
+      "title": "ViewControl",
+      "description": "Kind: class"
+    },
+    "version-0.64-ViewManagerPropertyType": {
+      "id": "version-0.64-ViewManagerPropertyType",
+      "title": "ViewManagerPropertyType",
+      "description": "Kind: enum"
+    },
+    "version-0.64-ViewPanel": {
+      "id": "version-0.64-ViewPanel",
+      "title": "ViewPanel",
+      "description": "Kind: class"
+    },
+    "version-0.64-win10-compat": {
+      "id": "version-0.64-win10-compat",
+      "title": "Backward compatibility with Windows versions",
+      "description": "React Native for Windows supports devices running on Windows 10 and higher."
+    },
+    "version-0.64-win10-vm": {
+      "id": "version-0.64-win10-vm",
+      "title": "Developing Windows apps on a non-Windows PC",
+      "description": "It is possible to develop Windows apps on a non-Windows PC by using a virtual machine. The virtual machine can run either locally or on Azure."
+    },
+    "version-0.64-windowsbrush-and-theme": {
+      "id": "version-0.64-windowsbrush-and-theme",
+      "title": "Using PlatformColor and Responding to Themes",
+      "description": "Overview"
+    },
+    "version-0.64-winui3": {
+      "id": "version-0.64-winui3",
+      "title": "WinUI 3",
+      "description": "WinUI is the modern native UI platform of Windows. For more information about WinUI 3 see this link."
+    },
+    "version-0.64-XamlHelper": {
+      "id": "version-0.64-XamlHelper",
+      "title": "XamlHelper",
+      "description": "Kind: class"
+    },
+    "version-0.64-XamlMetaDataProvider": {
+      "id": "version-0.64-XamlMetaDataProvider",
+      "title": "XamlMetaDataProvider",
+      "description": "Kind: class"
+    },
+    "version-0.64-XamlUIService": {
+      "id": "version-0.64-XamlUIService",
+      "title": "XamlUIService",
+      "description": "Kind: class"
+    }
+  }
+}

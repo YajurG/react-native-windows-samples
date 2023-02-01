@@ -1,0 +1,22 @@
+{
+  "unversionedId": "version-0.62-ijsvaluewriter-api",
+  "id": "version-0.62/version-0.62-ijsvaluewriter-api",
+  "title": "IJSValueWriter",
+  "description": "`IJSValueWriter` is used to read data from JavaScript in custom NativeModules.  It acts as a stream.",
+  "source": "@site/versioned_docs/version-0.62/IJSValueWriter-api-windows.md",
+  "sourceDirName": ".",
+  "slug": "/version-0.62-ijsvaluewriter-api",
+  "permalink": "/react-native-windows/docs/0.62/version-0.62-ijsvaluewriter-api",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/versioned_docs/version-0.62/IJSValueWriter-api-windows.md",
+  "tags": [],
+  "version": "0.62",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "version-0.62-ijsvaluewriter-api",
+    "title": "IJSValueWriter",
+    "original_id": "ijsvaluewriter-api"
+  }
+}

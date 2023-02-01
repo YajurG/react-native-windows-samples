@@ -9,7 +9,7 @@ Kind: `interface`
 
 ## Properties
 ### Commands
-`readonly`  [`IVectorView`](https://docs.microsoft.com/uwp/api/Windows.Foundation.Collections.IVectorView-1)<string> `Commands`
+`readonly`  [`IVectorView`](https://docs.microsoft.com/uwp/api/Windows.Foundation.Collections.IVectorView-1)<string> `Commands`</string>
 
 
 

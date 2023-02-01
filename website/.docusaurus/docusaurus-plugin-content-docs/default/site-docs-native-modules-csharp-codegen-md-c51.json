@@ -1,0 +1,30 @@
+{
+  "unversionedId": "native-modules-csharp-codegen",
+  "id": "native-modules-csharp-codegen",
+  "title": "Compile time code generation for C#",
+  "description": "This documentation and the underlying platform code is a work in progress.",
+  "source": "@site/../docs/native-modules-csharp-codegen.md",
+  "sourceDirName": ".",
+  "slug": "/native-modules-csharp-codegen",
+  "permalink": "/react-native-windows/docs/next/native-modules-csharp-codegen",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-modules-csharp-codegen.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "native-modules-csharp-codegen",
+    "title": "Compile time code generation for C#"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using JSValue",
+    "permalink": "/react-native-windows/docs/next/native-modules-jsvalue"
+  },
+  "next": {
+    "title": "Developing Windows apps on a non-Windows PC",
+    "permalink": "/react-native-windows/docs/next/win10-vm"
+  }
+}

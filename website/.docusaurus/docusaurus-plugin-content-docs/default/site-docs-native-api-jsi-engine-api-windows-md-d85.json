@@ -1,0 +1,21 @@
+{
+  "unversionedId": "native-api/JSIEngine",
+  "id": "native-api/JSIEngine",
+  "title": "JSIEngine",
+  "description": "Kind: enum",
+  "source": "@site/../docs/native-api/JSIEngine-api-windows.md",
+  "sourceDirName": "native-api",
+  "slug": "/native-api/JSIEngine",
+  "permalink": "/react-native-windows/docs/next/native-api/JSIEngine",
+  "draft": false,
+  "editUrl": "https://github.com/microsoft/react-native-windows-samples/blob/main/docs/../docs/native-api/JSIEngine-api-windows.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "id": "JSIEngine",
+    "title": "JSIEngine"
+  }
+}
