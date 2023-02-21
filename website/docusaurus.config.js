@@ -153,12 +153,12 @@ module.exports={
       },
       "items": [
         {
-          "to": "docs/getting-started",
+          "to": "docs/next/getting-started",
           "label": "Docs",
           "position": "left"
         },
         {
-          "to": "docs/flyout-component",
+          "to": "docs/next/flyout-component",
           "label": "APIs",
           "position": "left"
         },
